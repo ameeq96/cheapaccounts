@@ -26,15 +26,15 @@
     "noResults": "No products match these filters.",
     "homeEyebrow": "YOUR DIGITAL STOREFRONT",
     "homeTitle": "Digital plans. Clear choices.",
-    "homeIntro": "Compare current Opplex and Filex IPTV plans, check the details that matter to your setup, and review your selection before checkout on Opplexify.",
+    "homeIntro": "Compare current Opplex and Filex IPTV plans with checkout on Opplexify. Or ask about OTT and AI plans, and confirm country eligibility, billing and availability with support.",
     "shopPlans": "Shop IPTV plans",
     "howItWorks": "How checkout works",
     "availableNow": "Available now",
     "categoryHeading": "Find your category",
     "iptvSummary": "Compare available providers and subscription lengths.",
-    "chatgptSummary": "Product options and pricing have not been published yet.",
-    "netflixSummary": "This category is being prepared. Orders are not available.",
-    "hboSummary": "Availability and product details will appear here when confirmed.",
+    "chatgptSummary": "Ask about ChatGPT plans and confirm the right option, billing period and country eligibility.",
+    "netflixSummary": "Ask about Netflix plan options and confirm availability for your country.",
+    "hboSummary": "Ask about HBO Max plans, billing periods and availability in your country.",
     "planHeading": "A plan for your next step.",
     "planIntro": "Current prices and availability come from the Opplex catalogue. Review the provider, duration and full amount before paying.",
     "currentCatalogue": "Current catalogue",
@@ -90,7 +90,7 @@
     "helpBody": "Tell support your device, player and the plan you are considering. For an existing purchase, use private order support.",
     "contactSupport": "Contact support",
     "trackOrder": "Track an order",
-    "footerIntro": "A focused storefront for current IPTV plans and future digital categories.",
+    "footerIntro": "Current IPTV plans, plus OTT and AI subscription enquiries in one place.",
     "sharedSupport": "Plans and order support use the central Opplex systems. Payment checkout opens on Opplexify.",
     "legal": "Policies",
     "privacy": "Privacy policy",
@@ -116,11 +116,11 @@
     "pages": {
       "about": {
         "title": "About Cheap Accounts",
-        "intro": "Cheap Accounts brings current IPTV choices and clearly marked future categories into one straightforward storefront.",
+        "intro": "Cheap Accounts brings current IPTV plans and OTT and AI subscription enquiries into one straightforward storefront.",
         "sections": [
           {
             "heading": "A focused starting point",
-            "body": "Browse Opplex and Filex as separate services, compare the subscription length and current amount, and ask about your device before buying. ChatGPT, Netflix and HBO Max are Coming soon, with ordering disabled."
+            "body": "Browse Opplex and Filex as separate services, compare the subscription length and current amount, and ask about your device before buying. Ask about ChatGPT, Netflix, HBO Max and other OTT or AI plans on WhatsApp; confirm availability, country eligibility and terms before buying."
           },
           {
             "heading": "Connected order support",
@@ -148,7 +148,7 @@
         "sections": [
           {
             "heading": "What can I order today?",
-            "body": "Only the currently available Opplex and Filex IPTV plans can be added to the cart. ChatGPT, Netflix and HBO Max are Coming soon; no prices or availability dates are promised."
+            "body": "Only the currently available Opplex and Filex IPTV plans can be added to the cart. Ask about ChatGPT, Netflix, HBO Max and other OTT or AI plans on WhatsApp; confirm availability, country eligibility and terms before buying."
           },
           {
             "heading": "Can I pay for several plans together?",
@@ -162,7 +162,7 @@
       },
       "buying-guide": {
         "title": "A practical guide to choosing a digital plan",
-        "intro": "A useful purchase starts with the details you can verify today, rather than a familiar product name.",
+        "intro": "A useful purchase starts with the details you can verify today, rather than a familiar product name. For OTT and AI plans, request pricing on WhatsApp and confirm your country, billing period and terms before purchasing.",
         "sections": [
           {
             "heading": "Match the plan to your setup",
@@ -194,7 +194,7 @@
         "sections": [
           {
             "heading": "Know the product being selected",
-            "body": "The available plans identify Opplex or Filex, duration and current price. A player application may have separate requirements or fees. Coming soon categories cannot be ordered and do not confirm future availability."
+            "body": "The available plans identify Opplex or Filex, duration and current price. A player application may have separate requirements or fees. OTT and AI listings accept enquiries only; confirm availability and supply terms before any purchase."
           },
           {
             "heading": "Check the final order",
@@ -216,7 +216,45 @@
           }
         ]
       }
-    }
+    },
+    "ott": "OTT subscriptions",
+    "ai": "AI tools",
+    "ottSummary": "Explore OTT plan options and ask about current pricing and country availability.",
+    "aiSummary": "Compare AI subscription options and ask about eligibility, billing and current pricing.",
+    "requestPricing": "Request pricing",
+    "enquiryOnly": "Enquiry only",
+    "enquiryHeading": "Ask about your next subscription",
+    "enquiryIntro": "Ask about your chosen plan. Confirm country eligibility, billing period and availability before purchasing.",
+    "choosePlan": "Choose a plan",
+    "officialDetails": "Official plan details",
+    "availabilityOnRequest": "Confirm availability",
+    "quoteNote": "WhatsApp opens with your selected product and plan. You decide whether to send the message.",
+    "whatsappSupport": "Ask us on WhatsApp",
+    "whatsappGeneralMessage": "Hello, I’m visiting cheapaccounts.shop. Please help me check current pricing and availability.",
+    "whatsappProductMessage": "Hello, I’d like current pricing and availability for {product}, plan {plan}, from cheapaccounts.shop. Please confirm country eligibility, billing period and terms.",
+    "quotePhoneUnavailable": "WhatsApp is temporarily unavailable. Please contact support instead.",
+    "noStockClaim": "Enquiries only. Confirm availability and supply terms with support. Brand names do not imply an official partnership.",
+    "subscriptionEnquiry": "Subscription enquiry",
+    "premiumEnquiry": "Premium option enquiry",
+    "chatSetupEnquiry": "Chat setup enquiry",
+    "apiUsageEnquiry": "API usage enquiry",
+    "netflixHouseholdMonthly": "Confirm the monthly plan and Netflix household rules for your country.",
+    "hboMaxRegionalTiers": "Check which HBO Max tiers are offered in your country and what each includes.",
+    "ulluConfirmCurrentMembership": "Confirm the current ULLU membership term, eligibility and regional availability.",
+    "primeVideoSeparateAddons": "Prime Video subscriptions, channel add-ons, rentals and purchases may have separate charges.",
+    "disneyRegionalPlanNames": "Disney+ plan names and bundles vary by country. Confirm the option you need.",
+    "appleTvServiceNotHardware": "Ask about the Apple TV streaming subscription. Devices, rentals and other services are separate.",
+    "jioHotstarIndiaDeviceTier": "Confirm JioHotstar availability in India and the devices covered by your chosen tier.",
+    "sonyLivRegionalDeviceTerms": "Confirm your country, covered devices and subscription term for Sony LIV.",
+    "zee5ConfirmCurrentRegionalPack": "Ask which current ZEE5 pack applies in your country before choosing a term.",
+    "crunchyrollRegionalTierBenefits": "Check the benefits and device conditions of the Crunchyroll tiers offered in your country.",
+    "paramountSelectedMarkets": "Paramount+ is available in selected markets. Confirm country eligibility and plan.",
+    "peacockDistinctContentTiers": "Peacock tiers can include different content. Confirm the tier, country and billing period.",
+    "chatgptSubscriptionNotApi": "ChatGPT subscriptions and API usage have separate billing. Confirm which service you need.",
+    "claudeUsageAndAccountRequirements": "Claude plans have usage limits and account requirements. Confirm the tier and billing period.",
+    "geminiCountryAndPersonalAccount": "Confirm Google AI plan availability and personal-account eligibility in your country.",
+    "grokUnifiedSubscriptionEligibility": "Confirm the current unified subscription tier and account eligibility for Grok.",
+    "deepseekChatAndApiSeparate": "DeepSeek chat is free to use; API usage is charged separately. Ask about setup or API usage."
   },
   "es": {
     "tagline": "Opciones digitales, precios claros.",
@@ -245,15 +283,15 @@
     "noResults": "Ningún producto coincide con estos filtros.",
     "homeEyebrow": "TU TIENDA DIGITAL",
     "homeTitle": "Planes digitales. Opciones claras.",
-    "homeIntro": "Compara los planes IPTV actuales de Opplex y Filex, revisa los detalles de tu instalación y confirma tu selección antes de pagar en Opplexify.",
+    "homeIntro": "Compara los planes IPTV actuales de Opplex y Filex con pago en Opplexify. O consulta planes OTT y de IA y confirma los requisitos de tu país, la facturación y la disponibilidad con atención al cliente.",
     "shopPlans": "Ver planes IPTV",
     "howItWorks": "Cómo funciona el pago",
     "availableNow": "Disponible ahora",
     "categoryHeading": "Encuentra tu categoría",
     "iptvSummary": "Compara proveedores y duraciones disponibles.",
-    "chatgptSummary": "Las opciones de producto y los precios aún no se han publicado.",
-    "netflixSummary": "Esta categoría está en preparación. No admite pedidos.",
-    "hboSummary": "Los productos y su disponibilidad aparecerán cuando se confirmen.",
+    "chatgptSummary": "Consulta los planes de ChatGPT y confirma la opción adecuada, el periodo de facturación y los requisitos de tu país.",
+    "netflixSummary": "Consulta las opciones de planes de Netflix y confirma la disponibilidad en tu país.",
+    "hboSummary": "Consulta los planes de HBO Max, sus periodos de facturación y la disponibilidad en tu país.",
     "planHeading": "Un plan para tu siguiente paso.",
     "planIntro": "Precios y disponibilidad actuales del catálogo Opplex. Revisa proveedor, duración e importe completo antes de pagar.",
     "currentCatalogue": "Catálogo actual",
@@ -309,7 +347,7 @@
     "helpBody": "Indica a soporte tu dispositivo, reproductor y el plan que consideras. Para una compra existente, usa el soporte privado de pedidos.",
     "contactSupport": "Contactar con soporte",
     "trackOrder": "Consultar un pedido",
-    "footerIntro": "Una tienda centrada en planes IPTV actuales y futuras categorías digitales.",
+    "footerIntro": "Planes IPTV actuales y consultas sobre suscripciones OTT y de IA en un solo lugar.",
     "sharedSupport": "Los planes y pedidos usan los sistemas centrales Opplex. El pago se abre en Opplexify.",
     "legal": "Políticas",
     "privacy": "Política de privacidad",
@@ -335,11 +373,11 @@
     "pages": {
       "about": {
         "title": "Sobre Cheap Accounts",
-        "intro": "Cheap Accounts reúne opciones IPTV actuales y futuras categorías claramente indicadas en una tienda sencilla.",
+        "intro": "Cheap Accounts reúne planes IPTV actuales y consultas sobre suscripciones OTT y de IA en una tienda sencilla.",
         "sections": [
           {
             "heading": "Un punto de partida concreto",
-            "body": "Compara Opplex y Filex por separado, revisa duración e importe y pregunta por tu dispositivo antes de comprar. ChatGPT, Netflix y HBO Max están marcados Próximamente y no admiten pedidos."
+            "body": "Compara Opplex y Filex por separado, revisa duración e importe y pregunta por tu dispositivo antes de comprar. Consulta ChatGPT, Netflix, HBO Max y otros planes OTT o de IA por WhatsApp; confirma disponibilidad, requisitos de tu país y condiciones antes de comprar."
           },
           {
             "heading": "Soporte conectado",
@@ -367,7 +405,7 @@
         "sections": [
           {
             "heading": "¿Qué puedo pedir hoy?",
-            "body": "Solo los planes IPTV Opplex y Filex actualmente disponibles se pueden añadir al carrito. ChatGPT, Netflix y HBO Max están en preparación, sin precios ni fechas de disponibilidad prometidos."
+            "body": "Solo los planes IPTV Opplex y Filex actualmente disponibles se pueden añadir al carrito. Consulta ChatGPT, Netflix, HBO Max y otros planes OTT o de IA por WhatsApp; confirma disponibilidad, requisitos de tu país y condiciones antes de comprar."
           },
           {
             "heading": "¿Puedo pagar varios planes juntos?",
@@ -381,7 +419,7 @@
       },
       "buying-guide": {
         "title": "Guía práctica para elegir un plan digital",
-        "intro": "Una compra útil empieza por detalles verificables hoy, no solo por un nombre conocido.",
+        "intro": "Una compra útil empieza por detalles verificables hoy, no solo por un nombre conocido. Para los planes OTT y de IA, consulta el precio por WhatsApp y confirma tu país, el periodo de facturación y las condiciones antes de comprar.",
         "sections": [
           {
             "heading": "Adapta el plan a tu instalación",
@@ -413,7 +451,7 @@
         "sections": [
           {
             "heading": "Comprende el producto",
-            "body": "Los planes disponibles indican Opplex o Filex, duración y precio actual. El reproductor puede tener requisitos y costes propios. Las categorías Próximamente no admiten pedidos ni confirman disponibilidad futura."
+            "body": "Los planes disponibles indican Opplex o Filex, duración y precio actual. El reproductor puede tener requisitos y costes propios. Los productos OTT y de IA solo admiten consultas; confirma disponibilidad y condiciones antes de cualquier compra."
           },
           {
             "heading": "Comprueba el pedido final",
@@ -435,7 +473,45 @@
           }
         ]
       }
-    }
+    },
+    "ott": "Suscripciones OTT",
+    "ai": "Herramientas de IA",
+    "ottSummary": "Explora las opciones OTT y consulta el precio actual y la disponibilidad en tu país.",
+    "aiSummary": "Compara las suscripciones de IA y consulta requisitos, facturación y precios actuales.",
+    "requestPricing": "Consultar precio",
+    "enquiryOnly": "Solo consultas",
+    "enquiryHeading": "Consulta tu próxima suscripción",
+    "enquiryIntro": "Consulta el plan que te interesa. Confirma los requisitos de tu país, el periodo de facturación y la disponibilidad antes de comprar.",
+    "choosePlan": "Elige un plan",
+    "officialDetails": "Detalles de los planes oficiales",
+    "availabilityOnRequest": "Confirmar disponibilidad",
+    "quoteNote": "WhatsApp se abre con el producto y el plan elegidos. Tú decides si envías el mensaje.",
+    "whatsappSupport": "Consúltanos por WhatsApp",
+    "whatsappGeneralMessage": "Hola, estoy visitando cheapaccounts.shop. Quisiera consultar los precios y la disponibilidad actuales.",
+    "whatsappProductMessage": "Hola, quisiera consultar el precio y la disponibilidad actuales de {product}, plan {plan}, desde cheapaccounts.shop. Confirmen los requisitos de mi país, el periodo de facturación y las condiciones.",
+    "quotePhoneUnavailable": "WhatsApp no está disponible temporalmente. Contacta con atención al cliente.",
+    "noStockClaim": "Solo consultas. Confirma la disponibilidad y las condiciones con atención al cliente. Los nombres de las marcas no implican una colaboración oficial.",
+    "subscriptionEnquiry": "Consulta de suscripción",
+    "premiumEnquiry": "Consulta de opción prémium",
+    "chatSetupEnquiry": "Consulta de configuración del chat",
+    "apiUsageEnquiry": "Consulta de uso de la API",
+    "netflixHouseholdMonthly": "Confirma el plan mensual y las normas del hogar de Netflix para tu país.",
+    "hboMaxRegionalTiers": "Comprueba qué planes de HBO Max se ofrecen en tu país y qué incluye cada uno.",
+    "ulluConfirmCurrentMembership": "Confirma la duración de la suscripción ULLU, sus requisitos y la disponibilidad regional.",
+    "primeVideoSeparateAddons": "La suscripción Prime Video, los canales adicionales, los alquileres y las compras pueden tener cargos separados.",
+    "disneyRegionalPlanNames": "Los nombres de los planes y los paquetes Disney+ varían según el país. Confirma la opción que necesitas.",
+    "appleTvServiceNotHardware": "Consulta la suscripción de streaming Apple TV. Los dispositivos, alquileres y otros servicios se gestionan por separado.",
+    "jioHotstarIndiaDeviceTier": "Confirma la disponibilidad de JioHotstar en India y los dispositivos cubiertos por el plan elegido.",
+    "sonyLivRegionalDeviceTerms": "Confirma tu país, los dispositivos incluidos y la duración de la suscripción Sony LIV.",
+    "zee5ConfirmCurrentRegionalPack": "Pregunta qué paquete ZEE5 actual corresponde a tu país antes de elegir una duración.",
+    "crunchyrollRegionalTierBenefits": "Consulta las ventajas y condiciones de dispositivos de los planes Crunchyroll ofrecidos en tu país.",
+    "paramountSelectedMarkets": "Paramount+ está disponible en determinados mercados. Confirma los requisitos de tu país y el plan.",
+    "peacockDistinctContentTiers": "Los planes Peacock pueden incluir contenidos distintos. Confirma el plan, el país y el periodo de facturación.",
+    "chatgptSubscriptionNotApi": "La suscripción ChatGPT y el uso de la API se facturan por separado. Confirma qué servicio necesitas.",
+    "claudeUsageAndAccountRequirements": "Los planes Claude tienen límites de uso y requisitos de cuenta. Confirma el plan y el periodo de facturación.",
+    "geminiCountryAndPersonalAccount": "Confirma la disponibilidad de Google AI y los requisitos de cuenta personal en tu país.",
+    "grokUnifiedSubscriptionEligibility": "Confirma el plan de suscripción unificada actual y los requisitos de cuenta para Grok.",
+    "deepseekChatAndApiSeparate": "El chat DeepSeek es gratuito; el uso de la API se cobra aparte. Consulta la configuración o el uso de la API."
   },
   "fr": {
     "tagline": "Des choix numériques, des prix clairs.",
@@ -464,15 +540,15 @@
     "noResults": "Aucun produit ne correspond à ces filtres.",
     "homeEyebrow": "VOTRE BOUTIQUE NUMÉRIQUE",
     "homeTitle": "Des offres numériques. Un choix clair.",
-    "homeIntro": "Comparez les offres IPTV actuelles Opplex et Filex, vérifiez les détails de votre installation et revoyez votre sélection avant le paiement sur Opplexify.",
+    "homeIntro": "Comparez les offres IPTV actuelles d’Opplex et de Filex, avec paiement sur Opplexify. Ou renseignez-vous sur les abonnements OTT et d’IA, puis confirmez les conditions d’accès dans votre pays, la facturation et la disponibilité auprès de l’assistance.",
     "shopPlans": "Voir les offres IPTV",
     "howItWorks": "Comment payer",
     "availableNow": "Disponible maintenant",
     "categoryHeading": "Trouvez votre catégorie",
     "iptvSummary": "Comparez les fournisseurs et durées disponibles.",
-    "chatgptSummary": "Les produits et tarifs ne sont pas encore publiés.",
-    "netflixSummary": "Cette catégorie est en préparation. Les commandes sont indisponibles.",
-    "hboSummary": "Produits et disponibilité seront affichés après confirmation.",
+    "chatgptSummary": "Renseignez-vous sur les formules ChatGPT et confirmez l’option adaptée, la facturation et les conditions d’accès dans votre pays.",
+    "netflixSummary": "Renseignez-vous sur les formules Netflix et confirmez leur disponibilité dans votre pays.",
+    "hboSummary": "Renseignez-vous sur les formules HBO Max, leur facturation et leur disponibilité dans votre pays.",
     "planHeading": "Une offre pour la suite.",
     "planIntro": "Prix et disponibilités actuels du catalogue Opplex. Vérifiez fournisseur, durée et montant total avant de payer.",
     "currentCatalogue": "Catalogue actuel",
@@ -528,7 +604,7 @@
     "helpBody": "Indiquez à l’assistance votre appareil, lecteur et offre envisagée. Pour un achat existant, utilisez l’assistance privée des commandes.",
     "contactSupport": "Contacter l’assistance",
     "trackOrder": "Consulter une commande",
-    "footerIntro": "Une boutique ciblée sur les offres IPTV actuelles et de futures catégories numériques.",
+    "footerIntro": "Offres IPTV actuelles et renseignements sur les abonnements OTT et d’IA, au même endroit.",
     "sharedSupport": "Offres et assistance des commandes utilisent les systèmes centraux Opplex. Le paiement s’ouvre sur Opplexify.",
     "legal": "Politiques",
     "privacy": "Confidentialité",
@@ -554,11 +630,11 @@
     "pages": {
       "about": {
         "title": "À propos de Cheap Accounts",
-        "intro": "Cheap Accounts réunit les offres IPTV actuelles et des catégories futures clairement signalées dans une boutique simple.",
+        "intro": "Cheap Accounts réunit les offres IPTV actuelles et les renseignements sur les abonnements OTT et d’IA dans une boutique simple.",
         "sections": [
           {
             "heading": "Un point de départ précis",
-            "body": "Comparez Opplex et Filex séparément, examinez durée et total et demandez conseil pour votre appareil avant d’acheter. ChatGPT, Netflix et HBO Max sont annoncés pour bientôt, sans commande possible."
+            "body": "Comparez Opplex et Filex séparément, examinez durée et total et demandez conseil pour votre appareil avant d’acheter. Renseignez-vous sur ChatGPT, Netflix, HBO Max et les autres formules OTT ou d’IA sur WhatsApp ; confirmez la disponibilité, les conditions d’accès dans votre pays et les modalités avant achat."
           },
           {
             "heading": "Une assistance reliée aux commandes",
@@ -586,7 +662,7 @@
         "sections": [
           {
             "heading": "Que puis-je commander aujourd’hui ?",
-            "body": "Seules les offres IPTV Opplex et Filex actuellement disponibles peuvent rejoindre le panier. ChatGPT, Netflix et HBO Max arrivent prochainement, sans tarif ni date de disponibilité promis."
+            "body": "Seules les offres IPTV Opplex et Filex actuellement disponibles peuvent rejoindre le panier. Renseignez-vous sur ChatGPT, Netflix, HBO Max et les autres formules OTT ou d’IA sur WhatsApp ; confirmez la disponibilité, les conditions d’accès dans votre pays et les modalités avant achat."
           },
           {
             "heading": "Puis-je payer plusieurs offres ensemble ?",
@@ -600,7 +676,7 @@
       },
       "buying-guide": {
         "title": "Guide pratique pour choisir une offre numérique",
-        "intro": "Un achat utile commence par des détails vérifiables aujourd’hui, pas seulement par un nom familier.",
+        "intro": "Un achat utile commence par des détails vérifiables aujourd’hui, pas seulement par un nom familier. Pour les formules OTT et d’IA, demandez le tarif sur WhatsApp et confirmez votre pays, la période de facturation et les conditions avant achat.",
         "sections": [
           {
             "heading": "Adaptez l’offre à votre installation",
@@ -632,7 +708,7 @@
         "sections": [
           {
             "heading": "Comprenez le produit choisi",
-            "body": "Les offres indiquent Opplex ou Filex, la durée et le prix actuel. Le lecteur peut avoir ses propres exigences et frais. Les catégories à venir ne peuvent pas être commandées et ne confirment pas une disponibilité future."
+            "body": "Les offres indiquent Opplex ou Filex, la durée et le prix actuel. Le lecteur peut avoir ses propres exigences et frais. Les produits OTT et d’IA acceptent uniquement les demandes de renseignements ; confirmez la disponibilité et les conditions avant tout achat."
           },
           {
             "heading": "Vérifiez la commande finale",
@@ -654,7 +730,45 @@
           }
         ]
       }
-    }
+    },
+    "ott": "Abonnements OTT",
+    "ai": "Outils d’IA",
+    "ottSummary": "Découvrez les formules OTT et renseignez-vous sur les tarifs et la disponibilité dans votre pays.",
+    "aiSummary": "Comparez les abonnements d’IA et renseignez-vous sur les conditions d’accès, la facturation et les tarifs actuels.",
+    "requestPricing": "Demander un tarif",
+    "enquiryOnly": "Renseignements uniquement",
+    "enquiryHeading": "Renseignez-vous sur votre prochain abonnement",
+    "enquiryIntro": "Renseignez-vous sur la formule souhaitée. Confirmez les conditions d’accès dans votre pays, la période de facturation et la disponibilité avant tout achat.",
+    "choosePlan": "Choisir une formule",
+    "officialDetails": "Détails des formules officielles",
+    "availabilityOnRequest": "Confirmer la disponibilité",
+    "quoteNote": "WhatsApp s’ouvre avec le produit et la formule choisis. Vous décidez d’envoyer ou non le message.",
+    "whatsappSupport": "Nous contacter sur WhatsApp",
+    "whatsappGeneralMessage": "Bonjour, je consulte cheapaccounts.shop. Je souhaite connaître les tarifs et la disponibilité actuels.",
+    "whatsappProductMessage": "Bonjour, je souhaite connaître le tarif et la disponibilité actuels de {product}, formule {plan}, depuis cheapaccounts.shop. Merci de confirmer les conditions d’accès dans mon pays, la période de facturation et les modalités.",
+    "quotePhoneUnavailable": "WhatsApp est temporairement indisponible. Veuillez contacter l’assistance.",
+    "noStockClaim": "Demandes de renseignements uniquement. Confirmez la disponibilité et les conditions auprès de l’assistance. Les noms de marques n’impliquent aucun partenariat officiel.",
+    "subscriptionEnquiry": "Renseignements sur l’abonnement",
+    "premiumEnquiry": "Renseignements sur l’option premium",
+    "chatSetupEnquiry": "Aide à la configuration du chat",
+    "apiUsageEnquiry": "Renseignements sur l’utilisation de l’API",
+    "netflixHouseholdMonthly": "Confirmez la formule mensuelle et les règles du foyer Netflix applicables dans votre pays.",
+    "hboMaxRegionalTiers": "Vérifiez les formules HBO Max proposées dans votre pays et ce que chacune comprend.",
+    "ulluConfirmCurrentMembership": "Confirmez la durée de l’abonnement ULLU, les conditions d’accès et la disponibilité régionale.",
+    "primeVideoSeparateAddons": "L’abonnement Prime Video, les chaînes supplémentaires, les locations et les achats peuvent entraîner des frais distincts.",
+    "disneyRegionalPlanNames": "Les noms des formules et les offres groupées Disney+ varient selon le pays. Confirmez l’option souhaitée.",
+    "appleTvServiceNotHardware": "Renseignez-vous sur l’abonnement de streaming Apple TV. Les appareils, locations et autres services sont distincts.",
+    "jioHotstarIndiaDeviceTier": "Confirmez la disponibilité de JioHotstar en Inde et les appareils couverts par la formule choisie.",
+    "sonyLivRegionalDeviceTerms": "Confirmez votre pays, les appareils couverts et la durée de l’abonnement Sony LIV.",
+    "zee5ConfirmCurrentRegionalPack": "Demandez quelle offre ZEE5 actuelle s’applique dans votre pays avant de choisir une durée.",
+    "crunchyrollRegionalTierBenefits": "Vérifiez les avantages et les conditions d’utilisation des appareils des formules Crunchyroll proposées dans votre pays.",
+    "paramountSelectedMarkets": "Paramount+ est disponible dans certains marchés. Confirmez les conditions d’accès dans votre pays et la formule.",
+    "peacockDistinctContentTiers": "Les formules Peacock peuvent comprendre des contenus différents. Confirmez la formule, le pays et la période de facturation.",
+    "chatgptSubscriptionNotApi": "L’abonnement ChatGPT et l’utilisation de l’API sont facturés séparément. Confirmez le service souhaité.",
+    "claudeUsageAndAccountRequirements": "Les formules Claude ont des limites d’utilisation et des exigences de compte. Confirmez la formule et la période de facturation.",
+    "geminiCountryAndPersonalAccount": "Confirmez la disponibilité des offres Google AI et l’éligibilité de votre compte personnel dans votre pays.",
+    "grokUnifiedSubscriptionEligibility": "Confirmez la formule actuelle de l’abonnement unifié et l’éligibilité du compte pour Grok.",
+    "deepseekChatAndApiSeparate": "Le chat DeepSeek est gratuit ; l’utilisation de l’API est facturée séparément. Renseignez-vous sur la configuration ou l’usage de l’API."
   },
   "it": {
     "tagline": "Scelte digitali, prezzi chiari.",
@@ -683,15 +797,15 @@
     "noResults": "Nessun prodotto corrisponde ai filtri.",
     "homeEyebrow": "IL TUO NEGOZIO DIGITALE",
     "homeTitle": "Piani digitali. Scelte chiare.",
-    "homeIntro": "Confronta gli attuali piani IPTV Opplex e Filex, verifica ciò che conta per la tua configurazione e rivedi la scelta prima del pagamento su Opplexify.",
+    "homeIntro": "Confronta i piani IPTV attuali di Opplex e Filex, con pagamento su Opplexify. Oppure chiedi informazioni sui piani OTT e di IA e conferma requisiti del tuo paese, fatturazione e disponibilità con l’assistenza.",
     "shopPlans": "Esplora i piani IPTV",
     "howItWorks": "Come funziona il pagamento",
     "availableNow": "Disponibile ora",
     "categoryHeading": "Trova la tua categoria",
     "iptvSummary": "Confronta fornitori e durate disponibili.",
-    "chatgptSummary": "Opzioni e prezzi dei prodotti non sono ancora pubblicati.",
-    "netflixSummary": "La categoria è in preparazione. Gli ordini non sono disponibili.",
-    "hboSummary": "Disponibilità e dettagli appariranno dopo la conferma.",
+    "chatgptSummary": "Chiedi informazioni sui piani ChatGPT e conferma l’opzione adatta, la fatturazione e i requisiti del tuo paese.",
+    "netflixSummary": "Chiedi informazioni sui piani Netflix e conferma la disponibilità nel tuo paese.",
+    "hboSummary": "Chiedi informazioni sui piani HBO Max, sulla fatturazione e sulla disponibilità nel tuo paese.",
     "planHeading": "Un piano per il prossimo passo.",
     "planIntro": "Prezzi e disponibilità attuali dal catalogo Opplex. Rivedi fornitore, durata e importo completo prima di pagare.",
     "currentCatalogue": "Catalogo attuale",
@@ -747,7 +861,7 @@
     "helpBody": "Indica all’assistenza dispositivo, lettore e piano che stai valutando. Per un acquisto esistente usa il supporto privato degli ordini.",
     "contactSupport": "Contatta l’assistenza",
     "trackOrder": "Consulta un ordine",
-    "footerIntro": "Un negozio dedicato ai piani IPTV attuali e a future categorie digitali.",
+    "footerIntro": "Piani IPTV attuali e richieste sugli abbonamenti OTT e di IA in un unico posto.",
     "sharedSupport": "Piani e assistenza ordini usano i sistemi centrali Opplex. Il pagamento si apre su Opplexify.",
     "legal": "Politiche",
     "privacy": "Privacy",
@@ -773,11 +887,11 @@
     "pages": {
       "about": {
         "title": "Chi è Cheap Accounts",
-        "intro": "Cheap Accounts riunisce i piani IPTV attuali e le future categorie chiaramente segnalate in un negozio semplice.",
+        "intro": "Cheap Accounts riunisce i piani IPTV attuali e le richieste sugli abbonamenti OTT e di IA in un negozio semplice.",
         "sections": [
           {
             "heading": "Un punto di partenza concreto",
-            "body": "Confronta Opplex e Filex separatamente, verifica durata e totale e chiedi del tuo dispositivo prima di acquistare. ChatGPT, Netflix e HBO Max sono In arrivo e non ordinabili."
+            "body": "Confronta Opplex e Filex separatamente, verifica durata e totale e chiedi del tuo dispositivo prima di acquistare. Chiedi di ChatGPT, Netflix, HBO Max e altri piani OTT o di IA su WhatsApp; conferma disponibilità, requisiti del tuo paese e condizioni prima di acquistare."
           },
           {
             "heading": "Assistenza collegata agli ordini",
@@ -805,7 +919,7 @@
         "sections": [
           {
             "heading": "Cosa posso ordinare oggi?",
-            "body": "Solo i piani IPTV Opplex e Filex attualmente disponibili possono entrare nel carrello. ChatGPT, Netflix e HBO Max sono In arrivo, senza prezzi o date di disponibilità promessi."
+            "body": "Solo i piani IPTV Opplex e Filex attualmente disponibili possono entrare nel carrello. Chiedi di ChatGPT, Netflix, HBO Max e altri piani OTT o di IA su WhatsApp; conferma disponibilità, requisiti del tuo paese e condizioni prima di acquistare."
           },
           {
             "heading": "Posso pagare più piani insieme?",
@@ -819,7 +933,7 @@
       },
       "buying-guide": {
         "title": "Guida pratica alla scelta di un piano digitale",
-        "intro": "Un acquisto utile parte da dettagli verificabili oggi, non soltanto da un nome familiare.",
+        "intro": "Un acquisto utile parte da dettagli verificabili oggi, non soltanto da un nome familiare. Per i piani OTT e di IA, richiedi il prezzo su WhatsApp e conferma paese, periodo di fatturazione e condizioni prima di acquistare.",
         "sections": [
           {
             "heading": "Abbina il piano alla configurazione",
@@ -851,7 +965,7 @@
         "sections": [
           {
             "heading": "Comprendi il prodotto selezionato",
-            "body": "I piani indicano Opplex o Filex, durata e prezzo attuale. Il lettore può avere requisiti e costi propri. Le categorie In arrivo non sono ordinabili e non confermano disponibilità futura."
+            "body": "I piani indicano Opplex o Filex, durata e prezzo attuale. Il lettore può avere requisiti e costi propri. Le proposte OTT e di IA accettano solo richieste di informazioni; conferma disponibilità e condizioni prima di qualsiasi acquisto."
           },
           {
             "heading": "Controlla l’ordine finale",
@@ -873,7 +987,45 @@
           }
         ]
       }
-    }
+    },
+    "ott": "Abbonamenti OTT",
+    "ai": "Strumenti di IA",
+    "ottSummary": "Esplora i piani OTT e chiedi informazioni sui prezzi attuali e sulla disponibilità nel tuo paese.",
+    "aiSummary": "Confronta gli abbonamenti di IA e chiedi informazioni su requisiti, fatturazione e prezzi attuali.",
+    "requestPricing": "Richiedi il prezzo",
+    "enquiryOnly": "Solo informazioni",
+    "enquiryHeading": "Chiedi del tuo prossimo abbonamento",
+    "enquiryIntro": "Chiedi informazioni sul piano che ti interessa. Prima di acquistare, conferma i requisiti del tuo paese, il periodo di fatturazione e la disponibilità.",
+    "choosePlan": "Scegli un piano",
+    "officialDetails": "Dettagli dei piani ufficiali",
+    "availabilityOnRequest": "Conferma la disponibilità",
+    "quoteNote": "WhatsApp si apre con il prodotto e il piano scelti. Decidi tu se inviare il messaggio.",
+    "whatsappSupport": "Scrivici su WhatsApp",
+    "whatsappGeneralMessage": "Ciao, sto visitando cheapaccounts.shop. Vorrei conoscere prezzi e disponibilità attuali.",
+    "whatsappProductMessage": "Ciao, vorrei conoscere prezzo e disponibilità attuali di {product}, piano {plan}, da cheapaccounts.shop. Potete confermare i requisiti del mio paese, il periodo di fatturazione e le condizioni?",
+    "quotePhoneUnavailable": "WhatsApp non è momentaneamente disponibile. Contatta l’assistenza.",
+    "noStockClaim": "Solo richieste di informazioni. Conferma disponibilità e condizioni con l’assistenza. I nomi dei marchi non indicano una collaborazione ufficiale.",
+    "subscriptionEnquiry": "Informazioni sull’abbonamento",
+    "premiumEnquiry": "Informazioni sull’opzione premium",
+    "chatSetupEnquiry": "Informazioni sulla configurazione della chat",
+    "apiUsageEnquiry": "Informazioni sull’uso dell’API",
+    "netflixHouseholdMonthly": "Conferma il piano mensile e le regole del nucleo domestico Netflix per il tuo paese.",
+    "hboMaxRegionalTiers": "Controlla quali piani HBO Max sono offerti nel tuo paese e cosa include ciascuno.",
+    "ulluConfirmCurrentMembership": "Conferma la durata dell’abbonamento ULLU, i requisiti e la disponibilità regionale.",
+    "primeVideoSeparateAddons": "L’abbonamento Prime Video, i canali aggiuntivi, i noleggi e gli acquisti possono comportare costi separati.",
+    "disneyRegionalPlanNames": "Nomi dei piani e pacchetti Disney+ variano in base al paese. Conferma l’opzione che ti serve.",
+    "appleTvServiceNotHardware": "Chiedi dell’abbonamento streaming Apple TV. Dispositivi, noleggi e altri servizi sono separati.",
+    "jioHotstarIndiaDeviceTier": "Conferma la disponibilità di JioHotstar in India e i dispositivi inclusi nel piano scelto.",
+    "sonyLivRegionalDeviceTerms": "Conferma il paese, i dispositivi inclusi e la durata dell’abbonamento Sony LIV.",
+    "zee5ConfirmCurrentRegionalPack": "Chiedi quale pacchetto ZEE5 attuale si applica nel tuo paese prima di scegliere la durata.",
+    "crunchyrollRegionalTierBenefits": "Controlla vantaggi e condizioni dei dispositivi per i piani Crunchyroll offerti nel tuo paese.",
+    "paramountSelectedMarkets": "Paramount+ è disponibile in mercati selezionati. Conferma i requisiti del tuo paese e il piano.",
+    "peacockDistinctContentTiers": "I piani Peacock possono includere contenuti diversi. Conferma piano, paese e periodo di fatturazione.",
+    "chatgptSubscriptionNotApi": "L’abbonamento ChatGPT e l’uso dell’API hanno fatturazioni separate. Conferma il servizio che ti serve.",
+    "claudeUsageAndAccountRequirements": "I piani Claude hanno limiti di utilizzo e requisiti dell’account. Conferma piano e periodo di fatturazione.",
+    "geminiCountryAndPersonalAccount": "Conferma la disponibilità dei piani Google AI e i requisiti dell’account personale nel tuo paese.",
+    "grokUnifiedSubscriptionEligibility": "Conferma il piano attuale dell’abbonamento unificato e i requisiti dell’account per Grok.",
+    "deepseekChatAndApiSeparate": "La chat DeepSeek è gratuita; l’uso dell’API viene addebitato separatamente. Chiedi della configurazione o dell’uso dell’API."
   },
   "nl": {
     "tagline": "Digitale keuzes, duidelijke prijzen.",
@@ -902,15 +1054,15 @@
     "noResults": "Geen producten passen bij deze filters.",
     "homeEyebrow": "JOUW DIGITALE WINKEL",
     "homeTitle": "Digitale abonnementen. Duidelijke keuzes.",
-    "homeIntro": "Vergelijk de huidige IPTV-abonnementen van Opplex en Filex, controleer je installatie en bekijk je keuze voordat je via Opplexify afrekent.",
+    "homeIntro": "Vergelijk de huidige IPTV-abonnementen van Opplex en Filex met afrekenen via Opplexify. Of vraag naar OTT- en AI-abonnementen en bevestig de voorwaarden voor je land, facturering en beschikbaarheid met de klantenservice.",
     "shopPlans": "IPTV-abonnementen bekijken",
     "howItWorks": "Zo werkt afrekenen",
     "availableNow": "Nu beschikbaar",
     "categoryHeading": "Vind je categorie",
     "iptvSummary": "Vergelijk beschikbare aanbieders en looptijden.",
-    "chatgptSummary": "Productopties en prijzen zijn nog niet gepubliceerd.",
-    "netflixSummary": "Deze categorie wordt voorbereid. Bestellen is nog niet mogelijk.",
-    "hboSummary": "Beschikbaarheid en productgegevens verschijnen na bevestiging.",
+    "chatgptSummary": "Vraag naar ChatGPT-abonnementen en bevestig de juiste optie, factureringsperiode en voorwaarden voor je land.",
+    "netflixSummary": "Vraag naar Netflix-abonnementen en controleer de beschikbaarheid in je land.",
+    "hboSummary": "Vraag naar HBO Max-abonnementen, factureringsperiodes en beschikbaarheid in je land.",
     "planHeading": "Een abonnement voor je volgende stap.",
     "planIntro": "Actuele prijzen en beschikbaarheid uit de Opplex-catalogus. Controleer aanbieder, looptijd en totaalbedrag voordat je betaalt.",
     "currentCatalogue": "Actuele catalogus",
@@ -966,7 +1118,7 @@
     "helpBody": "Vertel ondersteuning welk apparaat, welke speler en welk abonnement je overweegt. Gebruik privéondersteuning voor een bestaande aankoop.",
     "contactSupport": "Ondersteuning vragen",
     "trackOrder": "Bestelling bekijken",
-    "footerIntro": "Een gerichte winkel voor huidige IPTV-abonnementen en toekomstige digitale categorieën.",
+    "footerIntro": "Huidige IPTV-abonnementen en vragen over OTT- en AI-abonnementen op één plek.",
     "sharedSupport": "Abonnementen en orderondersteuning gebruiken de centrale Opplex-systemen. Afrekenen opent op Opplexify.",
     "legal": "Beleid",
     "privacy": "Privacybeleid",
@@ -992,11 +1144,11 @@
     "pages": {
       "about": {
         "title": "Over Cheap Accounts",
-        "intro": "Cheap Accounts brengt huidige IPTV-keuzes en duidelijk gemarkeerde toekomstige categorieën samen in een overzichtelijke winkel.",
+        "intro": "Cheap Accounts brengt huidige IPTV-abonnementen en vragen over OTT- en AI-abonnementen samen in een overzichtelijke winkel.",
         "sections": [
           {
             "heading": "Een gericht startpunt",
-            "body": "Vergelijk Opplex en Filex apart, bekijk looptijd en totaal en stel vóór aankoop vragen over je apparaat. ChatGPT, Netflix en HBO Max staan op Binnenkort en zijn niet te bestellen."
+            "body": "Vergelijk Opplex en Filex apart, bekijk looptijd en totaal en stel vóór aankoop vragen over je apparaat. Vraag via WhatsApp naar ChatGPT, Netflix, HBO Max en andere OTT- of AI-abonnementen; bevestig beschikbaarheid, de voorwaarden voor je land en overige voorwaarden vóór aankoop."
           },
           {
             "heading": "Verbonden orderondersteuning",
@@ -1024,7 +1176,7 @@
         "sections": [
           {
             "heading": "Wat kan ik vandaag bestellen?",
-            "body": "Alleen de momenteel beschikbare IPTV-abonnementen van Opplex en Filex kunnen in de winkelwagen. ChatGPT, Netflix en HBO Max komen binnenkort, zonder beloofde prijzen of beschikbaarheidsdatum."
+            "body": "Alleen de momenteel beschikbare IPTV-abonnementen van Opplex en Filex kunnen in de winkelwagen. Vraag via WhatsApp naar ChatGPT, Netflix, HBO Max en andere OTT- of AI-abonnementen; bevestig beschikbaarheid, de voorwaarden voor je land en overige voorwaarden vóór aankoop."
           },
           {
             "heading": "Kan ik meerdere abonnementen samen betalen?",
@@ -1038,7 +1190,7 @@
       },
       "buying-guide": {
         "title": "Praktische gids voor een digitaal abonnement",
-        "intro": "Een nuttige aankoop begint met gegevens die je vandaag kunt controleren, niet alleen met een bekende naam.",
+        "intro": "Een nuttige aankoop begint met gegevens die je vandaag kunt controleren, niet alleen met een bekende naam. Vraag voor OTT- en AI-abonnementen een prijs aan via WhatsApp en bevestig je land, de factureringsperiode en voorwaarden vóór aankoop.",
         "sections": [
           {
             "heading": "Laat het abonnement bij je installatie passen",
@@ -1070,7 +1222,7 @@
         "sections": [
           {
             "heading": "Begrijp het gekozen product",
-            "body": "Beschikbare abonnementen noemen Opplex of Filex, looptijd en actuele prijs. Een speler kan aparte eisen en kosten hebben. Categorieën op Binnenkort zijn niet te bestellen en bevestigen geen toekomstige beschikbaarheid."
+            "body": "Beschikbare abonnementen noemen Opplex of Filex, looptijd en actuele prijs. Een speler kan aparte eisen en kosten hebben. OTT- en AI-vermeldingen zijn alleen voor informatieaanvragen; bevestig beschikbaarheid en leveringsvoorwaarden vóór elke aankoop."
           },
           {
             "heading": "Controleer de definitieve bestelling",
@@ -1092,7 +1244,45 @@
           }
         ]
       }
-    }
+    },
+    "ott": "OTT-abonnementen",
+    "ai": "AI-tools",
+    "ottSummary": "Bekijk OTT-abonnementen en vraag naar actuele prijzen en beschikbaarheid in je land.",
+    "aiSummary": "Vergelijk AI-abonnementen en vraag naar toelating, facturering en actuele prijzen.",
+    "requestPricing": "Prijs aanvragen",
+    "enquiryOnly": "Alleen informatieaanvragen",
+    "enquiryHeading": "Vraag naar je volgende abonnement",
+    "enquiryIntro": "Vraag naar het abonnement dat je wilt. Controleer vóór aankoop de voorwaarden voor je land, de factureringsperiode en de beschikbaarheid.",
+    "choosePlan": "Kies een abonnement",
+    "officialDetails": "Officiële abonnementsinformatie",
+    "availabilityOnRequest": "Beschikbaarheid bevestigen",
+    "quoteNote": "WhatsApp opent met het gekozen product en abonnement. Je bepaalt zelf of je het bericht verstuurt.",
+    "whatsappSupport": "Stel je vraag via WhatsApp",
+    "whatsappGeneralMessage": "Hallo, ik bezoek cheapaccounts.shop. Ik wil graag de huidige prijzen en beschikbaarheid weten.",
+    "whatsappProductMessage": "Hallo, ik wil graag de huidige prijs en beschikbaarheid weten voor {product}, abonnement {plan}, via cheapaccounts.shop. Bevestig ook de voorwaarden voor mijn land, de factureringsperiode en de overige voorwaarden.",
+    "quotePhoneUnavailable": "WhatsApp is tijdelijk niet beschikbaar. Neem contact op met de klantenservice.",
+    "noStockClaim": "Alleen informatieaanvragen. Bevestig beschikbaarheid en leveringsvoorwaarden met de klantenservice. Merknamen betekenen niet dat er een officiële samenwerking is.",
+    "subscriptionEnquiry": "Vraag over abonnement",
+    "premiumEnquiry": "Vraag over premiumoptie",
+    "chatSetupEnquiry": "Vraag over chatinstellingen",
+    "apiUsageEnquiry": "Vraag over API-gebruik",
+    "netflixHouseholdMonthly": "Bevestig het maandabonnement en de Netflix-huishoudregels voor je land.",
+    "hboMaxRegionalTiers": "Controleer welke HBO Max-abonnementen in je land worden aangeboden en wat elk abonnement bevat.",
+    "ulluConfirmCurrentMembership": "Bevestig de huidige ULLU-abonnementsduur, toelatingsvoorwaarden en regionale beschikbaarheid.",
+    "primeVideoSeparateAddons": "Prime Video-abonnementen, extra kanalen, huur en aankopen kunnen afzonderlijke kosten hebben.",
+    "disneyRegionalPlanNames": "De namen van Disney+-abonnementen en bundels verschillen per land. Bevestig de gewenste optie.",
+    "appleTvServiceNotHardware": "Vraag naar het Apple TV-streamingabonnement. Apparaten, huur en andere diensten staan daar los van.",
+    "jioHotstarIndiaDeviceTier": "Bevestig de beschikbaarheid van JioHotstar in India en de apparaten die je gekozen abonnement ondersteunt.",
+    "sonyLivRegionalDeviceTerms": "Bevestig je land, ondersteunde apparaten en abonnementsduur voor Sony LIV.",
+    "zee5ConfirmCurrentRegionalPack": "Vraag welk huidig ZEE5-pakket in je land geldt voordat je een looptijd kiest.",
+    "crunchyrollRegionalTierBenefits": "Controleer de voordelen en apparaatvoorwaarden van de Crunchyroll-abonnementen in je land.",
+    "paramountSelectedMarkets": "Paramount+ is beschikbaar in bepaalde markten. Bevestig de voorwaarden voor je land en het abonnement.",
+    "peacockDistinctContentTiers": "Peacock-abonnementen kunnen verschillende inhoud bevatten. Bevestig het abonnement, land en de factureringsperiode.",
+    "chatgptSubscriptionNotApi": "ChatGPT-abonnementen en API-gebruik worden afzonderlijk gefactureerd. Bevestig welke dienst je nodig hebt.",
+    "claudeUsageAndAccountRequirements": "Claude-abonnementen hebben gebruikslimieten en accountvoorwaarden. Bevestig het abonnement en de factureringsperiode.",
+    "geminiCountryAndPersonalAccount": "Bevestig de beschikbaarheid van Google AI-abonnementen en de voorwaarden voor persoonlijke accounts in je land.",
+    "grokUnifiedSubscriptionEligibility": "Bevestig het huidige gecombineerde abonnement en de accountvoorwaarden voor Grok.",
+    "deepseekChatAndApiSeparate": "De DeepSeek-chat is gratis; API-gebruik wordt apart berekend. Vraag naar instellingen of API-gebruik."
   },
   "pt": {
     "tagline": "Escolhas digitais, preços claros.",
@@ -1121,15 +1311,15 @@
     "noResults": "Nenhum produto corresponde aos filtros.",
     "homeEyebrow": "A SUA LOJA DIGITAL",
     "homeTitle": "Planos digitais. Escolhas claras.",
-    "homeIntro": "Compare os planos IPTV atuais da Opplex e Filex, confirme os detalhes da sua instalação e reveja a seleção antes de pagar na Opplexify.",
+    "homeIntro": "Compare os planos IPTV atuais da Opplex e da Filex, com pagamento na Opplexify. Ou consulte os planos OTT e de IA e confirme os requisitos do seu país, a cobrança e a disponibilidade com o suporte.",
     "shopPlans": "Ver planos IPTV",
     "howItWorks": "Como funciona o pagamento",
     "availableNow": "Disponível agora",
     "categoryHeading": "Encontre a sua categoria",
     "iptvSummary": "Compare fornecedores e durações disponíveis.",
-    "chatgptSummary": "As opções de produto e preços ainda não foram publicados.",
-    "netflixSummary": "Esta categoria está em preparação. As encomendas estão indisponíveis.",
-    "hboSummary": "A disponibilidade e os detalhes aparecerão após confirmação.",
+    "chatgptSummary": "Consulte os planos do ChatGPT e confirme a opção adequada, o período de cobrança e os requisitos do seu país.",
+    "netflixSummary": "Consulte as opções de planos da Netflix e confirme a disponibilidade no seu país.",
+    "hboSummary": "Consulte os planos do HBO Max, os períodos de cobrança e a disponibilidade no seu país.",
     "planHeading": "Um plano para o próximo passo.",
     "planIntro": "Preços e disponibilidade atuais do catálogo Opplex. Reveja fornecedor, duração e valor completo antes de pagar.",
     "currentCatalogue": "Catálogo atual",
@@ -1185,7 +1375,7 @@
     "helpBody": "Diga ao apoio o dispositivo, leitor e plano que está a considerar. Para uma compra existente, use apoio privado à encomenda.",
     "contactSupport": "Contactar o apoio",
     "trackOrder": "Consultar uma encomenda",
-    "footerIntro": "Uma loja dedicada aos planos IPTV atuais e a futuras categorias digitais.",
+    "footerIntro": "Planos IPTV atuais e consultas sobre assinaturas OTT e de IA em um só lugar.",
     "sharedSupport": "Planos e apoio a encomendas usam os sistemas centrais Opplex. O pagamento abre na Opplexify.",
     "legal": "Políticas",
     "privacy": "Política de privacidade",
@@ -1211,11 +1401,11 @@
     "pages": {
       "about": {
         "title": "Sobre a Cheap Accounts",
-        "intro": "A Cheap Accounts reúne planos IPTV atuais e futuras categorias claramente identificadas numa loja simples.",
+        "intro": "A Cheap Accounts reúne planos IPTV atuais e consultas sobre assinaturas OTT e de IA em uma loja simples.",
         "sections": [
           {
             "heading": "Um ponto de partida focado",
-            "body": "Compare Opplex e Filex separadamente, reveja duração e total e pergunte sobre o dispositivo antes de comprar. ChatGPT, Netflix e HBO Max estão Em breve e não aceitam encomendas."
+            "body": "Compare Opplex e Filex separadamente, reveja duração e total e pergunte sobre o dispositivo antes de comprar. Consulte ChatGPT, Netflix, HBO Max e outros planos OTT ou de IA pelo WhatsApp; confirme disponibilidade, requisitos do seu país e condições antes de comprar."
           },
           {
             "heading": "Apoio ligado às encomendas",
@@ -1243,7 +1433,7 @@
         "sections": [
           {
             "heading": "O que posso encomendar hoje?",
-            "body": "Só os planos IPTV Opplex e Filex atualmente disponíveis podem entrar no carrinho. ChatGPT, Netflix e HBO Max estão Em breve, sem preços ou datas de disponibilidade prometidos."
+            "body": "Só os planos IPTV Opplex e Filex atualmente disponíveis podem entrar no carrinho. Consulte ChatGPT, Netflix, HBO Max e outros planos OTT ou de IA pelo WhatsApp; confirme disponibilidade, requisitos do seu país e condições antes de comprar."
           },
           {
             "heading": "Posso pagar vários planos juntos?",
@@ -1257,7 +1447,7 @@
       },
       "buying-guide": {
         "title": "Guia prático para escolher um plano digital",
-        "intro": "Uma compra útil começa por detalhes verificáveis hoje, não apenas por um nome conhecido.",
+        "intro": "Uma compra útil começa por detalhes verificáveis hoje, não apenas por um nome conhecido. Para os planos OTT e de IA, consulte o preço pelo WhatsApp e confirme país, período de cobrança e condições antes de comprar.",
         "sections": [
           {
             "heading": "Ajuste o plano à sua instalação",
@@ -1289,7 +1479,7 @@
         "sections": [
           {
             "heading": "Compreenda o produto escolhido",
-            "body": "Os planos disponíveis indicam Opplex ou Filex, duração e preço atual. O leitor pode ter requisitos e custos próprios. As categorias Em breve não aceitam encomendas nem confirmam disponibilidade futura."
+            "body": "Os planos disponíveis indicam Opplex ou Filex, duração e preço atual. O leitor pode ter requisitos e custos próprios. Os produtos OTT e de IA aceitam apenas consultas; confirme disponibilidade e condições antes de qualquer compra."
           },
           {
             "heading": "Confirme a encomenda final",
@@ -1311,7 +1501,45 @@
           }
         ]
       }
-    }
+    },
+    "ott": "Assinaturas OTT",
+    "ai": "Ferramentas de IA",
+    "ottSummary": "Explore os planos OTT e consulte os preços atuais e a disponibilidade no seu país.",
+    "aiSummary": "Compare assinaturas de IA e consulte requisitos, cobrança e preços atuais.",
+    "requestPricing": "Consultar preço",
+    "enquiryOnly": "Apenas consultas",
+    "enquiryHeading": "Consulte sua próxima assinatura",
+    "enquiryIntro": "Consulte o plano que você procura. Antes de comprar, confirme os requisitos do seu país, o período de cobrança e a disponibilidade.",
+    "choosePlan": "Escolha um plano",
+    "officialDetails": "Detalhes dos planos oficiais",
+    "availabilityOnRequest": "Confirmar disponibilidade",
+    "quoteNote": "O WhatsApp abre com o produto e o plano escolhidos. Você decide se deseja enviar a mensagem.",
+    "whatsappSupport": "Fale conosco pelo WhatsApp",
+    "whatsappGeneralMessage": "Olá, estou visitando cheapaccounts.shop. Gostaria de consultar os preços e a disponibilidade atuais.",
+    "whatsappProductMessage": "Olá, gostaria de consultar o preço e a disponibilidade atuais de {product}, plano {plan}, pelo cheapaccounts.shop. Confirme os requisitos do meu país, o período de cobrança e as condições.",
+    "quotePhoneUnavailable": "O WhatsApp está temporariamente indisponível. Entre em contato com o suporte.",
+    "noStockClaim": "Apenas consultas. Confirme a disponibilidade e as condições com o suporte. Os nomes das marcas não indicam parceria oficial.",
+    "subscriptionEnquiry": "Consulta sobre assinatura",
+    "premiumEnquiry": "Consulta sobre opção premium",
+    "chatSetupEnquiry": "Consulta sobre configuração do chat",
+    "apiUsageEnquiry": "Consulta sobre uso da API",
+    "netflixHouseholdMonthly": "Confirme o plano mensal e as regras de residência da Netflix para seu país.",
+    "hboMaxRegionalTiers": "Confira quais planos do HBO Max são oferecidos no seu país e o que cada um inclui.",
+    "ulluConfirmCurrentMembership": "Confirme a duração da assinatura ULLU, os requisitos e a disponibilidade regional.",
+    "primeVideoSeparateAddons": "A assinatura Prime Video, os canais adicionais, os aluguéis e as compras podem ter cobranças separadas.",
+    "disneyRegionalPlanNames": "Os nomes dos planos e os pacotes Disney+ variam conforme o país. Confirme a opção desejada.",
+    "appleTvServiceNotHardware": "Consulte a assinatura de streaming Apple TV. Aparelhos, aluguéis e outros serviços são separados.",
+    "jioHotstarIndiaDeviceTier": "Confirme a disponibilidade do JioHotstar na Índia e os aparelhos incluídos no plano escolhido.",
+    "sonyLivRegionalDeviceTerms": "Confirme seu país, os aparelhos incluídos e a duração da assinatura Sony LIV.",
+    "zee5ConfirmCurrentRegionalPack": "Pergunte qual pacote ZEE5 atual se aplica ao seu país antes de escolher a duração.",
+    "crunchyrollRegionalTierBenefits": "Confira os benefícios e as condições de aparelhos dos planos Crunchyroll oferecidos no seu país.",
+    "paramountSelectedMarkets": "O Paramount+ está disponível em mercados selecionados. Confirme os requisitos do seu país e o plano.",
+    "peacockDistinctContentTiers": "Os planos Peacock podem incluir conteúdos diferentes. Confirme plano, país e período de cobrança.",
+    "chatgptSubscriptionNotApi": "A assinatura ChatGPT e o uso da API são cobrados separadamente. Confirme qual serviço você precisa.",
+    "claudeUsageAndAccountRequirements": "Os planos Claude têm limites de uso e requisitos de conta. Confirme o plano e o período de cobrança.",
+    "geminiCountryAndPersonalAccount": "Confirme a disponibilidade dos planos Google AI e os requisitos de conta pessoal no seu país.",
+    "grokUnifiedSubscriptionEligibility": "Confirme o plano atual da assinatura unificada e os requisitos de conta para o Grok.",
+    "deepseekChatAndApiSeparate": "O chat DeepSeek é gratuito; o uso da API é cobrado à parte. Consulte a configuração ou o uso da API."
   },
   "ru": {
     "tagline": "Цифровые услуги с понятными ценами.",
@@ -1340,15 +1568,15 @@
     "noResults": "По этим фильтрам продукты не найдены.",
     "homeEyebrow": "ВАШ ЦИФРОВОЙ МАГАЗИН",
     "homeTitle": "Цифровые планы. Понятный выбор.",
-    "homeIntro": "Сравните действующие планы IPTV Opplex и Filex, проверьте требования своей системы и выбранную подписку перед оплатой в Opplexify.",
+    "homeIntro": "Сравните актуальные IPTV-тарифы Opplex и Filex с оплатой через Opplexify. Или узнайте о подписках на стриминг и инструменты ИИ, уточнив у поддержки доступность в вашей стране, расчётный период и условия.",
     "shopPlans": "Выбрать план IPTV",
     "howItWorks": "Как проходит оплата",
     "availableNow": "Доступно сейчас",
     "categoryHeading": "Найдите свою категорию",
     "iptvSummary": "Сравните доступных поставщиков и сроки подписки.",
-    "chatgptSummary": "Варианты продуктов и цены пока не опубликованы.",
-    "netflixSummary": "Раздел готовится. Заказы пока недоступны.",
-    "hboSummary": "Доступность и сведения появятся после подтверждения.",
+    "chatgptSummary": "Узнайте о тарифах ChatGPT и уточните подходящий вариант, расчётный период и доступность в вашей стране.",
+    "netflixSummary": "Узнайте о тарифах Netflix и уточните доступность в вашей стране.",
+    "hboSummary": "Узнайте о тарифах HBO Max, расчётных периодах и доступности в вашей стране.",
     "planHeading": "План для вашего следующего шага.",
     "planIntro": "Актуальные цены и доступность из каталога Opplex. Перед оплатой проверьте поставщика, срок и полную сумму.",
     "currentCatalogue": "Текущий каталог",
@@ -1404,7 +1632,7 @@
     "helpBody": "Сообщите поддержке устройство, плеер и интересующий план. По существующей покупке обращайтесь в частную поддержку заказов.",
     "contactSupport": "Связаться с поддержкой",
     "trackOrder": "Проверить заказ",
-    "footerIntro": "Магазин действующих планов IPTV и будущих цифровых категорий.",
+    "footerIntro": "Актуальные IPTV-тарифы и запросы о подписках на стриминг и инструменты ИИ в одном месте.",
     "sharedSupport": "Планы и поддержка заказов используют центральные системы Opplex. Оплата открывается в Opplexify.",
     "legal": "Правила",
     "privacy": "Конфиденциальность",
@@ -1430,11 +1658,11 @@
     "pages": {
       "about": {
         "title": "О Cheap Accounts",
-        "intro": "Cheap Accounts объединяет действующие IPTV-планы и явно отмеченные будущие категории в одном понятном магазине.",
+        "intro": "Cheap Accounts объединяет актуальные IPTV-тарифы и запросы о подписках на стриминг и инструменты ИИ в одном понятном магазине.",
         "sections": [
           {
             "heading": "Начните с конкретных сведений",
-            "body": "Сравните Opplex и Filex отдельно, проверьте срок и полную сумму и спросите о своем устройстве до покупки. ChatGPT, Netflix и HBO Max отмечены как Скоро и не принимают заказы."
+            "body": "Сравните Opplex и Filex отдельно, проверьте срок и полную сумму и спросите о своем устройстве до покупки. Узнайте о ChatGPT, Netflix, HBO Max и других подписках на стриминг или инструменты ИИ через WhatsApp; до покупки уточните доступность в вашей стране и условия."
           },
           {
             "heading": "Поддержка связана с заказами",
@@ -1462,7 +1690,7 @@
         "sections": [
           {
             "heading": "Что можно заказать сегодня?",
-            "body": "В корзину добавляются только доступные сейчас планы IPTV Opplex и Filex. ChatGPT, Netflix и HBO Max готовятся к запуску, без обещаний цен и даты доступности."
+            "body": "В корзину добавляются только доступные сейчас планы IPTV Opplex и Filex. Узнайте о ChatGPT, Netflix, HBO Max и других подписках на стриминг или инструменты ИИ через WhatsApp; до покупки уточните доступность в вашей стране и условия."
           },
           {
             "heading": "Можно ли оплатить несколько планов вместе?",
@@ -1476,7 +1704,7 @@
       },
       "buying-guide": {
         "title": "Практическое руководство по выбору цифрового плана",
-        "intro": "Полезная покупка начинается с проверяемых сегодня сведений, а не только со знакомого названия.",
+        "intro": "Полезная покупка начинается с проверяемых сегодня сведений, а не только со знакомого названия. Для подписок на стриминг и инструменты ИИ запросите цену через WhatsApp и до покупки уточните страну, расчётный период и условия.",
         "sections": [
           {
             "heading": "Подберите план под свою систему",
@@ -1508,7 +1736,7 @@
         "sections": [
           {
             "heading": "Понимайте выбранный продукт",
-            "body": "Планы указывают Opplex или Filex, срок и текущую цену. Плеер может иметь отдельные требования и стоимость. Разделы Скоро не принимают заказы и не подтверждают будущую доступность."
+            "body": "Планы указывают Opplex или Filex, срок и текущую цену. Плеер может иметь отдельные требования и стоимость. Разделы стриминга и ИИ принимают только запросы информации; перед покупкой уточните наличие и условия предоставления."
           },
           {
             "heading": "Проверьте окончательный заказ",
@@ -1530,7 +1758,45 @@
           }
         ]
       }
-    }
+    },
+    "ott": "Подписки на стриминг",
+    "ai": "Инструменты ИИ",
+    "ottSummary": "Посмотрите варианты подписок на стриминг и узнайте актуальные цены и доступность в вашей стране.",
+    "aiSummary": "Сравните подписки на инструменты ИИ и уточните требования, расчётный период и актуальные цены.",
+    "requestPricing": "Узнать цену",
+    "enquiryOnly": "Запрос информации",
+    "enquiryHeading": "Узнайте о нужной подписке",
+    "enquiryIntro": "Узнайте подробности о нужном тарифе. Перед покупкой уточните доступность в вашей стране, расчётный период и условия подключения.",
+    "choosePlan": "Выберите тариф",
+    "officialDetails": "Официальная информация о тарифах",
+    "availabilityOnRequest": "Уточнить доступность",
+    "quoteNote": "WhatsApp откроется с выбранными продуктом и тарифом. Вы сами решаете, отправлять ли сообщение.",
+    "whatsappSupport": "Написать нам в WhatsApp",
+    "whatsappGeneralMessage": "Здравствуйте! Я на сайте cheapaccounts.shop. Подскажите актуальные цены и доступность.",
+    "whatsappProductMessage": "Здравствуйте! Меня интересуют актуальная цена и доступность {product}, тариф {plan}, на cheapaccounts.shop. Уточните доступность в моей стране, расчётный период и условия.",
+    "quotePhoneUnavailable": "WhatsApp временно недоступен. Обратитесь в поддержку.",
+    "noStockClaim": "Только запрос информации. Наличие и условия предоставления необходимо уточнить у поддержки. Названия брендов не означают официального партнёрства.",
+    "subscriptionEnquiry": "Вопрос о подписке",
+    "premiumEnquiry": "Вопрос о премиальном варианте",
+    "chatSetupEnquiry": "Вопрос о настройке чата",
+    "apiUsageEnquiry": "Вопрос об использовании API",
+    "netflixHouseholdMonthly": "Уточните месячный тариф и правила домохозяйства Netflix для вашей страны.",
+    "hboMaxRegionalTiers": "Проверьте, какие тарифы HBO Max доступны в вашей стране и что входит в каждый из них.",
+    "ulluConfirmCurrentMembership": "Уточните текущий срок подписки ULLU, требования и доступность в вашем регионе.",
+    "primeVideoSeparateAddons": "Подписка Prime Video, дополнительные каналы, аренда и покупки могут оплачиваться отдельно.",
+    "disneyRegionalPlanNames": "Названия тарифов и пакеты Disney+ зависят от страны. Уточните нужный вариант.",
+    "appleTvServiceNotHardware": "Узнайте о подписке на стриминг Apple TV. Устройства, аренда и другие услуги оплачиваются отдельно.",
+    "jioHotstarIndiaDeviceTier": "Уточните доступность JioHotstar в Индии и устройства, предусмотренные выбранным тарифом.",
+    "sonyLivRegionalDeviceTerms": "Уточните свою страну, поддерживаемые устройства и срок подписки Sony LIV.",
+    "zee5ConfirmCurrentRegionalPack": "Перед выбором срока узнайте, какой текущий пакет ZEE5 подходит для вашей страны.",
+    "crunchyrollRegionalTierBenefits": "Проверьте возможности и условия использования устройств в тарифах Crunchyroll для вашей страны.",
+    "paramountSelectedMarkets": "Paramount+ работает на отдельных рынках. Уточните доступность в вашей стране и тариф.",
+    "peacockDistinctContentTiers": "Тарифы Peacock могут включать разный контент. Уточните тариф, страну и расчётный период.",
+    "chatgptSubscriptionNotApi": "Подписка ChatGPT и использование API оплачиваются отдельно. Уточните, какая услуга вам нужна.",
+    "claudeUsageAndAccountRequirements": "У тарифов Claude есть лимиты использования и требования к аккаунту. Уточните тариф и расчётный период.",
+    "geminiCountryAndPersonalAccount": "Уточните доступность Google AI и требования к личному аккаунту в вашей стране.",
+    "grokUnifiedSubscriptionEligibility": "Уточните текущий тариф единой подписки и требования к аккаунту для Grok.",
+    "deepseekChatAndApiSeparate": "Чат DeepSeek бесплатный; использование API оплачивается отдельно. Узнайте о настройке чата или использовании API."
   },
   "ur": {
     "tagline": "ڈیجیٹل انتخاب، واضح قیمتیں۔",
@@ -1559,15 +1825,15 @@
     "noResults": "ان فلٹرز کے مطابق کوئی پراڈکٹ نہیں ملی۔",
     "homeEyebrow": "آپ کی ڈیجیٹل دکان",
     "homeTitle": "ڈیجیٹل پلانز۔ واضح انتخاب۔",
-    "homeIntro": "Opplex اور Filex کے موجودہ IPTV پلانز کا موازنہ کریں، اپنے سیٹ اپ کی ضروریات دیکھیں اور Opplexify پر ادائیگی سے پہلے انتخاب کا جائزہ لیں۔",
+    "homeIntro": "Opplex اور Filex کے موجودہ IPTV پلانز کا موازنہ کریں، جن کی ادائیگی Opplexify پر ہوتی ہے۔ یا OTT اور مصنوعی ذہانت کے پلانز کے بارے میں پوچھیں اور اپنے ملک میں دستیابی، بلنگ اور شرائط سپورٹ سے تصدیق کریں۔",
     "shopPlans": "IPTV پلانز دیکھیں",
     "howItWorks": "ادائیگی کیسے ہوتی ہے",
     "availableNow": "ابھی دستیاب",
     "categoryHeading": "اپنی کیٹیگری تلاش کریں",
     "iptvSummary": "دستیاب فراہم کنندگان اور رکنیت کی مدتوں کا موازنہ کریں۔",
-    "chatgptSummary": "پراڈکٹ کے اختیارات اور قیمتیں ابھی شائع نہیں ہوئیں۔",
-    "netflixSummary": "یہ کیٹیگری تیار ہو رہی ہے۔ آرڈر ابھی دستیاب نہیں۔",
-    "hboSummary": "تصدیق کے بعد دستیابی اور پراڈکٹ کی تفصیل یہاں آئے گی۔",
+    "chatgptSummary": "ChatGPT کے پلانز کے بارے میں پوچھیں اور مناسب انتخاب، بلنگ کی مدت اور اپنے ملک میں دستیابی کی تصدیق کریں۔",
+    "netflixSummary": "Netflix کے پلانز کے بارے میں پوچھیں اور اپنے ملک میں دستیابی کی تصدیق کریں۔",
+    "hboSummary": "HBO Max کے پلانز، بلنگ کی مدت اور اپنے ملک میں دستیابی کے بارے میں پوچھیں۔",
     "planHeading": "آپ کے اگلے قدم کے لیے ایک پلان۔",
     "planIntro": "موجودہ قیمتیں اور دستیابی Opplex کیٹلاگ سے آتی ہیں۔ ادائیگی سے پہلے فراہم کنندہ، مدت اور پوری رقم دیکھیں۔",
     "currentCatalogue": "موجودہ کیٹلاگ",
@@ -1623,7 +1889,7 @@
     "helpBody": "سپورٹ کو اپنا آلہ، پلیئر اور زیر غور پلان بتائیں۔ پرانی خریداری کے لیے نجی آرڈر سپورٹ استعمال کریں۔",
     "contactSupport": "سپورٹ سے رابطہ کریں",
     "trackOrder": "آرڈر دیکھیں",
-    "footerIntro": "موجودہ IPTV پلانز اور آنے والی ڈیجیٹل کیٹیگریز کے لیے ایک واضح دکان۔",
+    "footerIntro": "موجودہ IPTV پلانز اور OTT و مصنوعی ذہانت کی سبسکرپشنز کی معلومات ایک جگہ۔",
     "sharedSupport": "پلانز اور آرڈر سپورٹ مرکزی Opplex نظام استعمال کرتے ہیں۔ ادائیگی Opplexify پر کھلتی ہے۔",
     "legal": "پالیسیاں",
     "privacy": "رازداری کی پالیسی",
@@ -1649,11 +1915,11 @@
     "pages": {
       "about": {
         "title": "Cheap Accounts کے بارے میں",
-        "intro": "Cheap Accounts موجودہ IPTV اختیارات اور واضح نشان والی آئندہ کیٹیگریز کو ایک آسان دکان میں پیش کرتا ہے۔",
+        "intro": "Cheap Accounts موجودہ IPTV پلانز اور OTT و مصنوعی ذہانت کی سبسکرپشنز کی معلومات ایک آسان دکان میں پیش کرتا ہے۔",
         "sections": [
           {
             "heading": "واضح تفصیل سے شروعات",
-            "body": "Opplex اور Filex کو الگ دیکھیں، مدت اور پوری رقم کا جائزہ لیں اور خریدنے سے پہلے اپنے آلے کا پوچھیں۔ ChatGPT، Netflix اور HBO Max جلد آ رہے ہیں اور ابھی آرڈر نہیں کیے جا سکتے۔"
+            "body": "Opplex اور Filex کو الگ دیکھیں، مدت اور پوری رقم کا جائزہ لیں اور خریدنے سے پہلے اپنے آلے کا پوچھیں۔ ChatGPT، Netflix، HBO Max اور دوسرے OTT یا مصنوعی ذہانت کے پلانز کے بارے میں WhatsApp پر پوچھیں؛ خریدنے سے پہلے دستیابی، اپنے ملک کی اہلیت اور شرائط کی تصدیق کریں۔"
           },
           {
             "heading": "آرڈرز سے منسلک سپورٹ",
@@ -1681,7 +1947,7 @@
         "sections": [
           {
             "heading": "آج کیا آرڈر کر سکتا ہوں؟",
-            "body": "کارٹ میں صرف اس وقت دستیاب Opplex اور Filex IPTV پلانز شامل کیے جا سکتے ہیں۔ ChatGPT، Netflix اور HBO Max جلد آ رہے ہیں؛ قیمت یا دستیابی کی تاریخ کا وعدہ نہیں۔"
+            "body": "کارٹ میں صرف اس وقت دستیاب Opplex اور Filex IPTV پلانز شامل کیے جا سکتے ہیں۔ ChatGPT، Netflix، HBO Max اور دوسرے OTT یا مصنوعی ذہانت کے پلانز کے بارے میں WhatsApp پر پوچھیں؛ خریدنے سے پہلے دستیابی، اپنے ملک کی اہلیت اور شرائط کی تصدیق کریں۔"
           },
           {
             "heading": "کیا کئی پلانز اکٹھے ادا کر سکتا ہوں؟",
@@ -1695,7 +1961,7 @@
       },
       "buying-guide": {
         "title": "ڈیجیٹل پلان منتخب کرنے کی عملی گائیڈ",
-        "intro": "مفید خریداری ان تفصیلات سے شروع ہوتی ہے جو آج تصدیق کی جا سکتی ہیں، صرف مانوس نام سے نہیں۔",
+        "intro": "مفید خریداری ان تفصیلات سے شروع ہوتی ہے جو آج تصدیق کی جا سکتی ہیں، صرف مانوس نام سے نہیں۔ OTT اور مصنوعی ذہانت کے پلانز کی قیمت WhatsApp پر پوچھیں اور خریدنے سے پہلے اپنا ملک، بلنگ کی مدت اور شرائط تصدیق کریں۔",
         "sections": [
           {
             "heading": "اپنے سیٹ اپ کے مطابق پلان چنیں",
@@ -1727,7 +1993,7 @@
         "sections": [
           {
             "heading": "منتخب پراڈکٹ سمجھیں",
-            "body": "دستیاب پلانز Opplex یا Filex، مدت اور موجودہ قیمت بتاتے ہیں۔ پلیئر کی الگ ضروریات اور فیس ہو سکتی ہے۔ جلد آنے والی کیٹیگریز ابھی آرڈر نہیں ہو سکتیں اور مستقبل کی دستیابی کی تصدیق نہیں ہیں۔"
+            "body": "دستیاب پلانز Opplex یا Filex، مدت اور موجودہ قیمت بتاتے ہیں۔ پلیئر کی الگ ضروریات اور فیس ہو سکتی ہے۔ OTT اور مصنوعی ذہانت کی لسٹنگز صرف معلومات کے لیے ہیں؛ خریدنے سے پہلے دستیابی اور فراہمی کی شرائط کی تصدیق کریں۔"
           },
           {
             "heading": "حتمی آرڈر دیکھیں",
@@ -1749,7 +2015,45 @@
           }
         ]
       }
-    }
+    },
+    "ott": "OTT سبسکرپشنز",
+    "ai": "مصنوعی ذہانت کے ٹولز",
+    "ottSummary": "OTT پلانز دیکھیں اور موجودہ قیمت و اپنے ملک میں دستیابی کے بارے میں پوچھیں۔",
+    "aiSummary": "مصنوعی ذہانت کی سبسکرپشنز کا موازنہ کریں اور شرائط، بلنگ اور موجودہ قیمت پوچھیں۔",
+    "requestPricing": "قیمت دریافت کریں",
+    "enquiryOnly": "صرف معلومات کے لیے",
+    "enquiryHeading": "اپنی اگلی سبسکرپشن کے بارے میں پوچھیں",
+    "enquiryIntro": "اپنے مطلوبہ پلان کے بارے میں پوچھیں۔ خریدنے سے پہلے اپنے ملک میں دستیابی، بلنگ کی مدت اور ضروری شرائط کی تصدیق کریں۔",
+    "choosePlan": "پلان منتخب کریں",
+    "officialDetails": "اصل پلانز کی تفصیل",
+    "availabilityOnRequest": "دستیابی کی تصدیق کریں",
+    "quoteNote": "WhatsApp پر منتخب پراڈکٹ اور پلان کے ساتھ پیغام کھلے گا۔ بھیجنے کا فیصلہ آپ خود کریں گے۔",
+    "whatsappSupport": "WhatsApp پر ہم سے پوچھیں",
+    "whatsappGeneralMessage": "السلام علیکم، میں cheapaccounts.shop دیکھ رہا ہوں۔ موجودہ قیمت اور دستیابی معلوم کرنا چاہتا ہوں۔",
+    "whatsappProductMessage": "السلام علیکم، cheapaccounts.shop پر {product} کے پلان {plan} کی موجودہ قیمت اور دستیابی معلوم کرنا چاہتا ہوں۔ میرے ملک میں دستیابی، بلنگ کی مدت اور شرائط کی تصدیق کر دیں۔",
+    "quotePhoneUnavailable": "WhatsApp عارضی طور پر دستیاب نہیں۔ براہ کرم سپورٹ سے رابطہ کریں۔",
+    "noStockClaim": "یہ صرف معلومات لینے کی سہولت ہے۔ دستیابی اور فراہمی کی شرائط سپورٹ سے تصدیق کریں۔ برانڈ کے نام کا مطلب سرکاری شراکت داری نہیں۔",
+    "subscriptionEnquiry": "سبسکرپشن کے بارے میں پوچھیں",
+    "premiumEnquiry": "پریمیم آپشن کے بارے میں پوچھیں",
+    "chatSetupEnquiry": "چیٹ کے سیٹ اپ کے بارے میں پوچھیں",
+    "apiUsageEnquiry": "API کے استعمال کے بارے میں پوچھیں",
+    "netflixHouseholdMonthly": "اپنے ملک کے لیے ماہانہ پلان اور Netflix کے گھرانے سے متعلق اصولوں کی تصدیق کریں۔",
+    "hboMaxRegionalTiers": "دیکھیں آپ کے ملک میں HBO Max کے کون سے پلانز ہیں اور ہر پلان میں کیا شامل ہے۔",
+    "ulluConfirmCurrentMembership": "ULLU کی موجودہ رکنیت کی مدت، ضروری شرائط اور علاقائی دستیابی کی تصدیق کریں۔",
+    "primeVideoSeparateAddons": "Prime Video کی سبسکرپشن، اضافی چینلز، کرائے اور خریداری کے الگ چارجز ہو سکتے ہیں۔",
+    "disneyRegionalPlanNames": "Disney+ کے پلانز کے نام اور پیکیجز ملک کے مطابق مختلف ہوتے ہیں۔ اپنا مطلوبہ آپشن تصدیق کریں۔",
+    "appleTvServiceNotHardware": "Apple TV کی اسٹریمنگ سبسکرپشن کے بارے میں پوچھیں۔ آلات، کرائے اور دوسری سروسز الگ ہیں۔",
+    "jioHotstarIndiaDeviceTier": "بھارت میں JioHotstar کی دستیابی اور منتخب پلان میں شامل آلات کی تصدیق کریں۔",
+    "sonyLivRegionalDeviceTerms": "Sony LIV کے لیے اپنے ملک، شامل آلات اور سبسکرپشن کی مدت کی تصدیق کریں۔",
+    "zee5ConfirmCurrentRegionalPack": "مدت منتخب کرنے سے پہلے پوچھیں کہ آپ کے ملک میں ZEE5 کا کون سا موجودہ پیک لاگو ہوتا ہے۔",
+    "crunchyrollRegionalTierBenefits": "اپنے ملک میں Crunchyroll کے پلانز کے فوائد اور آلات سے متعلق شرائط دیکھیں۔",
+    "paramountSelectedMarkets": "Paramount+ مخصوص ملکوں میں دستیاب ہے۔ اپنے ملک میں اہلیت اور پلان کی تصدیق کریں۔",
+    "peacockDistinctContentTiers": "Peacock کے پلانز میں مختلف مواد شامل ہو سکتا ہے۔ پلان، ملک اور بلنگ کی مدت کی تصدیق کریں۔",
+    "chatgptSubscriptionNotApi": "ChatGPT کی سبسکرپشن اور API کے استعمال کی الگ بلنگ ہوتی ہے۔ تصدیق کریں کہ آپ کو کون سی سروس چاہیے۔",
+    "claudeUsageAndAccountRequirements": "Claude کے پلانز میں استعمال کی حدیں اور اکاؤنٹ کی شرائط ہوتی ہیں۔ پلان اور بلنگ کی مدت کی تصدیق کریں۔",
+    "geminiCountryAndPersonalAccount": "اپنے ملک میں Google AI پلان کی دستیابی اور ذاتی اکاؤنٹ کی اہلیت کی تصدیق کریں۔",
+    "grokUnifiedSubscriptionEligibility": "Grok کے لیے موجودہ مشترکہ سبسکرپشن پلان اور اکاؤنٹ کی اہلیت کی تصدیق کریں۔",
+    "deepseekChatAndApiSeparate": "DeepSeek چیٹ مفت ہے؛ API کے استعمال کے الگ چارجز ہیں۔ سیٹ اپ یا API کے استعمال کے بارے میں پوچھیں۔"
   },
   "ar": {
     "tagline": "خيارات رقمية بأسعار واضحة.",
@@ -1778,15 +2082,15 @@
     "noResults": "لا توجد منتجات تطابق هذه المرشحات.",
     "homeEyebrow": "متجرك الرقمي",
     "homeTitle": "خطط رقمية. خيارات واضحة.",
-    "homeIntro": "قارن خطط IPTV الحالية من Opplex وFilex، وتحقق مما يهم إعدادك وراجع اختيارك قبل الدفع على Opplexify.",
+    "homeIntro": "قارن خطط IPTV الحالية من Opplex وFilex، مع الدفع على Opplexify. أو استفسر عن خطط البث والذكاء الاصطناعي وأكّد أهلية بلدك والفوترة والتوافر مع الدعم.",
     "shopPlans": "تصفح خطط IPTV",
     "howItWorks": "كيف يتم الدفع",
     "availableNow": "متاح الآن",
     "categoryHeading": "اعثر على قسمك",
     "iptvSummary": "قارن المزوّدين ومدد الاشتراك المتاحة.",
-    "chatgptSummary": "لم تُنشر خيارات المنتجات والأسعار بعد.",
-    "netflixSummary": "هذا القسم قيد الإعداد. الطلبات غير متاحة.",
-    "hboSummary": "سيظهر التوافر وتفاصيل المنتجات بعد التأكيد.",
+    "chatgptSummary": "استفسر عن خطط ChatGPT وأكّد الخيار المناسب وفترة الفوترة وأهلية بلدك.",
+    "netflixSummary": "استفسر عن خيارات خطط Netflix وأكّد توافرها في بلدك.",
+    "hboSummary": "استفسر عن خطط HBO Max وفترات الفوترة والتوافر في بلدك.",
     "planHeading": "خطة لخطوتك القادمة.",
     "planIntro": "الأسعار والتوافر الحاليان من كتالوج Opplex. راجع المزوّد والمدة والمبلغ الكامل قبل الدفع.",
     "currentCatalogue": "الكتالوج الحالي",
@@ -1842,7 +2146,7 @@
     "helpBody": "أخبر الدعم بجهازك ومشغّلك والخطة التي تفكر بها. للشراء القائم استخدم دعم الطلبات الخاص.",
     "contactSupport": "الاتصال بالدعم",
     "trackOrder": "متابعة طلب",
-    "footerIntro": "متجر مركّز للخطط الحالية من IPTV وأقسام رقمية مستقبلية.",
+    "footerIntro": "خطط IPTV الحالية واستفسارات اشتراكات البث والذكاء الاصطناعي في مكان واحد.",
     "sharedSupport": "تستخدم الخطط ودعم الطلبات أنظمة Opplex المركزية. يفتح الدفع على Opplexify.",
     "legal": "السياسات",
     "privacy": "سياسة الخصوصية",
@@ -1868,11 +2172,11 @@
     "pages": {
       "about": {
         "title": "عن Cheap Accounts",
-        "intro": "يجمع Cheap Accounts خيارات IPTV الحالية وأقساماً مستقبلية مميزة بوضوح في متجر سهل.",
+        "intro": "يجمع Cheap Accounts خطط IPTV الحالية واستفسارات اشتراكات البث والذكاء الاصطناعي في متجر سهل.",
         "sections": [
           {
             "heading": "ابدأ بتفاصيل واضحة",
-            "body": "قارن Opplex وFilex منفصلين، وراجع المدة والمبلغ الكامل واسأل عن جهازك قبل الشراء. أقسام ChatGPT وNetflix وHBO Max قادمة قريباً ولا تقبل الطلبات الآن."
+            "body": "قارن Opplex وFilex منفصلين، وراجع المدة والمبلغ الكامل واسأل عن جهازك قبل الشراء. استفسر عن ChatGPT وNetflix وHBO Max وخطط البث أو الذكاء الاصطناعي الأخرى عبر WhatsApp؛ أكّد التوافر وأهلية بلدك والشروط قبل الشراء."
           },
           {
             "heading": "دعم مرتبط بالطلبات",
@@ -1900,7 +2204,7 @@
         "sections": [
           {
             "heading": "ماذا أستطيع طلبه اليوم؟",
-            "body": "يمكن إضافة خطط IPTV المتاحة حالياً من Opplex وFilex فقط إلى السلة. أقسام ChatGPT وNetflix وHBO Max قادمة قريباً، دون وعود بأسعار أو مواعيد توافر."
+            "body": "يمكن إضافة خطط IPTV المتاحة حالياً من Opplex وFilex فقط إلى السلة. استفسر عن ChatGPT وNetflix وHBO Max وخطط البث أو الذكاء الاصطناعي الأخرى عبر WhatsApp؛ أكّد التوافر وأهلية بلدك والشروط قبل الشراء."
           },
           {
             "heading": "هل يمكن دفع عدة خطط معاً؟",
@@ -1914,7 +2218,7 @@
       },
       "buying-guide": {
         "title": "دليل عملي لاختيار خطة رقمية",
-        "intro": "يبدأ الشراء المفيد بتفاصيل يمكن التحقق منها اليوم، وليس باسم مألوف فقط.",
+        "intro": "يبدأ الشراء المفيد بتفاصيل يمكن التحقق منها اليوم، وليس باسم مألوف فقط. لخطط البث والذكاء الاصطناعي، اطلب السعر عبر WhatsApp وأكّد بلدك وفترة الفوترة والشروط قبل الشراء.",
         "sections": [
           {
             "heading": "طابق الخطة مع إعدادك",
@@ -1946,7 +2250,7 @@
         "sections": [
           {
             "heading": "افهم المنتج المختار",
-            "body": "تحدد الخطط المتاحة Opplex أو Filex والمدة والسعر الحالي. قد يكون للمشغّل متطلبات ورسوم منفصلة. الأقسام القادمة لا تقبل الطلبات ولا تؤكد توافراً مستقبلياً."
+            "body": "تحدد الخطط المتاحة Opplex أو Filex والمدة والسعر الحالي. قد يكون للمشغّل متطلبات ورسوم منفصلة. تقبل قوائم البث والذكاء الاصطناعي الاستفسارات فقط؛ أكّد التوافر وشروط التوريد قبل أي شراء."
           },
           {
             "heading": "راجع الطلب النهائي",
@@ -1968,7 +2272,45 @@
           }
         ]
       }
-    }
+    },
+    "ott": "اشتراكات البث",
+    "ai": "أدوات الذكاء الاصطناعي",
+    "ottSummary": "استكشف خيارات خطط البث واسأل عن الأسعار الحالية والتوافر في بلدك.",
+    "aiSummary": "قارن اشتراكات الذكاء الاصطناعي واستفسر عن الأهلية والفوترة والأسعار الحالية.",
+    "requestPricing": "اطلب السعر",
+    "enquiryOnly": "للاستفسار فقط",
+    "enquiryHeading": "اسأل عن اشتراكك القادم",
+    "enquiryIntro": "استفسر عن الخطة التي تريدها. أكّد أهلية بلدك وفترة الفوترة والتوافر قبل الشراء.",
+    "choosePlan": "اختر خطة",
+    "officialDetails": "تفاصيل الخطط الرسمية",
+    "availabilityOnRequest": "أكّد التوافر",
+    "quoteNote": "يفتح WhatsApp بالمنتج والخطة المختارين. أنت تقرر ما إذا كنت سترسل الرسالة.",
+    "whatsappSupport": "اسألنا عبر WhatsApp",
+    "whatsappGeneralMessage": "مرحباً، أتصفح cheapaccounts.shop وأرغب في معرفة الأسعار والتوافر الحاليين.",
+    "whatsappProductMessage": "مرحباً، أرغب في معرفة السعر والتوافر الحاليين لمنتج {product}، الخطة {plan}، عبر cheapaccounts.shop. يرجى تأكيد أهلية بلدي وفترة الفوترة والشروط.",
+    "quotePhoneUnavailable": "WhatsApp غير متاح مؤقتاً. يرجى التواصل مع الدعم.",
+    "noStockClaim": "للاستفسار فقط. أكّد التوافر وشروط التوريد مع الدعم. أسماء العلامات التجارية لا تعني وجود شراكة رسمية.",
+    "subscriptionEnquiry": "استفسار عن الاشتراك",
+    "premiumEnquiry": "استفسار عن الخيار المميز",
+    "chatSetupEnquiry": "استفسار عن إعداد الدردشة",
+    "apiUsageEnquiry": "استفسار عن استخدام API",
+    "netflixHouseholdMonthly": "أكّد الخطة الشهرية وقواعد الأسرة لدى Netflix في بلدك.",
+    "hboMaxRegionalTiers": "تحقّق من خطط HBO Max المتاحة في بلدك وما تتضمنه كل خطة.",
+    "ulluConfirmCurrentMembership": "أكّد مدة عضوية ULLU الحالية والأهلية والتوافر في منطقتك.",
+    "primeVideoSeparateAddons": "قد تُفرض رسوم منفصلة على اشتراك Prime Video والقنوات الإضافية والتأجير والمشتريات.",
+    "disneyRegionalPlanNames": "تختلف أسماء خطط Disney+ وباقاتها حسب البلد. أكّد الخيار الذي تحتاجه.",
+    "appleTvServiceNotHardware": "اسأل عن اشتراك بث Apple TV. الأجهزة والتأجير والخدمات الأخرى منفصلة.",
+    "jioHotstarIndiaDeviceTier": "أكّد توافر JioHotstar في الهند والأجهزة التي تغطيها الخطة المختارة.",
+    "sonyLivRegionalDeviceTerms": "أكّد بلدك والأجهزة المشمولة ومدة اشتراك Sony LIV.",
+    "zee5ConfirmCurrentRegionalPack": "اسأل عن باقة ZEE5 الحالية التي تنطبق على بلدك قبل اختيار المدة.",
+    "crunchyrollRegionalTierBenefits": "راجع مزايا خطط Crunchyroll المقدمة في بلدك وشروط الأجهزة.",
+    "paramountSelectedMarkets": "يتوافر Paramount+ في أسواق محددة. أكّد أهلية بلدك والخطة.",
+    "peacockDistinctContentTiers": "قد تتضمن خطط Peacock محتوى مختلفاً. أكّد الخطة والبلد وفترة الفوترة.",
+    "chatgptSubscriptionNotApi": "تُفوتر اشتراكات ChatGPT واستخدام API بشكل منفصل. أكّد الخدمة التي تحتاجها.",
+    "claudeUsageAndAccountRequirements": "تتضمن خطط Claude حدود استخدام ومتطلبات للحساب. أكّد الخطة وفترة الفوترة.",
+    "geminiCountryAndPersonalAccount": "أكّد توافر خطط Google AI وأهلية الحساب الشخصي في بلدك.",
+    "grokUnifiedSubscriptionEligibility": "أكّد فئة الاشتراك الموحّد الحالية وأهلية الحساب لخدمة Grok.",
+    "deepseekChatAndApiSeparate": "دردشة DeepSeek مجانية؛ يُحاسب استخدام API بشكل منفصل. اسأل عن الإعداد أو استخدام API."
   },
   "hi": {
     "tagline": "डिजिटल विकल्प, स्पष्ट कीमतें।",
@@ -1997,15 +2339,15 @@
     "noResults": "इन फ़िल्टर से कोई उत्पाद नहीं मिला।",
     "homeEyebrow": "आपकी डिजिटल दुकान",
     "homeTitle": "डिजिटल प्लान। स्पष्ट विकल्प।",
-    "homeIntro": "Opplex और Filex के मौजूदा IPTV प्लान की तुलना करें, अपने सेटअप की ज़रूरतें देखें और Opplexify पर भुगतान से पहले अपना चयन जाँचें।",
+    "homeIntro": "Opplex और Filex के मौजूदा IPTV प्लान की तुलना करें, जिनका भुगतान Opplexify पर होता है। या ओटीटी और एआई प्लान के बारे में पूछें और अपने देश में पात्रता, बिलिंग व उपलब्धता की पुष्टि सपोर्ट से करें।",
     "shopPlans": "IPTV प्लान देखें",
     "howItWorks": "भुगतान कैसे होता है",
     "availableNow": "अभी उपलब्ध",
     "categoryHeading": "अपनी श्रेणी खोजें",
     "iptvSummary": "उपलब्ध प्रदाताओं और सदस्यता अवधियों की तुलना करें।",
-    "chatgptSummary": "उत्पाद विकल्प और कीमतें अभी प्रकाशित नहीं हुई हैं।",
-    "netflixSummary": "यह श्रेणी तैयार हो रही है। ऑर्डर अभी उपलब्ध नहीं हैं।",
-    "hboSummary": "पुष्टि के बाद उपलब्धता और उत्पाद विवरण यहाँ आएँगे।",
+    "chatgptSummary": "ChatGPT के प्लान के बारे में पूछें और सही विकल्प, बिलिंग अवधि व अपने देश में पात्रता की पुष्टि करें।",
+    "netflixSummary": "Netflix के प्लान के बारे में पूछें और अपने देश में उपलब्धता की पुष्टि करें।",
+    "hboSummary": "HBO Max के प्लान, बिलिंग अवधि और अपने देश में उपलब्धता के बारे में पूछें।",
     "planHeading": "आपके अगले कदम के लिए एक प्लान।",
     "planIntro": "मौजूदा कीमतें और उपलब्धता Opplex कैटलॉग से आती हैं। भुगतान से पहले प्रदाता, अवधि और पूरी रकम जाँचें।",
     "currentCatalogue": "मौजूदा कैटलॉग",
@@ -2061,7 +2403,7 @@
     "helpBody": "सहायता को डिवाइस, प्लेयर और जिस प्लान पर विचार कर रहे हैं वह बताएँ। पुरानी खरीद के लिए निजी ऑर्डर सहायता लें।",
     "contactSupport": "सहायता से संपर्क करें",
     "trackOrder": "ऑर्डर देखें",
-    "footerIntro": "मौजूदा IPTV प्लान और आने वाली डिजिटल श्रेणियों की एक केंद्रित दुकान।",
+    "footerIntro": "मौजूदा IPTV प्लान और ओटीटी व एआई सब्सक्रिप्शन की जानकारी एक जगह।",
     "sharedSupport": "प्लान और ऑर्डर सहायता मुख्य Opplex प्रणालियों पर हैं। भुगतान Opplexify पर खुलता है।",
     "legal": "नीतियाँ",
     "privacy": "गोपनीयता नीति",
@@ -2087,11 +2429,11 @@
     "pages": {
       "about": {
         "title": "Cheap Accounts के बारे में",
-        "intro": "Cheap Accounts मौजूदा IPTV विकल्पों और साफ़ बताई गई आने वाली श्रेणियों को एक आसान दुकान में लाता है।",
+        "intro": "Cheap Accounts मौजूदा IPTV प्लान और ओटीटी व एआई सब्सक्रिप्शन की जानकारी को एक आसान दुकान में लाता है।",
         "sections": [
           {
             "heading": "स्पष्ट विवरण से शुरू करें",
-            "body": "Opplex और Filex को अलग देखें, अवधि व पूरी रकम जाँचें और खरीद से पहले अपने डिवाइस के बारे में पूछें। ChatGPT, Netflix और HBO Max जल्द आ रहे हैं और अभी ऑर्डर नहीं किए जा सकते।"
+            "body": "Opplex और Filex को अलग देखें, अवधि व पूरी रकम जाँचें और खरीद से पहले अपने डिवाइस के बारे में पूछें। ChatGPT, Netflix, HBO Max और दूसरे ओटीटी या एआई प्लान के बारे में WhatsApp पर पूछें; खरीदने से पहले उपलब्धता, अपने देश में पात्रता और शर्तों की पुष्टि करें।"
           },
           {
             "heading": "ऑर्डर से जुड़ी सहायता",
@@ -2119,7 +2461,7 @@
         "sections": [
           {
             "heading": "आज क्या ऑर्डर कर सकता हूँ?",
-            "body": "कार्ट में केवल अभी उपलब्ध Opplex और Filex IPTV प्लान जोड़े जा सकते हैं। ChatGPT, Netflix और HBO Max जल्द आ रहे हैं; कीमत या उपलब्धता की तारीख का वादा नहीं है।"
+            "body": "कार्ट में केवल अभी उपलब्ध Opplex और Filex IPTV प्लान जोड़े जा सकते हैं। ChatGPT, Netflix, HBO Max और दूसरे ओटीटी या एआई प्लान के बारे में WhatsApp पर पूछें; खरीदने से पहले उपलब्धता, अपने देश में पात्रता और शर्तों की पुष्टि करें।"
           },
           {
             "heading": "क्या कई प्लान एक साथ चुका सकता हूँ?",
@@ -2133,7 +2475,7 @@
       },
       "buying-guide": {
         "title": "डिजिटल प्लान चुनने की व्यावहारिक गाइड",
-        "intro": "अच्छी खरीद उन विवरणों से शुरू होती है जो आज जाँचे जा सकते हैं, केवल परिचित नाम से नहीं।",
+        "intro": "अच्छी खरीद उन विवरणों से शुरू होती है जो आज जाँचे जा सकते हैं, केवल परिचित नाम से नहीं। ओटीटी और एआई प्लान की कीमत WhatsApp पर पूछें और खरीदने से पहले अपने देश, बिलिंग अवधि और शर्तों की पुष्टि करें।",
         "sections": [
           {
             "heading": "सेटअप के मुताबिक प्लान चुनें",
@@ -2165,7 +2507,7 @@
         "sections": [
           {
             "heading": "चुने उत्पाद को समझें",
-            "body": "उपलब्ध प्लान Opplex या Filex, अवधि और मौजूदा कीमत बताते हैं। प्लेयर की अलग ज़रूरतें और शुल्क हो सकते हैं। आने वाली श्रेणियाँ ऑर्डर नहीं की जा सकतीं और भविष्य की उपलब्धता की पुष्टि नहीं हैं।"
+            "body": "उपलब्ध प्लान Opplex या Filex, अवधि और मौजूदा कीमत बताते हैं। प्लेयर की अलग ज़रूरतें और शुल्क हो सकते हैं। ओटीटी और एआई लिस्टिंग केवल पूछताछ के लिए हैं; खरीदने से पहले उपलब्धता और सेवा की शर्तों की पुष्टि करें।"
           },
           {
             "heading": "अंतिम ऑर्डर देखें",
@@ -2187,6 +2529,44 @@
           }
         ]
       }
-    }
+    },
+    "ott": "ओटीटी सब्सक्रिप्शन",
+    "ai": "एआई टूल",
+    "ottSummary": "ओटीटी प्लान देखें और मौजूदा कीमत व अपने देश में उपलब्धता के बारे में पूछें।",
+    "aiSummary": "एआई सब्सक्रिप्शन की तुलना करें और पात्रता, बिलिंग व मौजूदा कीमत के बारे में पूछें।",
+    "requestPricing": "कीमत पूछें",
+    "enquiryOnly": "केवल पूछताछ",
+    "enquiryHeading": "अपने अगले सब्सक्रिप्शन के बारे में पूछें",
+    "enquiryIntro": "अपने पसंदीदा प्लान के बारे में पूछें। खरीदने से पहले अपने देश में पात्रता, बिलिंग अवधि और उपलब्धता की पुष्टि करें।",
+    "choosePlan": "प्लान चुनें",
+    "officialDetails": "आधिकारिक प्लान की जानकारी",
+    "availabilityOnRequest": "उपलब्धता की पुष्टि करें",
+    "quoteNote": "चुने गए प्रोडक्ट और प्लान के साथ WhatsApp खुलेगा। संदेश भेजने का फैसला आप करेंगे।",
+    "whatsappSupport": "WhatsApp पर हमसे पूछें",
+    "whatsappGeneralMessage": "नमस्ते, मैं cheapaccounts.shop देख रहा हूं। मौजूदा कीमत और उपलब्धता जानना चाहता हूं।",
+    "whatsappProductMessage": "नमस्ते, cheapaccounts.shop पर {product}, प्लान {plan}, की मौजूदा कीमत और उपलब्धता जानना चाहता हूं। कृपया मेरे देश में पात्रता, बिलिंग अवधि और शर्तों की पुष्टि करें।",
+    "quotePhoneUnavailable": "WhatsApp फिलहाल उपलब्ध नहीं है। कृपया सपोर्ट से संपर्क करें।",
+    "noStockClaim": "यह केवल पूछताछ की सुविधा है। उपलब्धता और सेवा की शर्तों की पुष्टि सपोर्ट से करें। ब्रांड का नाम किसी आधिकारिक साझेदारी का दावा नहीं है।",
+    "subscriptionEnquiry": "सब्सक्रिप्शन की जानकारी",
+    "premiumEnquiry": "प्रीमियम विकल्प की जानकारी",
+    "chatSetupEnquiry": "चैट सेटअप की जानकारी",
+    "apiUsageEnquiry": "API के उपयोग की जानकारी",
+    "netflixHouseholdMonthly": "अपने देश के लिए मासिक प्लान और Netflix के घर से जुड़े नियमों की पुष्टि करें।",
+    "hboMaxRegionalTiers": "देखें कि आपके देश में HBO Max के कौन से प्लान हैं और हर प्लान में क्या शामिल है।",
+    "ulluConfirmCurrentMembership": "ULLU की मौजूदा सदस्यता अवधि, पात्रता और क्षेत्रीय उपलब्धता की पुष्टि करें।",
+    "primeVideoSeparateAddons": "Prime Video सब्सक्रिप्शन, अतिरिक्त चैनल, किराये और खरीदारी के अलग शुल्क हो सकते हैं।",
+    "disneyRegionalPlanNames": "Disney+ के प्लान के नाम और बंडल देश के अनुसार अलग होते हैं। अपना जरूरी विकल्प पक्का करें।",
+    "appleTvServiceNotHardware": "Apple TV के स्ट्रीमिंग सब्सक्रिप्शन के बारे में पूछें। डिवाइस, किराये और दूसरी सेवाएं अलग हैं।",
+    "jioHotstarIndiaDeviceTier": "भारत में JioHotstar की उपलब्धता और चुने गए प्लान में शामिल डिवाइस की पुष्टि करें।",
+    "sonyLivRegionalDeviceTerms": "Sony LIV के लिए अपने देश, शामिल डिवाइस और सब्सक्रिप्शन अवधि की पुष्टि करें।",
+    "zee5ConfirmCurrentRegionalPack": "अवधि चुनने से पहले पूछें कि आपके देश में ZEE5 का कौन सा मौजूदा पैक लागू होता है।",
+    "crunchyrollRegionalTierBenefits": "अपने देश में उपलब्ध Crunchyroll प्लान के फायदे और डिवाइस की शर्तें देखें।",
+    "paramountSelectedMarkets": "Paramount+ कुछ बाजारों में उपलब्ध है। अपने देश में पात्रता और प्लान की पुष्टि करें।",
+    "peacockDistinctContentTiers": "Peacock के प्लान में अलग सामग्री शामिल हो सकती है। प्लान, देश और बिलिंग अवधि की पुष्टि करें।",
+    "chatgptSubscriptionNotApi": "ChatGPT सब्सक्रिप्शन और API उपयोग की अलग बिलिंग होती है। पक्का करें कि आपको कौन सी सेवा चाहिए।",
+    "claudeUsageAndAccountRequirements": "Claude प्लान में उपयोग की सीमाएं और खाते की शर्तें होती हैं। प्लान और बिलिंग अवधि की पुष्टि करें।",
+    "geminiCountryAndPersonalAccount": "अपने देश में Google AI प्लान की उपलब्धता और निजी खाते की पात्रता की पुष्टि करें।",
+    "grokUnifiedSubscriptionEligibility": "Grok के लिए मौजूदा संयुक्त सब्सक्रिप्शन प्लान और खाते की पात्रता की पुष्टि करें।",
+    "deepseekChatAndApiSeparate": "DeepSeek चैट मुफ्त है; API उपयोग का अलग शुल्क लगता है। सेटअप या API उपयोग के बारे में पूछें।"
   }
 }
