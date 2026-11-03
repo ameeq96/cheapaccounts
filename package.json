@@ -1,0 +1,17 @@
+{
+  "name": "cheapaccounts",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev --webpack --hostname 127.0.0.1 --port 8107",
+    "build": "next build --webpack",
+    "verify": "node scripts/verify.mjs",
+    "test": "node --test scripts/store.test.mjs"
+  },
+  "dependencies": {
+    "next": "16.4.4",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  }
+}

@@ -1,0 +1,2192 @@
+{
+  "en": {
+    "tagline": "Digital choices, clearly priced.",
+    "shop": "Shop",
+    "iptv": "IPTV",
+    "comingSoon": "Coming soon",
+    "buyingGuide": "Buying guide",
+    "support": "Support",
+    "account": "My account",
+    "cart": "Cart",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language",
+    "search": "Search products",
+    "searchPlaceholder": "Search a provider or product",
+    "provider": "Provider",
+    "allProviders": "All providers",
+    "duration": "Duration",
+    "allDurations": "All durations",
+    "sort": "Sort by",
+    "sortDefault": "Recommended order",
+    "sortLow": "Price: low to high",
+    "sortHigh": "Price: high to low",
+    "clearFilters": "Clear filters",
+    "results": "Products found",
+    "noResults": "No products match these filters.",
+    "homeEyebrow": "YOUR DIGITAL STOREFRONT",
+    "homeTitle": "Digital plans. Clear choices.",
+    "homeIntro": "Compare current Opplex and Filex IPTV plans, check the details that matter to your setup, and review your selection before checkout on Opplexify.",
+    "shopPlans": "Shop IPTV plans",
+    "howItWorks": "How checkout works",
+    "availableNow": "Available now",
+    "categoryHeading": "Find your category",
+    "iptvSummary": "Compare available providers and subscription lengths.",
+    "chatgptSummary": "Product options and pricing have not been published yet.",
+    "netflixSummary": "This category is being prepared. Orders are not available.",
+    "hboSummary": "Availability and product details will appear here when confirmed.",
+    "planHeading": "A plan for your next step.",
+    "planIntro": "Current prices and availability come from the Opplex catalogue. Review the provider, duration and full amount before paying.",
+    "currentCatalogue": "Current catalogue",
+    "viewProduct": "View product",
+    "chooseDuration": "Choose a subscription length",
+    "month": "month",
+    "months": "months",
+    "total": "Plan total",
+    "from": "From",
+    "fullAmount": "Full amount for the selected term",
+    "connection": "Simultaneous connections",
+    "oneConnection": "One simultaneous connection",
+    "confirmAllowance": "Confirm the connection allowance with support",
+    "playerSeparate": "A player app and any separate licence are not the service subscription.",
+    "checkoutNote": "Applicable fees and the final total are shown on Opplexify before payment.",
+    "onePlan": "One plan per checkout",
+    "onePlanDetail": "Choose one provider and subscription length for each checkout.",
+    "addToCart": "Add to cart",
+    "inCart": "In your cart",
+    "cartAdded": "Your selected plan is in the cart.",
+    "viewCart": "View cart",
+    "replaceTitle": "Replace your current selection?",
+    "replaceBody": "Checkout currently supports one plan at a time. Your existing selection will stay unless you replace it.",
+    "keepPlan": "Keep current plan",
+    "replacePlan": "Replace selection",
+    "remove": "Remove selection",
+    "emptyCart": "Your cart is ready for a choice.",
+    "emptyCartBody": "Compare the available IPTV products, then add one plan to review before checkout.",
+    "orderSummary": "Your selection",
+    "quantity": "Quantity",
+    "reviewSelection": "I have checked the provider, subscription length and current plan total.",
+    "continueCheckout": "Continue to Opplexify",
+    "openingCheckout": "Opening checkout…",
+    "refreshing": "Checking current details…",
+    "pricesUnavailable": "Current prices could not be verified. Please retry before checking out.",
+    "retry": "Retry",
+    "priceChanged": "The selected plan has changed. Review its current details and confirm the selection again.",
+    "planUnavailable": "This plan is no longer available. Choose another current plan.",
+    "notAvailable": "Not available to order",
+    "comingSoonTitle": "Something to look forward to.",
+    "comingSoonBody": "This category is not available for purchase. Product details and prices will appear only when confirmed.",
+    "backShop": "Back to shop",
+    "productDetails": "Know what you are choosing",
+    "opplexSummary": "Choose an Opplex IPTV subscription length and check the current plan details.",
+    "filexSummary": "Compare the current Filex IPTV options and clarify any unstated connection allowance before buying.",
+    "stepChoose": "Choose your provider",
+    "stepChooseBody": "Compare Opplex and Filex using the details shown on each product.",
+    "stepReview": "Review your selection",
+    "stepReviewBody": "Confirm the subscription length, amount and any unanswered setup questions.",
+    "stepCheckout": "Continue on Opplexify",
+    "stepCheckoutBody": "Review the final checkout details there before making payment.",
+    "helpTitle": "A question before you choose?",
+    "helpBody": "Tell support your device, player and the plan you are considering. For an existing purchase, use private order support.",
+    "contactSupport": "Contact support",
+    "trackOrder": "Track an order",
+    "footerIntro": "A focused storefront for current IPTV plans and future digital categories.",
+    "sharedSupport": "Plans and order support use the central Opplex systems. Payment checkout opens on Opplexify.",
+    "legal": "Policies",
+    "privacy": "Privacy policy",
+    "terms": "Terms of service",
+    "refund": "Refund policy",
+    "about": "About Cheap Accounts",
+    "contact": "Contact",
+    "faqs": "FAQs",
+    "rights": "Third-party brand names identify product categories; they do not imply an official partnership.",
+    "refreshPrices": "Refresh prices",
+    "selectionTitle": "Choose with the details in view.",
+    "selectionIntro": "Check the exact provider, term and amount. Confirm device and player requirements before choosing a plan.",
+    "securityNote": "Keep passwords, payment codes and private account links out of public messages.",
+    "skipContent": "Skip to content",
+    "closeDialog": "Close dialog",
+    "browseAll": "Browse all categories",
+    "checkoutHeading": "Checkout with a clear next step.",
+    "products": "Products",
+    "subscription": "Subscription",
+    "readGuide": "Read the buying guide",
+    "centralPolicies": "Read the full central policy",
+    "customerPortal": "Open the customer portal",
+    "pages": {
+      "about": {
+        "title": "About Cheap Accounts",
+        "intro": "Cheap Accounts brings current IPTV choices and clearly marked future categories into one straightforward storefront.",
+        "sections": [
+          {
+            "heading": "A focused starting point",
+            "body": "Browse Opplex and Filex as separate services, compare the subscription length and current amount, and ask about your device before buying. ChatGPT, Netflix and HBO Max are Coming soon, with ordering disabled."
+          },
+          {
+            "heading": "Connected order support",
+            "body": "Plans and private order support use the central Opplex systems. Checkout continues on Opplexify. Third-party category names do not mean that Cheap Accounts is an official partner of those brands."
+          }
+        ]
+      },
+      "contact": {
+        "title": "Contact Cheap Accounts",
+        "intro": "Start with the question you want answered: choosing a plan, preparing a device or checking an existing order.",
+        "sections": [
+          {
+            "heading": "Before a purchase",
+            "body": "Tell shared support your exact device model, player and provider you are considering. Ask about any unstated connection allowance, separate app licence and activation process before choosing a term."
+          },
+          {
+            "heading": "For an existing order",
+            "body": "Use the central private customer portal with the purchase email. Check an unclear payment before starting another. Do not post passwords, payment codes or private access links in public messages."
+          }
+        ]
+      },
+      "faqs": {
+        "title": "Cheap Accounts questions, answered",
+        "intro": "Keep the product, player and payment as separate decisions so the next step stays clear.",
+        "sections": [
+          {
+            "heading": "What can I order today?",
+            "body": "Only the currently available Opplex and Filex IPTV plans can be added to the cart. ChatGPT, Netflix and HBO Max are Coming soon; no prices or availability dates are promised."
+          },
+          {
+            "heading": "Can I pay for several plans together?",
+            "body": "The current checkout supports one plan at a time. Review the provider, subscription length and current total in the cart, then confirm the final details on Opplexify."
+          },
+          {
+            "heading": "How many connections are included?",
+            "body": "Opplex has one simultaneous connection. The Filex allowance must be confirmed with support. Installed player apps and profiles do not create extra simultaneous connections."
+          }
+        ]
+      },
+      "buying-guide": {
+        "title": "A practical guide to choosing a digital plan",
+        "intro": "A useful purchase starts with the details you can verify today, rather than a familiar product name.",
+        "sections": [
+          {
+            "heading": "Match the plan to your setup",
+            "body": "Identify your device and player, then compare Opplex and Filex as separate providers. Check the duration, current full price, connection allowance and any separate player licence. Ask support about anything unstated."
+          },
+          {
+            "heading": "Review before paying",
+            "body": "The cart holds one plan. Current price and availability are checked again before checkout. Continue through the central Opplex website to Opplexify and review the final provider, term, currency and amount there."
+          }
+        ]
+      },
+      "privacy-policy": {
+        "title": "Cheap Accounts privacy overview",
+        "intro": "This overview explains the store's basic data flow. Read the linked central privacy policy for the full applicable information.",
+        "sections": [
+          {
+            "heading": "Your selection and account",
+            "body": "The cart remembers a selected package ID in your browser. Current pricing is read from the main catalogue. Private account access and order support take place in the central Opplex systems; payment continues on Opplexify."
+          },
+          {
+            "heading": "Keep private details private",
+            "body": "Use the private customer portal for an existing purchase. Keep passwords, payment codes and private account links out of public messages. External services follow their own privacy terms."
+          }
+        ]
+      },
+      "terms-of-service": {
+        "title": "Cheap Accounts terms overview",
+        "intro": "Review the selected service and the linked central terms before placing an order. This short overview does not replace those terms.",
+        "sections": [
+          {
+            "heading": "Know the product being selected",
+            "body": "The available plans identify Opplex or Filex, duration and current price. A player application may have separate requirements or fees. Coming soon categories cannot be ordered and do not confirm future availability."
+          },
+          {
+            "heading": "Check the final order",
+            "body": "One plan can be checked out at a time. Confirm the provider, duration, currency, applicable fees and total on Opplexify before paying. Existing service conditions and mandatory consumer rights continue to apply."
+          }
+        ]
+      },
+      "refund-policy": {
+        "title": "Cheap Accounts refund information",
+        "intro": "Read the linked central refund policy before payment and ask support about your particular purchase when something is unclear.",
+        "sections": [
+          {
+            "heading": "Check before choosing",
+            "body": "Confirm the provider, duration, device and player requirements, connection allowance and any separate app costs before ordering. Do not assume an unused period automatically creates a refund or credit."
+          },
+          {
+            "heading": "Ask about a specific order",
+            "body": "Use private order support with your purchase reference and a clear explanation. The applicable central policy and mandatory legal rights govern the request; this page does not promise approval or a processing time."
+          }
+        ]
+      }
+    }
+  },
+  "es": {
+    "tagline": "Opciones digitales, precios claros.",
+    "shop": "Tienda",
+    "iptv": "IPTV",
+    "comingSoon": "Próximamente",
+    "buyingGuide": "Guía de compra",
+    "support": "Soporte",
+    "account": "Mi cuenta",
+    "cart": "Carrito",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "language": "Idioma",
+    "search": "Buscar productos",
+    "searchPlaceholder": "Busca un proveedor o producto",
+    "provider": "Proveedor",
+    "allProviders": "Todos los proveedores",
+    "duration": "Duración",
+    "allDurations": "Todas las duraciones",
+    "sort": "Ordenar por",
+    "sortDefault": "Orden recomendado",
+    "sortLow": "Precio: de menor a mayor",
+    "sortHigh": "Precio: de mayor a menor",
+    "clearFilters": "Borrar filtros",
+    "results": "Productos encontrados",
+    "noResults": "Ningún producto coincide con estos filtros.",
+    "homeEyebrow": "TU TIENDA DIGITAL",
+    "homeTitle": "Planes digitales. Opciones claras.",
+    "homeIntro": "Compara los planes IPTV actuales de Opplex y Filex, revisa los detalles de tu instalación y confirma tu selección antes de pagar en Opplexify.",
+    "shopPlans": "Ver planes IPTV",
+    "howItWorks": "Cómo funciona el pago",
+    "availableNow": "Disponible ahora",
+    "categoryHeading": "Encuentra tu categoría",
+    "iptvSummary": "Compara proveedores y duraciones disponibles.",
+    "chatgptSummary": "Las opciones de producto y los precios aún no se han publicado.",
+    "netflixSummary": "Esta categoría está en preparación. No admite pedidos.",
+    "hboSummary": "Los productos y su disponibilidad aparecerán cuando se confirmen.",
+    "planHeading": "Un plan para tu siguiente paso.",
+    "planIntro": "Precios y disponibilidad actuales del catálogo Opplex. Revisa proveedor, duración e importe completo antes de pagar.",
+    "currentCatalogue": "Catálogo actual",
+    "viewProduct": "Ver producto",
+    "chooseDuration": "Elige la duración del abono",
+    "month": "mes",
+    "months": "meses",
+    "total": "Total del plan",
+    "from": "Desde",
+    "fullAmount": "Importe completo del periodo elegido",
+    "connection": "Conexiones simultáneas",
+    "oneConnection": "Una conexión simultánea",
+    "confirmAllowance": "Confirma el límite de conexiones con soporte",
+    "playerSeparate": "La aplicación y su posible licencia son independientes del abono al servicio.",
+    "checkoutNote": "Las tarifas aplicables y el total final se muestran en Opplexify antes del pago.",
+    "onePlan": "Un plan por compra",
+    "onePlanDetail": "Elige un proveedor y una duración para cada compra.",
+    "addToCart": "Añadir al carrito",
+    "inCart": "En tu carrito",
+    "cartAdded": "El plan seleccionado está en el carrito.",
+    "viewCart": "Ver carrito",
+    "replaceTitle": "¿Sustituir tu selección actual?",
+    "replaceBody": "El pago admite un plan cada vez. Tu selección actual se mantiene hasta que la sustituyas.",
+    "keepPlan": "Conservar el plan actual",
+    "replacePlan": "Sustituir selección",
+    "remove": "Eliminar selección",
+    "emptyCart": "Tu carrito espera una elección.",
+    "emptyCartBody": "Compara los productos IPTV disponibles y añade un plan para revisarlo antes de pagar.",
+    "orderSummary": "Tu selección",
+    "quantity": "Cantidad",
+    "reviewSelection": "He revisado el proveedor, la duración y el total actual del plan.",
+    "continueCheckout": "Continuar a Opplexify",
+    "openingCheckout": "Abriendo el pago…",
+    "refreshing": "Comprobando detalles actuales…",
+    "pricesUnavailable": "No se han podido verificar los precios actuales. Reintenta antes de pagar.",
+    "retry": "Reintentar",
+    "priceChanged": "El plan elegido ha cambiado. Revisa los detalles actuales y confirma de nuevo.",
+    "planUnavailable": "Este plan ya no está disponible. Elige otro plan actual.",
+    "notAvailable": "No se puede pedir",
+    "comingSoonTitle": "Algo que está por llegar.",
+    "comingSoonBody": "Esta categoría aún no admite compras. Los productos y precios aparecerán solo cuando estén confirmados.",
+    "backShop": "Volver a la tienda",
+    "productDetails": "Conoce lo que eliges",
+    "opplexSummary": "Elige la duración de tu abono IPTV Opplex y revisa los detalles actuales.",
+    "filexSummary": "Compara las opciones IPTV Filex actuales y aclara cualquier límite de conexiones no indicado antes de comprar.",
+    "stepChoose": "Elige tu proveedor",
+    "stepChooseBody": "Compara Opplex y Filex con los detalles de cada producto.",
+    "stepReview": "Revisa tu selección",
+    "stepReviewBody": "Confirma duración, importe y cualquier duda sobre la instalación.",
+    "stepCheckout": "Continúa en Opplexify",
+    "stepCheckoutBody": "Revisa allí los detalles finales antes de pagar.",
+    "helpTitle": "¿Una pregunta antes de elegir?",
+    "helpBody": "Indica a soporte tu dispositivo, reproductor y el plan que consideras. Para una compra existente, usa el soporte privado de pedidos.",
+    "contactSupport": "Contactar con soporte",
+    "trackOrder": "Consultar un pedido",
+    "footerIntro": "Una tienda centrada en planes IPTV actuales y futuras categorías digitales.",
+    "sharedSupport": "Los planes y pedidos usan los sistemas centrales Opplex. El pago se abre en Opplexify.",
+    "legal": "Políticas",
+    "privacy": "Política de privacidad",
+    "terms": "Condiciones del servicio",
+    "refund": "Política de reembolso",
+    "about": "Sobre Cheap Accounts",
+    "contact": "Contacto",
+    "faqs": "Preguntas frecuentes",
+    "rights": "Los nombres de terceros identifican categorías de productos; no implican una asociación oficial.",
+    "refreshPrices": "Actualizar precios",
+    "selectionTitle": "Elige con los detalles a la vista.",
+    "selectionIntro": "Revisa proveedor, periodo e importe exactos. Confirma los requisitos del dispositivo y reproductor antes de elegir.",
+    "securityNote": "No publiques contraseñas, códigos de pago ni enlaces privados de cuenta.",
+    "skipContent": "Saltar al contenido",
+    "closeDialog": "Cerrar diálogo",
+    "browseAll": "Ver todas las categorías",
+    "checkoutHeading": "Un siguiente paso claro para pagar.",
+    "products": "Productos",
+    "subscription": "Abono",
+    "readGuide": "Leer la guía de compra",
+    "centralPolicies": "Leer la política central completa",
+    "customerPortal": "Abrir el portal del cliente",
+    "pages": {
+      "about": {
+        "title": "Sobre Cheap Accounts",
+        "intro": "Cheap Accounts reúne opciones IPTV actuales y futuras categorías claramente indicadas en una tienda sencilla.",
+        "sections": [
+          {
+            "heading": "Un punto de partida concreto",
+            "body": "Compara Opplex y Filex por separado, revisa duración e importe y pregunta por tu dispositivo antes de comprar. ChatGPT, Netflix y HBO Max están marcados Próximamente y no admiten pedidos."
+          },
+          {
+            "heading": "Soporte conectado",
+            "body": "Los planes y el soporte privado usan los sistemas centrales Opplex. El pago continúa en Opplexify. Los nombres de categorías de terceros no significan una asociación oficial con esas marcas."
+          }
+        ]
+      },
+      "contact": {
+        "title": "Contactar con Cheap Accounts",
+        "intro": "Empieza por la pregunta que necesitas resolver: elegir un plan, preparar un dispositivo o consultar un pedido.",
+        "sections": [
+          {
+            "heading": "Antes de comprar",
+            "body": "Indica a soporte compartido el modelo exacto, reproductor y proveedor que consideras. Pregunta por límites no indicados, licencias independientes y proceso de activación antes de elegir la duración."
+          },
+          {
+            "heading": "Para un pedido existente",
+            "body": "Usa el portal privado central con el correo de compra. Consulta un pago dudoso antes de iniciar otro. No publiques contraseñas, códigos de pago ni enlaces privados."
+          }
+        ]
+      },
+      "faqs": {
+        "title": "Respuestas sobre Cheap Accounts",
+        "intro": "Distingue producto, reproductor y pago para tener claro el siguiente paso.",
+        "sections": [
+          {
+            "heading": "¿Qué puedo pedir hoy?",
+            "body": "Solo los planes IPTV Opplex y Filex actualmente disponibles se pueden añadir al carrito. ChatGPT, Netflix y HBO Max están en preparación, sin precios ni fechas de disponibilidad prometidos."
+          },
+          {
+            "heading": "¿Puedo pagar varios planes juntos?",
+            "body": "El pago actual admite un plan cada vez. Revisa proveedor, duración y total actual en el carrito y confirma los detalles finales en Opplexify."
+          },
+          {
+            "heading": "¿Cuántas conexiones se incluyen?",
+            "body": "Opplex tiene una conexión simultánea. Debes confirmar el límite de Filex con soporte. Instalar aplicaciones o crear perfiles no añade conexiones simultáneas."
+          }
+        ]
+      },
+      "buying-guide": {
+        "title": "Guía práctica para elegir un plan digital",
+        "intro": "Una compra útil empieza por detalles verificables hoy, no solo por un nombre conocido.",
+        "sections": [
+          {
+            "heading": "Adapta el plan a tu instalación",
+            "body": "Identifica dispositivo y reproductor y compara Opplex y Filex como proveedores separados. Revisa duración, precio total, conexiones y posible licencia del reproductor. Pregunta por lo que no se indique."
+          },
+          {
+            "heading": "Revisa antes de pagar",
+            "body": "El carrito contiene un plan. Precio y disponibilidad se vuelven a comprobar antes del pago. Pasa por la web central Opplex a Opplexify y revisa allí proveedor, periodo, moneda e importe final."
+          }
+        ]
+      },
+      "privacy-policy": {
+        "title": "Resumen de privacidad de Cheap Accounts",
+        "intro": "Este resumen explica el flujo básico de datos. Lee la política central enlazada para conocer la información aplicable completa.",
+        "sections": [
+          {
+            "heading": "Tu selección y cuenta",
+            "body": "El carrito recuerda en tu navegador el identificador del paquete elegido. Los precios vienen del catálogo principal. El acceso privado y soporte de pedidos usan los sistemas centrales Opplex; el pago continúa en Opplexify."
+          },
+          {
+            "heading": "Protege los datos privados",
+            "body": "Usa el portal privado para compras existentes. No publiques contraseñas, códigos de pago ni enlaces de acceso. Los servicios externos tienen sus propias condiciones de privacidad."
+          }
+        ]
+      },
+      "terms-of-service": {
+        "title": "Resumen de condiciones de Cheap Accounts",
+        "intro": "Revisa el servicio elegido y las condiciones centrales enlazadas antes de pedir. Este resumen no las sustituye.",
+        "sections": [
+          {
+            "heading": "Comprende el producto",
+            "body": "Los planes disponibles indican Opplex o Filex, duración y precio actual. El reproductor puede tener requisitos y costes propios. Las categorías Próximamente no admiten pedidos ni confirman disponibilidad futura."
+          },
+          {
+            "heading": "Comprueba el pedido final",
+            "body": "Se paga un plan cada vez. Confirma proveedor, duración, moneda, tarifas y total en Opplexify. Siguen siendo aplicables las condiciones del servicio y los derechos obligatorios del consumidor."
+          }
+        ]
+      },
+      "refund-policy": {
+        "title": "Información de reembolsos de Cheap Accounts",
+        "intro": "Lee la política central de reembolso antes de pagar y consulta tu compra concreta con soporte si algo no está claro.",
+        "sections": [
+          {
+            "heading": "Comprueba antes de elegir",
+            "body": "Confirma proveedor, duración, requisitos de dispositivo y reproductor, conexiones y costes de la aplicación antes de pedir. No supongas que un periodo sin usar genera automáticamente devolución o crédito."
+          },
+          {
+            "heading": "Consulta un pedido específico",
+            "body": "Contacta en privado con la referencia de compra y una explicación clara. La política central aplicable y los derechos legales obligatorios rigen la solicitud; esta página no promete aprobación ni plazos."
+          }
+        ]
+      }
+    }
+  },
+  "fr": {
+    "tagline": "Des choix numériques, des prix clairs.",
+    "shop": "Boutique",
+    "iptv": "IPTV",
+    "comingSoon": "Bientôt disponible",
+    "buyingGuide": "Guide d’achat",
+    "support": "Assistance",
+    "account": "Mon compte",
+    "cart": "Panier",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "language": "Langue",
+    "search": "Rechercher des produits",
+    "searchPlaceholder": "Rechercher un fournisseur ou produit",
+    "provider": "Fournisseur",
+    "allProviders": "Tous les fournisseurs",
+    "duration": "Durée",
+    "allDurations": "Toutes les durées",
+    "sort": "Trier par",
+    "sortDefault": "Ordre recommandé",
+    "sortLow": "Prix croissant",
+    "sortHigh": "Prix décroissant",
+    "clearFilters": "Effacer les filtres",
+    "results": "Produits trouvés",
+    "noResults": "Aucun produit ne correspond à ces filtres.",
+    "homeEyebrow": "VOTRE BOUTIQUE NUMÉRIQUE",
+    "homeTitle": "Des offres numériques. Un choix clair.",
+    "homeIntro": "Comparez les offres IPTV actuelles Opplex et Filex, vérifiez les détails de votre installation et revoyez votre sélection avant le paiement sur Opplexify.",
+    "shopPlans": "Voir les offres IPTV",
+    "howItWorks": "Comment payer",
+    "availableNow": "Disponible maintenant",
+    "categoryHeading": "Trouvez votre catégorie",
+    "iptvSummary": "Comparez les fournisseurs et durées disponibles.",
+    "chatgptSummary": "Les produits et tarifs ne sont pas encore publiés.",
+    "netflixSummary": "Cette catégorie est en préparation. Les commandes sont indisponibles.",
+    "hboSummary": "Produits et disponibilité seront affichés après confirmation.",
+    "planHeading": "Une offre pour la suite.",
+    "planIntro": "Prix et disponibilités actuels du catalogue Opplex. Vérifiez fournisseur, durée et montant total avant de payer.",
+    "currentCatalogue": "Catalogue actuel",
+    "viewProduct": "Voir le produit",
+    "chooseDuration": "Choisissez une durée d’abonnement",
+    "month": "mois",
+    "months": "mois",
+    "total": "Total de l’offre",
+    "from": "À partir de",
+    "fullAmount": "Montant complet pour la durée choisie",
+    "connection": "Connexions simultanées",
+    "oneConnection": "Une connexion simultanée",
+    "confirmAllowance": "Confirmez le nombre de connexions avec l’assistance",
+    "playerSeparate": "L’application du lecteur et sa licence éventuelle sont distinctes de l’abonnement au service.",
+    "checkoutNote": "Les frais applicables et le total final sont présentés sur Opplexify avant paiement.",
+    "onePlan": "Une offre par paiement",
+    "onePlanDetail": "Choisissez un fournisseur et une durée pour chaque achat.",
+    "addToCart": "Ajouter au panier",
+    "inCart": "Dans votre panier",
+    "cartAdded": "Votre offre sélectionnée est dans le panier.",
+    "viewCart": "Voir le panier",
+    "replaceTitle": "Remplacer votre sélection actuelle ?",
+    "replaceBody": "Le paiement accepte une offre à la fois. Votre choix actuel reste en place tant que vous ne le remplacez pas.",
+    "keepPlan": "Garder l’offre actuelle",
+    "replacePlan": "Remplacer la sélection",
+    "remove": "Retirer la sélection",
+    "emptyCart": "Votre panier attend votre choix.",
+    "emptyCartBody": "Comparez les produits IPTV disponibles puis ajoutez une offre à vérifier avant paiement.",
+    "orderSummary": "Votre sélection",
+    "quantity": "Quantité",
+    "reviewSelection": "J’ai vérifié le fournisseur, la durée et le total actuel de l’offre.",
+    "continueCheckout": "Continuer vers Opplexify",
+    "openingCheckout": "Ouverture du paiement…",
+    "refreshing": "Vérification des détails actuels…",
+    "pricesUnavailable": "Les prix actuels n’ont pas pu être vérifiés. Réessayez avant de payer.",
+    "retry": "Réessayer",
+    "priceChanged": "L’offre sélectionnée a changé. Vérifiez ses détails actuels et confirmez à nouveau.",
+    "planUnavailable": "Cette offre n’est plus disponible. Choisissez une offre actuelle.",
+    "notAvailable": "Commande indisponible",
+    "comingSoonTitle": "La suite se prépare.",
+    "comingSoonBody": "Cette catégorie ne peut pas encore être achetée. Les détails et prix apparaîtront uniquement après confirmation.",
+    "backShop": "Retour à la boutique",
+    "productDetails": "Comprenez votre choix",
+    "opplexSummary": "Choisissez la durée d’un abonnement IPTV Opplex et vérifiez ses détails actuels.",
+    "filexSummary": "Comparez les offres IPTV Filex actuelles et clarifiez toute limite de connexion non indiquée avant d’acheter.",
+    "stepChoose": "Choisissez votre fournisseur",
+    "stepChooseBody": "Comparez Opplex et Filex avec les détails de chaque produit.",
+    "stepReview": "Vérifiez votre sélection",
+    "stepReviewBody": "Confirmez durée, montant et questions encore ouvertes sur l’installation.",
+    "stepCheckout": "Continuez sur Opplexify",
+    "stepCheckoutBody": "Vérifiez les détails finaux avant d’y effectuer le paiement.",
+    "helpTitle": "Une question avant de choisir ?",
+    "helpBody": "Indiquez à l’assistance votre appareil, lecteur et offre envisagée. Pour un achat existant, utilisez l’assistance privée des commandes.",
+    "contactSupport": "Contacter l’assistance",
+    "trackOrder": "Consulter une commande",
+    "footerIntro": "Une boutique ciblée sur les offres IPTV actuelles et de futures catégories numériques.",
+    "sharedSupport": "Offres et assistance des commandes utilisent les systèmes centraux Opplex. Le paiement s’ouvre sur Opplexify.",
+    "legal": "Politiques",
+    "privacy": "Confidentialité",
+    "terms": "Conditions de service",
+    "refund": "Remboursements",
+    "about": "À propos de Cheap Accounts",
+    "contact": "Contact",
+    "faqs": "Questions fréquentes",
+    "rights": "Les marques tierces désignent des catégories de produits sans impliquer de partenariat officiel.",
+    "refreshPrices": "Actualiser les prix",
+    "selectionTitle": "Choisissez avec les détails en vue.",
+    "selectionIntro": "Vérifiez le fournisseur, la durée et le montant exacts. Confirmez les exigences de l’appareil et du lecteur avant de choisir.",
+    "securityNote": "Ne publiez pas de mots de passe, codes de paiement ni liens privés de compte.",
+    "skipContent": "Aller au contenu",
+    "closeDialog": "Fermer la boîte de dialogue",
+    "browseAll": "Voir toutes les catégories",
+    "checkoutHeading": "Une prochaine étape claire pour payer.",
+    "products": "Produits",
+    "subscription": "Abonnement",
+    "readGuide": "Lire le guide d’achat",
+    "centralPolicies": "Lire la politique centrale complète",
+    "customerPortal": "Ouvrir le portail client",
+    "pages": {
+      "about": {
+        "title": "À propos de Cheap Accounts",
+        "intro": "Cheap Accounts réunit les offres IPTV actuelles et des catégories futures clairement signalées dans une boutique simple.",
+        "sections": [
+          {
+            "heading": "Un point de départ précis",
+            "body": "Comparez Opplex et Filex séparément, examinez durée et total et demandez conseil pour votre appareil avant d’acheter. ChatGPT, Netflix et HBO Max sont annoncés pour bientôt, sans commande possible."
+          },
+          {
+            "heading": "Une assistance reliée aux commandes",
+            "body": "Les offres et l’assistance privée utilisent les systèmes centraux Opplex. Le paiement continue sur Opplexify. Les noms de catégories tierces ne signifient pas de partenariat officiel avec ces marques."
+          }
+        ]
+      },
+      "contact": {
+        "title": "Contacter Cheap Accounts",
+        "intro": "Commencez par la question à résoudre : choisir une offre, préparer un appareil ou consulter une commande.",
+        "sections": [
+          {
+            "heading": "Avant l’achat",
+            "body": "Précisez le modèle exact, le lecteur et le fournisseur envisagé à l’assistance commune. Demandez les limites non indiquées, les licences séparées et le fonctionnement de l’activation avant de choisir une durée."
+          },
+          {
+            "heading": "Pour une commande existante",
+            "body": "Utilisez le portail privé central avec l’adresse d’achat. Vérifiez un paiement incertain avant d’en commencer un autre. Ne publiez pas de mots de passe, codes de paiement ou liens privés."
+          }
+        ]
+      },
+      "faqs": {
+        "title": "Vos questions sur Cheap Accounts",
+        "intro": "Distinguez produit, lecteur et paiement pour savoir quelle étape suivre.",
+        "sections": [
+          {
+            "heading": "Que puis-je commander aujourd’hui ?",
+            "body": "Seules les offres IPTV Opplex et Filex actuellement disponibles peuvent rejoindre le panier. ChatGPT, Netflix et HBO Max arrivent prochainement, sans tarif ni date de disponibilité promis."
+          },
+          {
+            "heading": "Puis-je payer plusieurs offres ensemble ?",
+            "body": "Le paiement actuel accepte une offre à la fois. Vérifiez fournisseur, durée et total dans le panier, puis confirmez les détails finaux sur Opplexify."
+          },
+          {
+            "heading": "Combien de connexions sont incluses ?",
+            "body": "Opplex autorise une connexion simultanée. La limite Filex doit être confirmée avec l’assistance. Installer des lecteurs ou créer des profils n’ajoute pas de connexions simultanées."
+          }
+        ]
+      },
+      "buying-guide": {
+        "title": "Guide pratique pour choisir une offre numérique",
+        "intro": "Un achat utile commence par des détails vérifiables aujourd’hui, pas seulement par un nom familier.",
+        "sections": [
+          {
+            "heading": "Adaptez l’offre à votre installation",
+            "body": "Identifiez appareil et lecteur, puis comparez Opplex et Filex comme deux fournisseurs distincts. Vérifiez durée, prix total, connexions et licence éventuelle du lecteur. Posez toute question restée sans réponse."
+          },
+          {
+            "heading": "Vérifiez avant de payer",
+            "body": "Le panier contient une offre. Le prix et la disponibilité sont revérifiés avant paiement. Passez du site central Opplex à Opplexify et contrôlez fournisseur, durée, devise et montant final."
+          }
+        ]
+      },
+      "privacy-policy": {
+        "title": "Aperçu de la confidentialité Cheap Accounts",
+        "intro": "Cet aperçu explique le parcours élémentaire des données. Consultez la politique centrale liée pour l’information complète applicable.",
+        "sections": [
+          {
+            "heading": "Votre sélection et votre compte",
+            "body": "Le panier conserve l’identifiant du produit sélectionné dans votre navigateur. Les prix proviennent du catalogue principal. Accès privé et assistance des commandes passent par les systèmes centraux Opplex ; le paiement continue sur Opplexify."
+          },
+          {
+            "heading": "Protégez les informations privées",
+            "body": "Utilisez le portail privé pour un achat existant. Ne publiez pas de mots de passe, codes de paiement ou liens d’accès privés. Les services externes appliquent leurs propres conditions de confidentialité."
+          }
+        ]
+      },
+      "terms-of-service": {
+        "title": "Aperçu des conditions Cheap Accounts",
+        "intro": "Consultez le service choisi et les conditions centrales liées avant de commander. Ce résumé ne les remplace pas.",
+        "sections": [
+          {
+            "heading": "Comprenez le produit choisi",
+            "body": "Les offres indiquent Opplex ou Filex, la durée et le prix actuel. Le lecteur peut avoir ses propres exigences et frais. Les catégories à venir ne peuvent pas être commandées et ne confirment pas une disponibilité future."
+          },
+          {
+            "heading": "Vérifiez la commande finale",
+            "body": "Une offre est payée à la fois. Confirmez fournisseur, durée, devise, frais et total sur Opplexify. Les conditions du service et les droits impératifs du consommateur restent applicables."
+          }
+        ]
+      },
+      "refund-policy": {
+        "title": "Informations sur les remboursements Cheap Accounts",
+        "intro": "Lisez la politique centrale de remboursement avant paiement et demandez conseil pour votre achat précis en cas de doute.",
+        "sections": [
+          {
+            "heading": "Vérifiez avant de choisir",
+            "body": "Confirmez fournisseur, durée, appareil, lecteur, limite de connexions et frais d’application avant de commander. Ne supposez pas qu’une période inutilisée crée automatiquement un remboursement ou un avoir."
+          },
+          {
+            "heading": "Parlez d’une commande précise",
+            "body": "Contactez l’assistance privée avec votre référence et une explication claire. La politique centrale applicable et les droits légaux impératifs encadrent la demande ; cette page ne promet ni accord ni délai."
+          }
+        ]
+      }
+    }
+  },
+  "it": {
+    "tagline": "Scelte digitali, prezzi chiari.",
+    "shop": "Negozio",
+    "iptv": "IPTV",
+    "comingSoon": "In arrivo",
+    "buyingGuide": "Guida all’acquisto",
+    "support": "Assistenza",
+    "account": "Il mio account",
+    "cart": "Carrello",
+    "openMenu": "Apri menu",
+    "closeMenu": "Chiudi menu",
+    "language": "Lingua",
+    "search": "Cerca prodotti",
+    "searchPlaceholder": "Cerca un fornitore o prodotto",
+    "provider": "Fornitore",
+    "allProviders": "Tutti i fornitori",
+    "duration": "Durata",
+    "allDurations": "Tutte le durate",
+    "sort": "Ordina per",
+    "sortDefault": "Ordine consigliato",
+    "sortLow": "Prezzo crescente",
+    "sortHigh": "Prezzo decrescente",
+    "clearFilters": "Azzera filtri",
+    "results": "Prodotti trovati",
+    "noResults": "Nessun prodotto corrisponde ai filtri.",
+    "homeEyebrow": "IL TUO NEGOZIO DIGITALE",
+    "homeTitle": "Piani digitali. Scelte chiare.",
+    "homeIntro": "Confronta gli attuali piani IPTV Opplex e Filex, verifica ciò che conta per la tua configurazione e rivedi la scelta prima del pagamento su Opplexify.",
+    "shopPlans": "Esplora i piani IPTV",
+    "howItWorks": "Come funziona il pagamento",
+    "availableNow": "Disponibile ora",
+    "categoryHeading": "Trova la tua categoria",
+    "iptvSummary": "Confronta fornitori e durate disponibili.",
+    "chatgptSummary": "Opzioni e prezzi dei prodotti non sono ancora pubblicati.",
+    "netflixSummary": "La categoria è in preparazione. Gli ordini non sono disponibili.",
+    "hboSummary": "Disponibilità e dettagli appariranno dopo la conferma.",
+    "planHeading": "Un piano per il prossimo passo.",
+    "planIntro": "Prezzi e disponibilità attuali dal catalogo Opplex. Rivedi fornitore, durata e importo completo prima di pagare.",
+    "currentCatalogue": "Catalogo attuale",
+    "viewProduct": "Vedi prodotto",
+    "chooseDuration": "Scegli la durata dell’abbonamento",
+    "month": "mese",
+    "months": "mesi",
+    "total": "Totale del piano",
+    "from": "Da",
+    "fullAmount": "Importo completo per il periodo scelto",
+    "connection": "Connessioni simultanee",
+    "oneConnection": "Una connessione simultanea",
+    "confirmAllowance": "Conferma il limite di connessioni con l’assistenza",
+    "playerSeparate": "L’app del lettore e la sua eventuale licenza sono separate dall’abbonamento al servizio.",
+    "checkoutNote": "Eventuali commissioni e totale finale sono mostrati su Opplexify prima del pagamento.",
+    "onePlan": "Un piano per pagamento",
+    "onePlanDetail": "Scegli un fornitore e una durata per ogni acquisto.",
+    "addToCart": "Aggiungi al carrello",
+    "inCart": "Nel tuo carrello",
+    "cartAdded": "Il piano scelto è nel carrello.",
+    "viewCart": "Vedi carrello",
+    "replaceTitle": "Sostituire la selezione attuale?",
+    "replaceBody": "Il pagamento gestisce un piano alla volta. La scelta attuale rimane finché non la sostituisci.",
+    "keepPlan": "Mantieni il piano attuale",
+    "replacePlan": "Sostituisci selezione",
+    "remove": "Rimuovi selezione",
+    "emptyCart": "Il carrello aspetta la tua scelta.",
+    "emptyCartBody": "Confronta i prodotti IPTV disponibili, poi aggiungi un piano da controllare prima di pagare.",
+    "orderSummary": "La tua selezione",
+    "quantity": "Quantità",
+    "reviewSelection": "Ho controllato fornitore, durata e totale attuale del piano.",
+    "continueCheckout": "Continua su Opplexify",
+    "openingCheckout": "Apertura del pagamento…",
+    "refreshing": "Verifica dei dettagli attuali…",
+    "pricesUnavailable": "Non è stato possibile verificare i prezzi attuali. Riprova prima di pagare.",
+    "retry": "Riprova",
+    "priceChanged": "Il piano selezionato è cambiato. Rivedi i dettagli attuali e conferma nuovamente.",
+    "planUnavailable": "Questo piano non è più disponibile. Scegline uno attuale.",
+    "notAvailable": "Non ordinabile",
+    "comingSoonTitle": "Qualcosa da aspettare.",
+    "comingSoonBody": "Questa categoria non è acquistabile. Dettagli e prezzi appariranno soltanto dopo la conferma.",
+    "backShop": "Torna al negozio",
+    "productDetails": "Conosci ciò che scegli",
+    "opplexSummary": "Scegli la durata dell’abbonamento IPTV Opplex e controlla i dettagli attuali.",
+    "filexSummary": "Confronta le attuali opzioni IPTV Filex e chiarisci eventuali limiti di connessioni non dichiarati prima di acquistare.",
+    "stepChoose": "Scegli il fornitore",
+    "stepChooseBody": "Confronta Opplex e Filex con i dettagli di ogni prodotto.",
+    "stepReview": "Rivedi la selezione",
+    "stepReviewBody": "Conferma durata, importo e gli eventuali dubbi sulla configurazione.",
+    "stepCheckout": "Continua su Opplexify",
+    "stepCheckoutBody": "Rivedi lì i dettagli finali prima di pagare.",
+    "helpTitle": "Una domanda prima di scegliere?",
+    "helpBody": "Indica all’assistenza dispositivo, lettore e piano che stai valutando. Per un acquisto esistente usa il supporto privato degli ordini.",
+    "contactSupport": "Contatta l’assistenza",
+    "trackOrder": "Consulta un ordine",
+    "footerIntro": "Un negozio dedicato ai piani IPTV attuali e a future categorie digitali.",
+    "sharedSupport": "Piani e assistenza ordini usano i sistemi centrali Opplex. Il pagamento si apre su Opplexify.",
+    "legal": "Politiche",
+    "privacy": "Privacy",
+    "terms": "Condizioni del servizio",
+    "refund": "Rimborsi",
+    "about": "Chi è Cheap Accounts",
+    "contact": "Contatti",
+    "faqs": "Domande frequenti",
+    "rights": "I nomi di terzi identificano categorie di prodotti e non implicano una collaborazione ufficiale.",
+    "refreshPrices": "Aggiorna i prezzi",
+    "selectionTitle": "Scegli con i dettagli in vista.",
+    "selectionIntro": "Controlla fornitore, durata e importo esatti. Conferma i requisiti di dispositivo e lettore prima di scegliere.",
+    "securityNote": "Non pubblicare password, codici di pagamento o link privati dell’account.",
+    "skipContent": "Vai al contenuto",
+    "closeDialog": "Chiudi finestra",
+    "browseAll": "Esplora tutte le categorie",
+    "checkoutHeading": "Un prossimo passo chiaro per pagare.",
+    "products": "Prodotti",
+    "subscription": "Abbonamento",
+    "readGuide": "Leggi la guida all’acquisto",
+    "centralPolicies": "Leggi la politica centrale completa",
+    "customerPortal": "Apri il portale clienti",
+    "pages": {
+      "about": {
+        "title": "Chi è Cheap Accounts",
+        "intro": "Cheap Accounts riunisce i piani IPTV attuali e le future categorie chiaramente segnalate in un negozio semplice.",
+        "sections": [
+          {
+            "heading": "Un punto di partenza concreto",
+            "body": "Confronta Opplex e Filex separatamente, verifica durata e totale e chiedi del tuo dispositivo prima di acquistare. ChatGPT, Netflix e HBO Max sono In arrivo e non ordinabili."
+          },
+          {
+            "heading": "Assistenza collegata agli ordini",
+            "body": "Piani e assistenza privata usano i sistemi centrali Opplex. Il pagamento prosegue su Opplexify. I nomi delle categorie di terzi non indicano una collaborazione ufficiale con quei marchi."
+          }
+        ]
+      },
+      "contact": {
+        "title": "Contatta Cheap Accounts",
+        "intro": "Parti dalla domanda da risolvere: scegliere un piano, preparare un dispositivo o controllare un ordine.",
+        "sections": [
+          {
+            "heading": "Prima dell’acquisto",
+            "body": "Comunica all’assistenza condivisa modello esatto, lettore e fornitore che stai valutando. Chiedi dei limiti non indicati, delle licenze separate e della procedura di attivazione prima di scegliere la durata."
+          },
+          {
+            "heading": "Per un ordine esistente",
+            "body": "Usa il portale privato centrale con l’email d’acquisto. Controlla un pagamento dubbio prima di iniziarne un altro. Non pubblicare password, codici di pagamento o link privati."
+          }
+        ]
+      },
+      "faqs": {
+        "title": "Risposte su Cheap Accounts",
+        "intro": "Tieni separati prodotto, lettore e pagamento per capire il prossimo passo.",
+        "sections": [
+          {
+            "heading": "Cosa posso ordinare oggi?",
+            "body": "Solo i piani IPTV Opplex e Filex attualmente disponibili possono entrare nel carrello. ChatGPT, Netflix e HBO Max sono In arrivo, senza prezzi o date di disponibilità promessi."
+          },
+          {
+            "heading": "Posso pagare più piani insieme?",
+            "body": "Il pagamento attuale gestisce un piano alla volta. Controlla fornitore, durata e totale attuale nel carrello, poi conferma i dettagli finali su Opplexify."
+          },
+          {
+            "heading": "Quante connessioni sono incluse?",
+            "body": "Opplex ha una connessione simultanea. Il limite Filex va confermato con l’assistenza. Installare lettori o creare profili non aggiunge connessioni simultanee."
+          }
+        ]
+      },
+      "buying-guide": {
+        "title": "Guida pratica alla scelta di un piano digitale",
+        "intro": "Un acquisto utile parte da dettagli verificabili oggi, non soltanto da un nome familiare.",
+        "sections": [
+          {
+            "heading": "Abbina il piano alla configurazione",
+            "body": "Identifica dispositivo e lettore, poi confronta Opplex e Filex come fornitori distinti. Controlla durata, prezzo completo, connessioni ed eventuale licenza del lettore. Chiedi chiarimenti su ciò che manca."
+          },
+          {
+            "heading": "Rivedi prima di pagare",
+            "body": "Il carrello contiene un piano. Prezzo e disponibilità vengono ricontrollati prima del pagamento. Passa dal sito centrale Opplex a Opplexify e verifica fornitore, durata, valuta e importo finale."
+          }
+        ]
+      },
+      "privacy-policy": {
+        "title": "Panoramica privacy di Cheap Accounts",
+        "intro": "Questa panoramica spiega il flusso essenziale dei dati. Leggi l’informativa centrale collegata per le informazioni complete applicabili.",
+        "sections": [
+          {
+            "heading": "La selezione e l’account",
+            "body": "Il carrello conserva nel browser l’ID del pacchetto selezionato. I prezzi arrivano dal catalogo principale. Accesso privato e assistenza ordini usano i sistemi centrali Opplex; il pagamento prosegue su Opplexify."
+          },
+          {
+            "heading": "Proteggi i dettagli privati",
+            "body": "Usa il portale privato per acquisti esistenti. Non pubblicare password, codici di pagamento o link di accesso privati. I servizi esterni applicano le proprie condizioni di riservatezza."
+          }
+        ]
+      },
+      "terms-of-service": {
+        "title": "Panoramica condizioni di Cheap Accounts",
+        "intro": "Leggi il servizio scelto e le condizioni centrali collegate prima di ordinare. Questa sintesi non le sostituisce.",
+        "sections": [
+          {
+            "heading": "Comprendi il prodotto selezionato",
+            "body": "I piani indicano Opplex o Filex, durata e prezzo attuale. Il lettore può avere requisiti e costi propri. Le categorie In arrivo non sono ordinabili e non confermano disponibilità futura."
+          },
+          {
+            "heading": "Controlla l’ordine finale",
+            "body": "Si paga un piano alla volta. Conferma fornitore, durata, valuta, commissioni e totale su Opplexify. Restano valide le condizioni del servizio e i diritti inderogabili del consumatore."
+          }
+        ]
+      },
+      "refund-policy": {
+        "title": "Informazioni rimborsi Cheap Accounts",
+        "intro": "Leggi la politica centrale di rimborso prima di pagare e chiedi dell’acquisto specifico se qualcosa è poco chiaro.",
+        "sections": [
+          {
+            "heading": "Controlla prima di scegliere",
+            "body": "Conferma fornitore, durata, requisiti di dispositivo e lettore, connessioni ed eventuali costi dell’app prima di ordinare. Non presumere che il periodo inutilizzato crei automaticamente rimborso o credito."
+          },
+          {
+            "heading": "Chiedi di un ordine preciso",
+            "body": "Usa l’assistenza privata con riferimento d’acquisto e spiegazione chiara. La politica centrale applicabile e i diritti di legge regolano la richiesta; questa pagina non promette approvazione o tempi di gestione."
+          }
+        ]
+      }
+    }
+  },
+  "nl": {
+    "tagline": "Digitale keuzes, duidelijke prijzen.",
+    "shop": "Winkel",
+    "iptv": "IPTV",
+    "comingSoon": "Binnenkort",
+    "buyingGuide": "Koopgids",
+    "support": "Ondersteuning",
+    "account": "Mijn account",
+    "cart": "Winkelwagen",
+    "openMenu": "Menu openen",
+    "closeMenu": "Menu sluiten",
+    "language": "Taal",
+    "search": "Producten zoeken",
+    "searchPlaceholder": "Zoek een aanbieder of product",
+    "provider": "Aanbieder",
+    "allProviders": "Alle aanbieders",
+    "duration": "Looptijd",
+    "allDurations": "Alle looptijden",
+    "sort": "Sorteren op",
+    "sortDefault": "Aanbevolen volgorde",
+    "sortLow": "Prijs: laag naar hoog",
+    "sortHigh": "Prijs: hoog naar laag",
+    "clearFilters": "Filters wissen",
+    "results": "Gevonden producten",
+    "noResults": "Geen producten passen bij deze filters.",
+    "homeEyebrow": "JOUW DIGITALE WINKEL",
+    "homeTitle": "Digitale abonnementen. Duidelijke keuzes.",
+    "homeIntro": "Vergelijk de huidige IPTV-abonnementen van Opplex en Filex, controleer je installatie en bekijk je keuze voordat je via Opplexify afrekent.",
+    "shopPlans": "IPTV-abonnementen bekijken",
+    "howItWorks": "Zo werkt afrekenen",
+    "availableNow": "Nu beschikbaar",
+    "categoryHeading": "Vind je categorie",
+    "iptvSummary": "Vergelijk beschikbare aanbieders en looptijden.",
+    "chatgptSummary": "Productopties en prijzen zijn nog niet gepubliceerd.",
+    "netflixSummary": "Deze categorie wordt voorbereid. Bestellen is nog niet mogelijk.",
+    "hboSummary": "Beschikbaarheid en productgegevens verschijnen na bevestiging.",
+    "planHeading": "Een abonnement voor je volgende stap.",
+    "planIntro": "Actuele prijzen en beschikbaarheid uit de Opplex-catalogus. Controleer aanbieder, looptijd en totaalbedrag voordat je betaalt.",
+    "currentCatalogue": "Actuele catalogus",
+    "viewProduct": "Product bekijken",
+    "chooseDuration": "Kies een abonnementsduur",
+    "month": "maand",
+    "months": "maanden",
+    "total": "Abonnementstotaal",
+    "from": "Vanaf",
+    "fullAmount": "Volledig bedrag voor de gekozen looptijd",
+    "connection": "Gelijktijdige verbindingen",
+    "oneConnection": "Eén gelijktijdige verbinding",
+    "confirmAllowance": "Vraag ondersteuning om de verbindingslimiet te bevestigen",
+    "playerSeparate": "De spelerapp en een eventuele licentie staan los van het abonnement op de dienst.",
+    "checkoutNote": "Toepasselijke kosten en het eindtotaal staan vóór betaling op Opplexify.",
+    "onePlan": "Eén abonnement per betaling",
+    "onePlanDetail": "Kies één aanbieder en looptijd voor iedere betaling.",
+    "addToCart": "In winkelwagen",
+    "inCart": "In je winkelwagen",
+    "cartAdded": "Je gekozen abonnement staat in de winkelwagen.",
+    "viewCart": "Winkelwagen bekijken",
+    "replaceTitle": "Je huidige keuze vervangen?",
+    "replaceBody": "Afrekenen ondersteunt één abonnement tegelijk. Je huidige keuze blijft staan totdat je die vervangt.",
+    "keepPlan": "Huidige keuze behouden",
+    "replacePlan": "Keuze vervangen",
+    "remove": "Keuze verwijderen",
+    "emptyCart": "Je winkelwagen wacht op je keuze.",
+    "emptyCartBody": "Vergelijk de beschikbare IPTV-producten en voeg één abonnement toe om vóór betaling te controleren.",
+    "orderSummary": "Je keuze",
+    "quantity": "Aantal",
+    "reviewSelection": "Ik heb aanbieder, looptijd en het actuele totaal gecontroleerd.",
+    "continueCheckout": "Verder naar Opplexify",
+    "openingCheckout": "Afrekenen wordt geopend…",
+    "refreshing": "Actuele gegevens controleren…",
+    "pricesUnavailable": "De actuele prijzen konden niet worden gecontroleerd. Probeer opnieuw vóór je afrekent.",
+    "retry": "Opnieuw proberen",
+    "priceChanged": "Het gekozen abonnement is gewijzigd. Controleer de actuele gegevens en bevestig opnieuw.",
+    "planUnavailable": "Dit abonnement is niet meer beschikbaar. Kies een huidig abonnement.",
+    "notAvailable": "Niet te bestellen",
+    "comingSoonTitle": "Er komt meer aan.",
+    "comingSoonBody": "Deze categorie kan nog niet worden gekocht. Productgegevens en prijzen verschijnen pas na bevestiging.",
+    "backShop": "Terug naar de winkel",
+    "productDetails": "Weet wat je kiest",
+    "opplexSummary": "Kies een looptijd voor Opplex IPTV en controleer de actuele abonnementsgegevens.",
+    "filexSummary": "Vergelijk de huidige Filex IPTV-opties en vraag vóór aankoop naar een niet-vermelde verbindingslimiet.",
+    "stepChoose": "Kies je aanbieder",
+    "stepChooseBody": "Vergelijk Opplex en Filex met de gegevens bij ieder product.",
+    "stepReview": "Controleer je keuze",
+    "stepReviewBody": "Bevestig looptijd, bedrag en eventuele open installatievragen.",
+    "stepCheckout": "Ga verder op Opplexify",
+    "stepCheckoutBody": "Controleer daar de definitieve gegevens voordat je betaalt.",
+    "helpTitle": "Een vraag voordat je kiest?",
+    "helpBody": "Vertel ondersteuning welk apparaat, welke speler en welk abonnement je overweegt. Gebruik privéondersteuning voor een bestaande aankoop.",
+    "contactSupport": "Ondersteuning vragen",
+    "trackOrder": "Bestelling bekijken",
+    "footerIntro": "Een gerichte winkel voor huidige IPTV-abonnementen en toekomstige digitale categorieën.",
+    "sharedSupport": "Abonnementen en orderondersteuning gebruiken de centrale Opplex-systemen. Afrekenen opent op Opplexify.",
+    "legal": "Beleid",
+    "privacy": "Privacybeleid",
+    "terms": "Servicevoorwaarden",
+    "refund": "Terugbetalingsbeleid",
+    "about": "Over Cheap Accounts",
+    "contact": "Contact",
+    "faqs": "Veelgestelde vragen",
+    "rights": "Merknamen van derden geven productcategorieën aan en betekenen geen officieel partnerschap.",
+    "refreshPrices": "Prijzen verversen",
+    "selectionTitle": "Kies met de gegevens in beeld.",
+    "selectionIntro": "Controleer de exacte aanbieder, looptijd en het bedrag. Bevestig apparaat- en spelereisen voordat je kiest.",
+    "securityNote": "Publiceer geen wachtwoorden, betaalcodes of privéaccountlinks.",
+    "skipContent": "Naar de inhoud",
+    "closeDialog": "Dialoog sluiten",
+    "browseAll": "Alle categorieën bekijken",
+    "checkoutHeading": "Afrekenen met een duidelijke volgende stap.",
+    "products": "Producten",
+    "subscription": "Abonnement",
+    "readGuide": "Koopgids lezen",
+    "centralPolicies": "Het volledige centrale beleid lezen",
+    "customerPortal": "Klantenportaal openen",
+    "pages": {
+      "about": {
+        "title": "Over Cheap Accounts",
+        "intro": "Cheap Accounts brengt huidige IPTV-keuzes en duidelijk gemarkeerde toekomstige categorieën samen in een overzichtelijke winkel.",
+        "sections": [
+          {
+            "heading": "Een gericht startpunt",
+            "body": "Vergelijk Opplex en Filex apart, bekijk looptijd en totaal en stel vóór aankoop vragen over je apparaat. ChatGPT, Netflix en HBO Max staan op Binnenkort en zijn niet te bestellen."
+          },
+          {
+            "heading": "Verbonden orderondersteuning",
+            "body": "Abonnementen en privéondersteuning gebruiken de centrale Opplex-systemen. Afrekenen gaat verder op Opplexify. Categorienamen van derden betekenen geen officieel partnerschap met die merken."
+          }
+        ]
+      },
+      "contact": {
+        "title": "Contact met Cheap Accounts",
+        "intro": "Begin met de vraag die je wilt oplossen: een abonnement kiezen, een apparaat voorbereiden of een bestelling controleren.",
+        "sections": [
+          {
+            "heading": "Vóór aankoop",
+            "body": "Geef het exacte model, de speler en de overwogen aanbieder door aan de gezamenlijke ondersteuning. Vraag naar niet-vermelde limieten, losse licenties en het activeringsproces voordat je een looptijd kiest."
+          },
+          {
+            "heading": "Voor een bestaande bestelling",
+            "body": "Gebruik het centrale privéportaal met je aankoopmailadres. Controleer een onduidelijke betaling voordat je opnieuw begint. Publiceer geen wachtwoorden, betaalcodes of privélinks."
+          }
+        ]
+      },
+      "faqs": {
+        "title": "Antwoorden over Cheap Accounts",
+        "intro": "Houd product, speler en betaling uit elkaar zodat de volgende stap duidelijk blijft.",
+        "sections": [
+          {
+            "heading": "Wat kan ik vandaag bestellen?",
+            "body": "Alleen de momenteel beschikbare IPTV-abonnementen van Opplex en Filex kunnen in de winkelwagen. ChatGPT, Netflix en HBO Max komen binnenkort, zonder beloofde prijzen of beschikbaarheidsdatum."
+          },
+          {
+            "heading": "Kan ik meerdere abonnementen samen betalen?",
+            "body": "De huidige betaalroute ondersteunt één abonnement tegelijk. Controleer aanbieder, looptijd en actueel totaal in de winkelwagen en bevestig de eindgegevens op Opplexify."
+          },
+          {
+            "heading": "Hoeveel verbindingen zijn inbegrepen?",
+            "body": "Opplex heeft één gelijktijdige verbinding. Vraag ondersteuning naar de Filex-limiet. Extra geïnstalleerde spelers of profielen voegen geen gelijktijdige verbindingen toe."
+          }
+        ]
+      },
+      "buying-guide": {
+        "title": "Praktische gids voor een digitaal abonnement",
+        "intro": "Een nuttige aankoop begint met gegevens die je vandaag kunt controleren, niet alleen met een bekende naam.",
+        "sections": [
+          {
+            "heading": "Laat het abonnement bij je installatie passen",
+            "body": "Identificeer apparaat en speler en vergelijk Opplex en Filex als afzonderlijke aanbieders. Controleer looptijd, totaalprijs, verbindingslimiet en eventuele spelerlicentie. Vraag naar ontbrekende gegevens."
+          },
+          {
+            "heading": "Controleer vóór betaling",
+            "body": "De winkelwagen bevat één abonnement. Prijs en beschikbaarheid worden opnieuw gecontroleerd voordat je afrekent. Ga via de centrale Opplex-website naar Opplexify en bekijk aanbieder, looptijd, valuta en eindbedrag."
+          }
+        ]
+      },
+      "privacy-policy": {
+        "title": "Privacyoverzicht van Cheap Accounts",
+        "intro": "Dit overzicht beschrijft de basisgegevensstroom. Lees het gekoppelde centrale privacybeleid voor de volledige toepasselijke informatie.",
+        "sections": [
+          {
+            "heading": "Je keuze en account",
+            "body": "De winkelwagen onthoudt de ID van het gekozen pakket in je browser. Prijzen komen uit de hoofdcatalogus. Privétoegang en orderondersteuning gebruiken de centrale Opplex-systemen; betaling loopt via Opplexify."
+          },
+          {
+            "heading": "Houd privégegevens privé",
+            "body": "Gebruik het privéportaal voor een bestaande aankoop. Publiceer geen wachtwoorden, betaalcodes of privétoegangslinks. Externe diensten hanteren hun eigen privacyvoorwaarden."
+          }
+        ]
+      },
+      "terms-of-service": {
+        "title": "Voorwaardenoverzicht van Cheap Accounts",
+        "intro": "Lees de gekozen dienst en gekoppelde centrale voorwaarden voordat je bestelt. Dit korte overzicht vervangt die voorwaarden niet.",
+        "sections": [
+          {
+            "heading": "Begrijp het gekozen product",
+            "body": "Beschikbare abonnementen noemen Opplex of Filex, looptijd en actuele prijs. Een speler kan aparte eisen en kosten hebben. Categorieën op Binnenkort zijn niet te bestellen en bevestigen geen toekomstige beschikbaarheid."
+          },
+          {
+            "heading": "Controleer de definitieve bestelling",
+            "body": "Je rekent één abonnement tegelijk af. Bevestig aanbieder, looptijd, valuta, kosten en totaal op Opplexify. Bestaande servicevoorwaarden en dwingende consumentenrechten blijven gelden."
+          }
+        ]
+      },
+      "refund-policy": {
+        "title": "Terugbetalingsinformatie van Cheap Accounts",
+        "intro": "Lees vóór betaling het centrale terugbetalingsbeleid en vraag ondersteuning naar je specifieke aankoop bij onduidelijkheid.",
+        "sections": [
+          {
+            "heading": "Controleer vóór je kiest",
+            "body": "Bevestig aanbieder, looptijd, apparaat- en spelereisen, verbindingslimiet en losse appkosten voordat je bestelt. Ga er niet van uit dat een ongebruikte periode automatisch recht geeft op terugbetaling of tegoed."
+          },
+          {
+            "heading": "Vraag naar een concrete bestelling",
+            "body": "Gebruik privéondersteuning met je aankoopreferentie en een duidelijke uitleg. Het toepasselijke centrale beleid en dwingende wettelijke rechten bepalen de aanvraag; deze pagina belooft geen goedkeuring of afhandelingstermijn."
+          }
+        ]
+      }
+    }
+  },
+  "pt": {
+    "tagline": "Escolhas digitais, preços claros.",
+    "shop": "Loja",
+    "iptv": "IPTV",
+    "comingSoon": "Em breve",
+    "buyingGuide": "Guia de compra",
+    "support": "Apoio",
+    "account": "A minha conta",
+    "cart": "Carrinho",
+    "openMenu": "Abrir menu",
+    "closeMenu": "Fechar menu",
+    "language": "Idioma",
+    "search": "Pesquisar produtos",
+    "searchPlaceholder": "Pesquise um fornecedor ou produto",
+    "provider": "Fornecedor",
+    "allProviders": "Todos os fornecedores",
+    "duration": "Duração",
+    "allDurations": "Todas as durações",
+    "sort": "Ordenar por",
+    "sortDefault": "Ordem recomendada",
+    "sortLow": "Preço: menor para maior",
+    "sortHigh": "Preço: maior para menor",
+    "clearFilters": "Limpar filtros",
+    "results": "Produtos encontrados",
+    "noResults": "Nenhum produto corresponde aos filtros.",
+    "homeEyebrow": "A SUA LOJA DIGITAL",
+    "homeTitle": "Planos digitais. Escolhas claras.",
+    "homeIntro": "Compare os planos IPTV atuais da Opplex e Filex, confirme os detalhes da sua instalação e reveja a seleção antes de pagar na Opplexify.",
+    "shopPlans": "Ver planos IPTV",
+    "howItWorks": "Como funciona o pagamento",
+    "availableNow": "Disponível agora",
+    "categoryHeading": "Encontre a sua categoria",
+    "iptvSummary": "Compare fornecedores e durações disponíveis.",
+    "chatgptSummary": "As opções de produto e preços ainda não foram publicados.",
+    "netflixSummary": "Esta categoria está em preparação. As encomendas estão indisponíveis.",
+    "hboSummary": "A disponibilidade e os detalhes aparecerão após confirmação.",
+    "planHeading": "Um plano para o próximo passo.",
+    "planIntro": "Preços e disponibilidade atuais do catálogo Opplex. Reveja fornecedor, duração e valor completo antes de pagar.",
+    "currentCatalogue": "Catálogo atual",
+    "viewProduct": "Ver produto",
+    "chooseDuration": "Escolha a duração da subscrição",
+    "month": "mês",
+    "months": "meses",
+    "total": "Total do plano",
+    "from": "Desde",
+    "fullAmount": "Valor completo para o período escolhido",
+    "connection": "Ligações simultâneas",
+    "oneConnection": "Uma ligação simultânea",
+    "confirmAllowance": "Confirme o limite de ligações com o apoio",
+    "playerSeparate": "A aplicação do leitor e a sua eventual licença são separadas da subscrição do serviço.",
+    "checkoutNote": "As taxas aplicáveis e o total final aparecem na Opplexify antes do pagamento.",
+    "onePlan": "Um plano por pagamento",
+    "onePlanDetail": "Escolha um fornecedor e uma duração para cada compra.",
+    "addToCart": "Adicionar ao carrinho",
+    "inCart": "No seu carrinho",
+    "cartAdded": "O plano escolhido está no carrinho.",
+    "viewCart": "Ver carrinho",
+    "replaceTitle": "Substituir a seleção atual?",
+    "replaceBody": "O pagamento aceita um plano de cada vez. A seleção atual mantém-se até a substituir.",
+    "keepPlan": "Manter o plano atual",
+    "replacePlan": "Substituir seleção",
+    "remove": "Remover seleção",
+    "emptyCart": "O carrinho espera pela sua escolha.",
+    "emptyCartBody": "Compare os produtos IPTV disponíveis e adicione um plano para rever antes de pagar.",
+    "orderSummary": "A sua seleção",
+    "quantity": "Quantidade",
+    "reviewSelection": "Verifiquei fornecedor, duração e total atual do plano.",
+    "continueCheckout": "Continuar na Opplexify",
+    "openingCheckout": "A abrir o pagamento…",
+    "refreshing": "A verificar os detalhes atuais…",
+    "pricesUnavailable": "Não foi possível verificar os preços atuais. Tente novamente antes de pagar.",
+    "retry": "Tentar novamente",
+    "priceChanged": "O plano escolhido mudou. Reveja os detalhes atuais e confirme de novo.",
+    "planUnavailable": "Este plano já não está disponível. Escolha outro plano atual.",
+    "notAvailable": "Indisponível para encomenda",
+    "comingSoonTitle": "Há mais a caminho.",
+    "comingSoonBody": "Esta categoria ainda não pode ser comprada. Detalhes e preços só aparecerão após confirmação.",
+    "backShop": "Voltar à loja",
+    "productDetails": "Conheça o que escolhe",
+    "opplexSummary": "Escolha a duração da subscrição IPTV Opplex e confirme os detalhes atuais.",
+    "filexSummary": "Compare as opções IPTV Filex atuais e esclareça limites de ligações não indicados antes de comprar.",
+    "stepChoose": "Escolha o fornecedor",
+    "stepChooseBody": "Compare Opplex e Filex através dos detalhes de cada produto.",
+    "stepReview": "Reveja a seleção",
+    "stepReviewBody": "Confirme duração, valor e quaisquer dúvidas sobre a instalação.",
+    "stepCheckout": "Continue na Opplexify",
+    "stepCheckoutBody": "Reveja os detalhes finais antes de efetuar o pagamento.",
+    "helpTitle": "Uma pergunta antes de escolher?",
+    "helpBody": "Diga ao apoio o dispositivo, leitor e plano que está a considerar. Para uma compra existente, use apoio privado à encomenda.",
+    "contactSupport": "Contactar o apoio",
+    "trackOrder": "Consultar uma encomenda",
+    "footerIntro": "Uma loja dedicada aos planos IPTV atuais e a futuras categorias digitais.",
+    "sharedSupport": "Planos e apoio a encomendas usam os sistemas centrais Opplex. O pagamento abre na Opplexify.",
+    "legal": "Políticas",
+    "privacy": "Política de privacidade",
+    "terms": "Condições do serviço",
+    "refund": "Política de reembolso",
+    "about": "Sobre a Cheap Accounts",
+    "contact": "Contacto",
+    "faqs": "Perguntas frequentes",
+    "rights": "Os nomes de terceiros identificam categorias de produtos e não implicam uma parceria oficial.",
+    "refreshPrices": "Atualizar preços",
+    "selectionTitle": "Escolha com os detalhes à vista.",
+    "selectionIntro": "Confirme fornecedor, período e valor exatos. Verifique os requisitos do dispositivo e leitor antes de escolher.",
+    "securityNote": "Não publique palavras-passe, códigos de pagamento ou ligações privadas da conta.",
+    "skipContent": "Ir para o conteúdo",
+    "closeDialog": "Fechar janela",
+    "browseAll": "Explorar todas as categorias",
+    "checkoutHeading": "Um próximo passo claro para pagar.",
+    "products": "Produtos",
+    "subscription": "Subscrição",
+    "readGuide": "Ler o guia de compra",
+    "centralPolicies": "Ler a política central completa",
+    "customerPortal": "Abrir o portal do cliente",
+    "pages": {
+      "about": {
+        "title": "Sobre a Cheap Accounts",
+        "intro": "A Cheap Accounts reúne planos IPTV atuais e futuras categorias claramente identificadas numa loja simples.",
+        "sections": [
+          {
+            "heading": "Um ponto de partida focado",
+            "body": "Compare Opplex e Filex separadamente, reveja duração e total e pergunte sobre o dispositivo antes de comprar. ChatGPT, Netflix e HBO Max estão Em breve e não aceitam encomendas."
+          },
+          {
+            "heading": "Apoio ligado às encomendas",
+            "body": "Planos e apoio privado usam os sistemas centrais Opplex. O pagamento continua na Opplexify. Os nomes de categorias de terceiros não significam parceria oficial com essas marcas."
+          }
+        ]
+      },
+      "contact": {
+        "title": "Contactar a Cheap Accounts",
+        "intro": "Comece pela dúvida que pretende resolver: escolher um plano, preparar um dispositivo ou verificar uma encomenda.",
+        "sections": [
+          {
+            "heading": "Antes de comprar",
+            "body": "Indique ao apoio partilhado o modelo exato, leitor e fornecedor considerado. Pergunte sobre limites não indicados, licenças separadas e processo de ativação antes de escolher a duração."
+          },
+          {
+            "heading": "Para uma encomenda existente",
+            "body": "Use o portal privado central com o email de compra. Verifique um pagamento incerto antes de iniciar outro. Não publique palavras-passe, códigos de pagamento ou ligações privadas."
+          }
+        ]
+      },
+      "faqs": {
+        "title": "Respostas sobre a Cheap Accounts",
+        "intro": "Separe produto, leitor e pagamento para manter o próximo passo claro.",
+        "sections": [
+          {
+            "heading": "O que posso encomendar hoje?",
+            "body": "Só os planos IPTV Opplex e Filex atualmente disponíveis podem entrar no carrinho. ChatGPT, Netflix e HBO Max estão Em breve, sem preços ou datas de disponibilidade prometidos."
+          },
+          {
+            "heading": "Posso pagar vários planos juntos?",
+            "body": "O pagamento atual aceita um plano de cada vez. Reveja fornecedor, duração e total no carrinho e confirme os detalhes finais na Opplexify."
+          },
+          {
+            "heading": "Quantas ligações estão incluídas?",
+            "body": "A Opplex tem uma ligação simultânea. Confirme o limite da Filex com o apoio. Aplicações instaladas e perfis não criam ligações simultâneas adicionais."
+          }
+        ]
+      },
+      "buying-guide": {
+        "title": "Guia prático para escolher um plano digital",
+        "intro": "Uma compra útil começa por detalhes verificáveis hoje, não apenas por um nome conhecido.",
+        "sections": [
+          {
+            "heading": "Ajuste o plano à sua instalação",
+            "body": "Identifique dispositivo e leitor e compare Opplex e Filex como fornecedores distintos. Confirme duração, preço completo, ligações e eventual licença do leitor. Pergunte sobre informações em falta."
+          },
+          {
+            "heading": "Reveja antes de pagar",
+            "body": "O carrinho contém um plano. Preço e disponibilidade são novamente verificados antes do pagamento. Siga pelo site central Opplex para a Opplexify e confirme fornecedor, período, moeda e total final."
+          }
+        ]
+      },
+      "privacy-policy": {
+        "title": "Resumo de privacidade da Cheap Accounts",
+        "intro": "Este resumo explica o fluxo básico dos dados. Leia a política central ligada para obter a informação aplicável completa.",
+        "sections": [
+          {
+            "heading": "A seleção e a conta",
+            "body": "O carrinho memoriza no navegador o ID do pacote escolhido. Os preços vêm do catálogo principal. Acesso privado e apoio a encomendas usam os sistemas centrais Opplex; o pagamento continua na Opplexify."
+          },
+          {
+            "heading": "Proteja os detalhes privados",
+            "body": "Use o portal privado para compras existentes. Não publique palavras-passe, códigos de pagamento ou ligações privadas de acesso. Serviços externos têm condições de privacidade próprias."
+          }
+        ]
+      },
+      "terms-of-service": {
+        "title": "Resumo das condições da Cheap Accounts",
+        "intro": "Reveja o serviço escolhido e as condições centrais ligadas antes de encomendar. Este resumo não as substitui.",
+        "sections": [
+          {
+            "heading": "Compreenda o produto escolhido",
+            "body": "Os planos disponíveis indicam Opplex ou Filex, duração e preço atual. O leitor pode ter requisitos e custos próprios. As categorias Em breve não aceitam encomendas nem confirmam disponibilidade futura."
+          },
+          {
+            "heading": "Confirme a encomenda final",
+            "body": "É pago um plano de cada vez. Confirme fornecedor, duração, moeda, taxas e total na Opplexify. Mantêm-se as condições do serviço e os direitos obrigatórios do consumidor."
+          }
+        ]
+      },
+      "refund-policy": {
+        "title": "Informações de reembolso da Cheap Accounts",
+        "intro": "Leia a política central de reembolso antes de pagar e pergunte ao apoio sobre a compra concreta em caso de dúvida.",
+        "sections": [
+          {
+            "heading": "Verifique antes de escolher",
+            "body": "Confirme fornecedor, duração, requisitos do dispositivo e leitor, ligações e custos separados da aplicação antes de encomendar. Não presuma que um período não usado cria automaticamente reembolso ou crédito."
+          },
+          {
+            "heading": "Pergunte por uma encomenda específica",
+            "body": "Use o apoio privado com a referência de compra e uma explicação clara. A política central aplicável e os direitos legais obrigatórios regem o pedido; esta página não promete aprovação ou prazo."
+          }
+        ]
+      }
+    }
+  },
+  "ru": {
+    "tagline": "Цифровые услуги с понятными ценами.",
+    "shop": "Магазин",
+    "iptv": "IPTV",
+    "comingSoon": "Скоро",
+    "buyingGuide": "Руководство покупателя",
+    "support": "Поддержка",
+    "account": "Мой аккаунт",
+    "cart": "Корзина",
+    "openMenu": "Открыть меню",
+    "closeMenu": "Закрыть меню",
+    "language": "Язык",
+    "search": "Поиск продуктов",
+    "searchPlaceholder": "Найти поставщика или продукт",
+    "provider": "Поставщик",
+    "allProviders": "Все поставщики",
+    "duration": "Срок",
+    "allDurations": "Все сроки",
+    "sort": "Сортировать",
+    "sortDefault": "Рекомендуемый порядок",
+    "sortLow": "Сначала дешевле",
+    "sortHigh": "Сначала дороже",
+    "clearFilters": "Очистить фильтры",
+    "results": "Найдено продуктов",
+    "noResults": "По этим фильтрам продукты не найдены.",
+    "homeEyebrow": "ВАШ ЦИФРОВОЙ МАГАЗИН",
+    "homeTitle": "Цифровые планы. Понятный выбор.",
+    "homeIntro": "Сравните действующие планы IPTV Opplex и Filex, проверьте требования своей системы и выбранную подписку перед оплатой в Opplexify.",
+    "shopPlans": "Выбрать план IPTV",
+    "howItWorks": "Как проходит оплата",
+    "availableNow": "Доступно сейчас",
+    "categoryHeading": "Найдите свою категорию",
+    "iptvSummary": "Сравните доступных поставщиков и сроки подписки.",
+    "chatgptSummary": "Варианты продуктов и цены пока не опубликованы.",
+    "netflixSummary": "Раздел готовится. Заказы пока недоступны.",
+    "hboSummary": "Доступность и сведения появятся после подтверждения.",
+    "planHeading": "План для вашего следующего шага.",
+    "planIntro": "Актуальные цены и доступность из каталога Opplex. Перед оплатой проверьте поставщика, срок и полную сумму.",
+    "currentCatalogue": "Текущий каталог",
+    "viewProduct": "Посмотреть продукт",
+    "chooseDuration": "Выберите срок подписки",
+    "month": "месяц",
+    "months": "месяцев",
+    "total": "Стоимость плана",
+    "from": "От",
+    "fullAmount": "Полная сумма за выбранный срок",
+    "connection": "Одновременные подключения",
+    "oneConnection": "Одно одновременное подключение",
+    "confirmAllowance": "Уточните лимит подключений у поддержки",
+    "playerSeparate": "Приложение-плеер и отдельная лицензия не являются подпиской на услугу.",
+    "checkoutNote": "Применимые сборы и итоговая сумма показываются в Opplexify до оплаты.",
+    "onePlan": "Один план на одну оплату",
+    "onePlanDetail": "Выберите одного поставщика и один срок для каждой покупки.",
+    "addToCart": "Добавить в корзину",
+    "inCart": "В вашей корзине",
+    "cartAdded": "Выбранный план добавлен в корзину.",
+    "viewCart": "Открыть корзину",
+    "replaceTitle": "Заменить текущий выбор?",
+    "replaceBody": "Оплата поддерживает один план за раз. Текущий выбор сохранится, пока вы его не замените.",
+    "keepPlan": "Оставить текущий план",
+    "replacePlan": "Заменить выбор",
+    "remove": "Убрать выбранный план",
+    "emptyCart": "Корзина ждет вашего выбора.",
+    "emptyCartBody": "Сравните доступные IPTV-продукты и добавьте один план для проверки перед оплатой.",
+    "orderSummary": "Ваш выбор",
+    "quantity": "Количество",
+    "reviewSelection": "Я проверил поставщика, срок подписки и актуальную полную сумму.",
+    "continueCheckout": "Перейти в Opplexify",
+    "openingCheckout": "Открывается оплата…",
+    "refreshing": "Проверяем актуальные сведения…",
+    "pricesUnavailable": "Не удалось проверить актуальные цены. Повторите попытку перед оплатой.",
+    "retry": "Повторить",
+    "priceChanged": "Выбранный план изменился. Проверьте актуальные сведения и подтвердите выбор снова.",
+    "planUnavailable": "Этот план больше недоступен. Выберите действующий план.",
+    "notAvailable": "Заказ недоступен",
+    "comingSoonTitle": "Впереди новые возможности.",
+    "comingSoonBody": "Эта категория пока не продается. Сведения и цены появятся только после подтверждения.",
+    "backShop": "Вернуться в магазин",
+    "productDetails": "Понимайте свой выбор",
+    "opplexSummary": "Выберите срок подписки IPTV Opplex и проверьте текущие сведения о плане.",
+    "filexSummary": "Сравните действующие варианты IPTV Filex и уточните неуказанный лимит подключений до покупки.",
+    "stepChoose": "Выберите поставщика",
+    "stepChooseBody": "Сравните Opplex и Filex по данным каждого продукта.",
+    "stepReview": "Проверьте выбор",
+    "stepReviewBody": "Подтвердите срок, сумму и неясные вопросы настройки.",
+    "stepCheckout": "Продолжите в Opplexify",
+    "stepCheckoutBody": "Проверьте окончательные сведения до проведения оплаты.",
+    "helpTitle": "Есть вопрос перед выбором?",
+    "helpBody": "Сообщите поддержке устройство, плеер и интересующий план. По существующей покупке обращайтесь в частную поддержку заказов.",
+    "contactSupport": "Связаться с поддержкой",
+    "trackOrder": "Проверить заказ",
+    "footerIntro": "Магазин действующих планов IPTV и будущих цифровых категорий.",
+    "sharedSupport": "Планы и поддержка заказов используют центральные системы Opplex. Оплата открывается в Opplexify.",
+    "legal": "Правила",
+    "privacy": "Конфиденциальность",
+    "terms": "Условия использования",
+    "refund": "Правила возврата",
+    "about": "О Cheap Accounts",
+    "contact": "Контакты",
+    "faqs": "Вопросы и ответы",
+    "rights": "Сторонние названия обозначают категории продуктов, а не официальное партнерство.",
+    "refreshPrices": "Обновить цены",
+    "selectionTitle": "Выбирайте, видя все сведения.",
+    "selectionIntro": "Проверьте точного поставщика, срок и сумму. Уточните требования устройства и плеера до выбора.",
+    "securityNote": "Не публикуйте пароли, платежные коды и личные ссылки аккаунта.",
+    "skipContent": "Перейти к содержимому",
+    "closeDialog": "Закрыть окно",
+    "browseAll": "Все категории",
+    "checkoutHeading": "Понятный следующий шаг к оплате.",
+    "products": "Продукты",
+    "subscription": "Подписка",
+    "readGuide": "Открыть руководство покупателя",
+    "centralPolicies": "Прочитать полную центральную политику",
+    "customerPortal": "Открыть портал клиента",
+    "pages": {
+      "about": {
+        "title": "О Cheap Accounts",
+        "intro": "Cheap Accounts объединяет действующие IPTV-планы и явно отмеченные будущие категории в одном понятном магазине.",
+        "sections": [
+          {
+            "heading": "Начните с конкретных сведений",
+            "body": "Сравните Opplex и Filex отдельно, проверьте срок и полную сумму и спросите о своем устройстве до покупки. ChatGPT, Netflix и HBO Max отмечены как Скоро и не принимают заказы."
+          },
+          {
+            "heading": "Поддержка связана с заказами",
+            "body": "Планы и частная поддержка используют центральные системы Opplex. Оплата продолжается в Opplexify. Названия сторонних категорий не означают официального партнерства с этими брендами."
+          }
+        ]
+      },
+      "contact": {
+        "title": "Связаться с Cheap Accounts",
+        "intro": "Начните с вопроса, который нужно решить: выбор плана, подготовка устройства или проверка заказа.",
+        "sections": [
+          {
+            "heading": "Перед покупкой",
+            "body": "Сообщите общей поддержке точную модель, плеер и выбранного поставщика. Уточните неуказанные лимиты, отдельные лицензии и процесс активации до выбора срока."
+          },
+          {
+            "heading": "Существующий заказ",
+            "body": "Откройте центральный личный кабинет с адресом покупки. Проверьте неясную оплату до новой попытки. Не публикуйте пароли, платежные коды или личные ссылки."
+          }
+        ]
+      },
+      "faqs": {
+        "title": "Ответы на вопросы о Cheap Accounts",
+        "intro": "Разделяйте продукт, плеер и оплату, чтобы следующий шаг оставался понятным.",
+        "sections": [
+          {
+            "heading": "Что можно заказать сегодня?",
+            "body": "В корзину добавляются только доступные сейчас планы IPTV Opplex и Filex. ChatGPT, Netflix и HBO Max готовятся к запуску, без обещаний цен и даты доступности."
+          },
+          {
+            "heading": "Можно ли оплатить несколько планов вместе?",
+            "body": "Текущая оплата поддерживает один план за раз. Проверьте поставщика, срок и сумму в корзине, затем подтвердите окончательные данные в Opplexify."
+          },
+          {
+            "heading": "Сколько подключений включено?",
+            "body": "У Opplex одно одновременное подключение. Лимит Filex уточняется у поддержки. Дополнительные приложения и профили не создают одновременных подключений."
+          }
+        ]
+      },
+      "buying-guide": {
+        "title": "Практическое руководство по выбору цифрового плана",
+        "intro": "Полезная покупка начинается с проверяемых сегодня сведений, а не только со знакомого названия.",
+        "sections": [
+          {
+            "heading": "Подберите план под свою систему",
+            "body": "Определите устройство и плеер и сравните Opplex и Filex как разных поставщиков. Проверьте срок, полную цену, подключения и отдельную лицензию плеера. Спросите о недостающих данных."
+          },
+          {
+            "heading": "Проверьте до оплаты",
+            "body": "Корзина содержит один план. Перед оплатой цена и доступность проверяются снова. Перейдите через центральный сайт Opplex в Opplexify и проверьте поставщика, срок, валюту и итог."
+          }
+        ]
+      },
+      "privacy-policy": {
+        "title": "Обзор конфиденциальности Cheap Accounts",
+        "intro": "Здесь описан основной поток данных. Полная применимая информация приведена в связанной центральной политике конфиденциальности.",
+        "sections": [
+          {
+            "heading": "Ваш выбор и аккаунт",
+            "body": "Корзина сохраняет в браузере ID выбранного пакета. Цены берутся из основного каталога. Личный доступ и поддержка заказов используют центральные системы Opplex; оплата продолжается в Opplexify."
+          },
+          {
+            "heading": "Защищайте личные сведения",
+            "body": "Для существующей покупки используйте личный кабинет. Не публикуйте пароли, платежные коды или личные ссылки доступа. Внешние сервисы применяют собственные правила конфиденциальности."
+          }
+        ]
+      },
+      "terms-of-service": {
+        "title": "Обзор условий Cheap Accounts",
+        "intro": "Перед заказом изучите выбранную услугу и связанные центральные условия. Этот обзор их не заменяет.",
+        "sections": [
+          {
+            "heading": "Понимайте выбранный продукт",
+            "body": "Планы указывают Opplex или Filex, срок и текущую цену. Плеер может иметь отдельные требования и стоимость. Разделы Скоро не принимают заказы и не подтверждают будущую доступность."
+          },
+          {
+            "heading": "Проверьте окончательный заказ",
+            "body": "За раз оплачивается один план. В Opplexify подтвердите поставщика, срок, валюту, сборы и сумму. Действующие условия услуги и обязательные права потребителя сохраняются."
+          }
+        ]
+      },
+      "refund-policy": {
+        "title": "Информация о возвратах Cheap Accounts",
+        "intro": "До оплаты прочтите центральные правила возврата и уточните у поддержки сведения о конкретной покупке при сомнениях.",
+        "sections": [
+          {
+            "heading": "Проверьте перед выбором",
+            "body": "До заказа подтвердите поставщика, срок, требования устройства и плеера, лимит подключений и отдельную стоимость приложения. Не считайте неиспользованный срок автоматическим основанием для возврата или кредита."
+          },
+          {
+            "heading": "Запрос по конкретному заказу",
+            "body": "Обратитесь в частную поддержку с номером покупки и понятным объяснением. Запрос регулируется применимой центральной политикой и обязательными законными правами; страница не обещает одобрения или сроков обработки."
+          }
+        ]
+      }
+    }
+  },
+  "ur": {
+    "tagline": "ڈیجیٹل انتخاب، واضح قیمتیں۔",
+    "shop": "دکان",
+    "iptv": "IPTV",
+    "comingSoon": "جلد آ رہا ہے",
+    "buyingGuide": "خریداری گائیڈ",
+    "support": "سپورٹ",
+    "account": "میرا اکاؤنٹ",
+    "cart": "کارٹ",
+    "openMenu": "مینو کھولیں",
+    "closeMenu": "مینو بند کریں",
+    "language": "زبان",
+    "search": "پراڈکٹس تلاش کریں",
+    "searchPlaceholder": "فراہم کنندہ یا پراڈکٹ تلاش کریں",
+    "provider": "فراہم کنندہ",
+    "allProviders": "تمام فراہم کنندگان",
+    "duration": "مدت",
+    "allDurations": "تمام مدتیں",
+    "sort": "ترتیب دیں",
+    "sortDefault": "تجویز کردہ ترتیب",
+    "sortLow": "قیمت: کم سے زیادہ",
+    "sortHigh": "قیمت: زیادہ سے کم",
+    "clearFilters": "فلٹرز صاف کریں",
+    "results": "ملنے والی پراڈکٹس",
+    "noResults": "ان فلٹرز کے مطابق کوئی پراڈکٹ نہیں ملی۔",
+    "homeEyebrow": "آپ کی ڈیجیٹل دکان",
+    "homeTitle": "ڈیجیٹل پلانز۔ واضح انتخاب۔",
+    "homeIntro": "Opplex اور Filex کے موجودہ IPTV پلانز کا موازنہ کریں، اپنے سیٹ اپ کی ضروریات دیکھیں اور Opplexify پر ادائیگی سے پہلے انتخاب کا جائزہ لیں۔",
+    "shopPlans": "IPTV پلانز دیکھیں",
+    "howItWorks": "ادائیگی کیسے ہوتی ہے",
+    "availableNow": "ابھی دستیاب",
+    "categoryHeading": "اپنی کیٹیگری تلاش کریں",
+    "iptvSummary": "دستیاب فراہم کنندگان اور رکنیت کی مدتوں کا موازنہ کریں۔",
+    "chatgptSummary": "پراڈکٹ کے اختیارات اور قیمتیں ابھی شائع نہیں ہوئیں۔",
+    "netflixSummary": "یہ کیٹیگری تیار ہو رہی ہے۔ آرڈر ابھی دستیاب نہیں۔",
+    "hboSummary": "تصدیق کے بعد دستیابی اور پراڈکٹ کی تفصیل یہاں آئے گی۔",
+    "planHeading": "آپ کے اگلے قدم کے لیے ایک پلان۔",
+    "planIntro": "موجودہ قیمتیں اور دستیابی Opplex کیٹلاگ سے آتی ہیں۔ ادائیگی سے پہلے فراہم کنندہ، مدت اور پوری رقم دیکھیں۔",
+    "currentCatalogue": "موجودہ کیٹلاگ",
+    "viewProduct": "پراڈکٹ دیکھیں",
+    "chooseDuration": "رکنیت کی مدت منتخب کریں",
+    "month": "مہینہ",
+    "months": "مہینے",
+    "total": "پلان کی کل رقم",
+    "from": "سے شروع",
+    "fullAmount": "منتخب مدت کی پوری رقم",
+    "connection": "بیک وقت کنکشنز",
+    "oneConnection": "ایک بیک وقت کنکشن",
+    "confirmAllowance": "کنکشن کی حد سپورٹ سے تصدیق کریں",
+    "playerSeparate": "پلیئر ایپ اور اس کا الگ لائسنس سروس کی رکنیت سے الگ ہیں۔",
+    "checkoutNote": "لاگو فیس اور حتمی رقم ادائیگی سے پہلے Opplexify پر دکھائی جائیں گی۔",
+    "onePlan": "ہر ادائیگی میں ایک پلان",
+    "onePlanDetail": "ہر خریداری کے لیے ایک فراہم کنندہ اور رکنیت کی مدت منتخب کریں۔",
+    "addToCart": "کارٹ میں شامل کریں",
+    "inCart": "آپ کے کارٹ میں",
+    "cartAdded": "آپ کا منتخب پلان کارٹ میں ہے۔",
+    "viewCart": "کارٹ دیکھیں",
+    "replaceTitle": "موجودہ انتخاب تبدیل کریں؟",
+    "replaceBody": "فی الحال ہر ادائیگی میں ایک پلان لیا جا سکتا ہے۔ تبدیل کرنے تک آپ کا موجودہ انتخاب برقرار رہے گا۔",
+    "keepPlan": "موجودہ پلان رکھیں",
+    "replacePlan": "انتخاب تبدیل کریں",
+    "remove": "انتخاب ہٹائیں",
+    "emptyCart": "آپ کا کارٹ انتخاب کا منتظر ہے۔",
+    "emptyCartBody": "دستیاب IPTV پراڈکٹس کا موازنہ کریں، پھر ادائیگی سے پہلے دیکھنے کے لیے ایک پلان شامل کریں۔",
+    "orderSummary": "آپ کا انتخاب",
+    "quantity": "تعداد",
+    "reviewSelection": "میں نے فراہم کنندہ، رکنیت کی مدت اور پلان کی موجودہ کل رقم دیکھ لی ہے۔",
+    "continueCheckout": "Opplexify پر آگے بڑھیں",
+    "openingCheckout": "ادائیگی کھل رہی ہے…",
+    "refreshing": "موجودہ تفصیلات دیکھی جا رہی ہیں…",
+    "pricesUnavailable": "موجودہ قیمتوں کی تصدیق نہیں ہو سکی۔ ادائیگی سے پہلے دوبارہ کوشش کریں۔",
+    "retry": "دوبارہ کوشش کریں",
+    "priceChanged": "منتخب پلان بدل گیا ہے۔ موجودہ تفصیل دیکھ کر دوبارہ تصدیق کریں۔",
+    "planUnavailable": "یہ پلان اب دستیاب نہیں۔ کوئی دوسرا موجودہ پلان منتخب کریں۔",
+    "notAvailable": "آرڈر کے لیے دستیاب نہیں",
+    "comingSoonTitle": "آگے مزید انتخاب آ رہے ہیں۔",
+    "comingSoonBody": "یہ کیٹیگری ابھی خریدی نہیں جا سکتی۔ تصدیق کے بعد ہی پراڈکٹ کی تفصیل اور قیمتیں آئیں گی۔",
+    "backShop": "دکان پر واپس جائیں",
+    "productDetails": "جان کر اپنا انتخاب کریں",
+    "opplexSummary": "Opplex IPTV کی رکنیت کی مدت منتخب کریں اور پلان کی موجودہ تفصیل دیکھیں۔",
+    "filexSummary": "Filex IPTV کے موجودہ اختیارات کا موازنہ کریں اور خریدنے سے پہلے غیر واضح کنکشن کی حد پوچھیں۔",
+    "stepChoose": "فراہم کنندہ منتخب کریں",
+    "stepChooseBody": "ہر پراڈکٹ کی تفصیل سے Opplex اور Filex کا موازنہ کریں۔",
+    "stepReview": "انتخاب کا جائزہ لیں",
+    "stepReviewBody": "مدت، رقم اور سیٹ اپ کے باقی سوالات واضح کریں۔",
+    "stepCheckout": "Opplexify پر جائیں",
+    "stepCheckoutBody": "ادائیگی کرنے سے پہلے وہاں حتمی تفصیل دیکھیں۔",
+    "helpTitle": "منتخب کرنے سے پہلے کوئی سوال؟",
+    "helpBody": "سپورٹ کو اپنا آلہ، پلیئر اور زیر غور پلان بتائیں۔ پرانی خریداری کے لیے نجی آرڈر سپورٹ استعمال کریں۔",
+    "contactSupport": "سپورٹ سے رابطہ کریں",
+    "trackOrder": "آرڈر دیکھیں",
+    "footerIntro": "موجودہ IPTV پلانز اور آنے والی ڈیجیٹل کیٹیگریز کے لیے ایک واضح دکان۔",
+    "sharedSupport": "پلانز اور آرڈر سپورٹ مرکزی Opplex نظام استعمال کرتے ہیں۔ ادائیگی Opplexify پر کھلتی ہے۔",
+    "legal": "پالیسیاں",
+    "privacy": "رازداری کی پالیسی",
+    "terms": "سروس کی شرائط",
+    "refund": "رقم واپسی کی پالیسی",
+    "about": "Cheap Accounts کے بارے میں",
+    "contact": "رابطہ",
+    "faqs": "عام سوالات",
+    "rights": "تیسرے فریق کے نام پراڈکٹ کیٹیگریز بتاتے ہیں؛ ان سے سرکاری شراکت داری مراد نہیں۔",
+    "refreshPrices": "قیمتیں تازہ کریں",
+    "selectionTitle": "تفصیل سامنے رکھ کر منتخب کریں۔",
+    "selectionIntro": "اصل فراہم کنندہ، مدت اور رقم دیکھیں۔ پلان منتخب کرنے سے پہلے آلے اور پلیئر کی ضروریات کی تصدیق کریں۔",
+    "securityNote": "عوامی پیغامات میں پاس ورڈ، ادائیگی کے کوڈ یا نجی اکاؤنٹ لنکس نہ دیں۔",
+    "skipContent": "اصل مواد پر جائیں",
+    "closeDialog": "ونڈو بند کریں",
+    "browseAll": "تمام کیٹیگریز دیکھیں",
+    "checkoutHeading": "ادائیگی کا اگلا قدم واضح رکھیں۔",
+    "products": "پراڈکٹس",
+    "subscription": "رکنیت",
+    "readGuide": "خریداری گائیڈ پڑھیں",
+    "centralPolicies": "مکمل مرکزی پالیسی پڑھیں",
+    "customerPortal": "کسٹمر پورٹل کھولیں",
+    "pages": {
+      "about": {
+        "title": "Cheap Accounts کے بارے میں",
+        "intro": "Cheap Accounts موجودہ IPTV اختیارات اور واضح نشان والی آئندہ کیٹیگریز کو ایک آسان دکان میں پیش کرتا ہے۔",
+        "sections": [
+          {
+            "heading": "واضح تفصیل سے شروعات",
+            "body": "Opplex اور Filex کو الگ دیکھیں، مدت اور پوری رقم کا جائزہ لیں اور خریدنے سے پہلے اپنے آلے کا پوچھیں۔ ChatGPT، Netflix اور HBO Max جلد آ رہے ہیں اور ابھی آرڈر نہیں کیے جا سکتے۔"
+          },
+          {
+            "heading": "آرڈرز سے منسلک سپورٹ",
+            "body": "پلانز اور نجی آرڈر سپورٹ مرکزی Opplex نظام استعمال کرتے ہیں۔ ادائیگی Opplexify پر ہوتی ہے۔ تیسرے فریق کی کیٹیگریز کے نام ان برانڈز کے ساتھ سرکاری شراکت داری ظاہر نہیں کرتے۔"
+          }
+        ]
+      },
+      "contact": {
+        "title": "Cheap Accounts سے رابطہ کریں",
+        "intro": "جس سوال کا جواب چاہیے اس سے شروع کریں: پلان منتخب کرنا، آلہ تیار کرنا یا موجودہ آرڈر دیکھنا۔",
+        "sections": [
+          {
+            "heading": "خریداری سے پہلے",
+            "body": "مشترکہ سپورٹ کو اصل ماڈل، پلیئر اور زیر غور فراہم کنندہ بتائیں۔ مدت چننے سے پہلے غیر واضح حدود، الگ لائسنس اور فعال کرنے کے طریقے کے بارے میں پوچھیں۔"
+          },
+          {
+            "heading": "موجودہ آرڈر کے لیے",
+            "body": "خریداری والی ای میل سے مرکزی نجی پورٹل کھولیں۔ نئی ادائیگی شروع کرنے سے پہلے پچھلی غیر واضح ادائیگی دیکھیں۔ پاس ورڈ، ادائیگی کے کوڈ یا نجی لنکس عوامی طور پر نہ دیں۔"
+          }
+        ]
+      },
+      "faqs": {
+        "title": "Cheap Accounts کے سوالات کے جواب",
+        "intro": "پراڈکٹ، پلیئر اور ادائیگی کو الگ سمجھیں تاکہ اگلا قدم واضح رہے۔",
+        "sections": [
+          {
+            "heading": "آج کیا آرڈر کر سکتا ہوں؟",
+            "body": "کارٹ میں صرف اس وقت دستیاب Opplex اور Filex IPTV پلانز شامل کیے جا سکتے ہیں۔ ChatGPT، Netflix اور HBO Max جلد آ رہے ہیں؛ قیمت یا دستیابی کی تاریخ کا وعدہ نہیں۔"
+          },
+          {
+            "heading": "کیا کئی پلانز اکٹھے ادا کر سکتا ہوں؟",
+            "body": "موجودہ ادائیگی میں ایک وقت میں ایک پلان لیا جا سکتا ہے۔ کارٹ میں فراہم کنندہ، مدت اور موجودہ رقم دیکھیں، پھر Opplexify پر حتمی تفصیل کی تصدیق کریں۔"
+          },
+          {
+            "heading": "کتنے کنکشن شامل ہیں؟",
+            "body": "Opplex پر ایک بیک وقت کنکشن ہے۔ Filex کی حد سپورٹ سے پوچھنی ہوگی۔ اضافی پلیئر ایپس یا پروفائلز بنانے سے بیک وقت مزید کنکشن نہیں ملتے۔"
+          }
+        ]
+      },
+      "buying-guide": {
+        "title": "ڈیجیٹل پلان منتخب کرنے کی عملی گائیڈ",
+        "intro": "مفید خریداری ان تفصیلات سے شروع ہوتی ہے جو آج تصدیق کی جا سکتی ہیں، صرف مانوس نام سے نہیں۔",
+        "sections": [
+          {
+            "heading": "اپنے سیٹ اپ کے مطابق پلان چنیں",
+            "body": "آلے اور پلیئر کی شناخت کریں اور Opplex اور Filex کا الگ فراہم کنندگان کے طور پر موازنہ کریں۔ مدت، پوری قیمت، کنکشن کی حد اور پلیئر کا الگ لائسنس دیکھیں۔ جو واضح نہیں اسے پوچھیں۔"
+          },
+          {
+            "heading": "ادائیگی سے پہلے جائزہ لیں",
+            "body": "کارٹ میں ایک پلان رہتا ہے۔ ادائیگی سے پہلے قیمت اور دستیابی دوبارہ دیکھی جاتی ہیں۔ مرکزی Opplex ویب سائٹ سے Opplexify پر جا کر فراہم کنندہ، مدت، کرنسی اور حتمی رقم دیکھیں۔"
+          }
+        ]
+      },
+      "privacy-policy": {
+        "title": "Cheap Accounts کی رازداری کا خلاصہ",
+        "intro": "یہ خلاصہ ڈیٹا کے بنیادی بہاؤ کو سمجھاتا ہے۔ مکمل لاگو معلومات کے لیے منسلک مرکزی رازداری کی پالیسی پڑھیں۔",
+        "sections": [
+          {
+            "heading": "آپ کا انتخاب اور اکاؤنٹ",
+            "body": "کارٹ منتخب پیکیج کا ID آپ کے براؤزر میں یاد رکھتا ہے۔ قیمتیں مرکزی کیٹلاگ سے آتی ہیں۔ نجی رسائی اور آرڈر سپورٹ مرکزی Opplex نظام پر ہیں؛ ادائیگی Opplexify پر ہوتی ہے۔"
+          },
+          {
+            "heading": "نجی تفصیل محفوظ رکھیں",
+            "body": "پرانی خریداری کے لیے نجی پورٹل استعمال کریں۔ پاس ورڈ، ادائیگی کے کوڈ یا نجی رسائی کے لنکس عوامی طور پر نہ دیں۔ بیرونی خدمات کی اپنی رازداری کی شرائط ہیں۔"
+          }
+        ]
+      },
+      "terms-of-service": {
+        "title": "Cheap Accounts کی شرائط کا خلاصہ",
+        "intro": "آرڈر سے پہلے منتخب سروس اور منسلک مرکزی شرائط پڑھیں۔ یہ مختصر خلاصہ ان کی جگہ نہیں لیتا۔",
+        "sections": [
+          {
+            "heading": "منتخب پراڈکٹ سمجھیں",
+            "body": "دستیاب پلانز Opplex یا Filex، مدت اور موجودہ قیمت بتاتے ہیں۔ پلیئر کی الگ ضروریات اور فیس ہو سکتی ہے۔ جلد آنے والی کیٹیگریز ابھی آرڈر نہیں ہو سکتیں اور مستقبل کی دستیابی کی تصدیق نہیں ہیں۔"
+          },
+          {
+            "heading": "حتمی آرڈر دیکھیں",
+            "body": "ایک وقت میں ایک پلان کی ادائیگی ہوتی ہے۔ Opplexify پر فراہم کنندہ، مدت، کرنسی، فیس اور کل رقم کی تصدیق کریں۔ سروس کی موجودہ شرائط اور صارف کے لازمی حقوق لاگو رہتے ہیں۔"
+          }
+        ]
+      },
+      "refund-policy": {
+        "title": "Cheap Accounts کی رقم واپسی کی معلومات",
+        "intro": "ادائیگی سے پہلے مرکزی رقم واپسی کی پالیسی پڑھیں اور شک ہو تو اپنی مخصوص خریداری کا سپورٹ سے پوچھیں۔",
+        "sections": [
+          {
+            "heading": "انتخاب سے پہلے تصدیق کریں",
+            "body": "آرڈر سے پہلے فراہم کنندہ، مدت، آلے اور پلیئر کی ضروریات، کنکشن کی حد اور ایپ کے الگ خرچ کی تصدیق کریں۔ غیر استعمال شدہ مدت کو خود بخود رقم واپسی یا کریڈٹ کا حق نہ سمجھیں۔"
+          },
+          {
+            "heading": "مخصوص آرڈر کے بارے میں پوچھیں",
+            "body": "نجی سپورٹ کو خریداری کا حوالہ اور واضح وجہ دیں۔ متعلقہ مرکزی پالیسی اور لازمی قانونی حقوق درخواست طے کرتے ہیں؛ یہ صفحہ منظوری یا مدت کا وعدہ نہیں کرتا۔"
+          }
+        ]
+      }
+    }
+  },
+  "ar": {
+    "tagline": "خيارات رقمية بأسعار واضحة.",
+    "shop": "المتجر",
+    "iptv": "IPTV",
+    "comingSoon": "قريباً",
+    "buyingGuide": "دليل الشراء",
+    "support": "الدعم",
+    "account": "حسابي",
+    "cart": "السلة",
+    "openMenu": "فتح القائمة",
+    "closeMenu": "إغلاق القائمة",
+    "language": "اللغة",
+    "search": "البحث عن المنتجات",
+    "searchPlaceholder": "ابحث عن مزوّد أو منتج",
+    "provider": "المزوّد",
+    "allProviders": "كل المزوّدين",
+    "duration": "المدة",
+    "allDurations": "كل المدد",
+    "sort": "الترتيب حسب",
+    "sortDefault": "الترتيب المقترح",
+    "sortLow": "السعر من الأقل إلى الأعلى",
+    "sortHigh": "السعر من الأعلى إلى الأقل",
+    "clearFilters": "مسح المرشحات",
+    "results": "المنتجات الموجودة",
+    "noResults": "لا توجد منتجات تطابق هذه المرشحات.",
+    "homeEyebrow": "متجرك الرقمي",
+    "homeTitle": "خطط رقمية. خيارات واضحة.",
+    "homeIntro": "قارن خطط IPTV الحالية من Opplex وFilex، وتحقق مما يهم إعدادك وراجع اختيارك قبل الدفع على Opplexify.",
+    "shopPlans": "تصفح خطط IPTV",
+    "howItWorks": "كيف يتم الدفع",
+    "availableNow": "متاح الآن",
+    "categoryHeading": "اعثر على قسمك",
+    "iptvSummary": "قارن المزوّدين ومدد الاشتراك المتاحة.",
+    "chatgptSummary": "لم تُنشر خيارات المنتجات والأسعار بعد.",
+    "netflixSummary": "هذا القسم قيد الإعداد. الطلبات غير متاحة.",
+    "hboSummary": "سيظهر التوافر وتفاصيل المنتجات بعد التأكيد.",
+    "planHeading": "خطة لخطوتك القادمة.",
+    "planIntro": "الأسعار والتوافر الحاليان من كتالوج Opplex. راجع المزوّد والمدة والمبلغ الكامل قبل الدفع.",
+    "currentCatalogue": "الكتالوج الحالي",
+    "viewProduct": "عرض المنتج",
+    "chooseDuration": "اختر مدة الاشتراك",
+    "month": "شهر",
+    "months": "أشهر",
+    "total": "إجمالي الخطة",
+    "from": "بدءاً من",
+    "fullAmount": "المبلغ الكامل للمدة المختارة",
+    "connection": "الاتصالات المتزامنة",
+    "oneConnection": "اتصال متزامن واحد",
+    "confirmAllowance": "أكّد حد الاتصالات مع الدعم",
+    "playerSeparate": "تطبيق المشغّل وأي ترخيص منفصل ليسا اشتراك الخدمة.",
+    "checkoutNote": "تظهر الرسوم المطبقة والإجمالي النهائي على Opplexify قبل الدفع.",
+    "onePlan": "خطة واحدة لكل دفعة",
+    "onePlanDetail": "اختر مزوّداً واحداً ومدة اشتراك لكل عملية شراء.",
+    "addToCart": "أضف إلى السلة",
+    "inCart": "في سلتك",
+    "cartAdded": "الخطة المختارة موجودة في السلة.",
+    "viewCart": "عرض السلة",
+    "replaceTitle": "هل تستبدل اختيارك الحالي؟",
+    "replaceBody": "يدعم الدفع حالياً خطة واحدة في كل مرة. سيبقى اختيارك الحالي ما لم تستبدله.",
+    "keepPlan": "الاحتفاظ بالخطة الحالية",
+    "replacePlan": "استبدال الاختيار",
+    "remove": "إزالة الاختيار",
+    "emptyCart": "سلتك تنتظر اختيارك.",
+    "emptyCartBody": "قارن منتجات IPTV المتاحة ثم أضف خطة واحدة لمراجعتها قبل الدفع.",
+    "orderSummary": "اختيارك",
+    "quantity": "الكمية",
+    "reviewSelection": "راجعت المزوّد ومدة الاشتراك والإجمالي الحالي للخطة.",
+    "continueCheckout": "المتابعة إلى Opplexify",
+    "openingCheckout": "جارٍ فتح الدفع…",
+    "refreshing": "جارٍ التحقق من التفاصيل الحالية…",
+    "pricesUnavailable": "تعذّر التحقق من الأسعار الحالية. أعد المحاولة قبل الدفع.",
+    "retry": "إعادة المحاولة",
+    "priceChanged": "تغيرت الخطة المختارة. راجع تفاصيلها الحالية ثم أكّد الاختيار مجدداً.",
+    "planUnavailable": "لم تعد هذه الخطة متاحة. اختر خطة حالية أخرى.",
+    "notAvailable": "غير متاح للطلب",
+    "comingSoonTitle": "المزيد قادم.",
+    "comingSoonBody": "هذا القسم غير متاح للشراء. ستظهر التفاصيل والأسعار فقط بعد التأكيد.",
+    "backShop": "العودة إلى المتجر",
+    "productDetails": "اعرف ما تختاره",
+    "opplexSummary": "اختر مدة اشتراك IPTV من Opplex وتحقق من تفاصيل الخطة الحالية.",
+    "filexSummary": "قارن خيارات IPTV الحالية من Filex ووضّح أي حد اتصالات غير معلن قبل الشراء.",
+    "stepChoose": "اختر مزوّدك",
+    "stepChooseBody": "قارن Opplex وFilex باستخدام تفاصيل كل منتج.",
+    "stepReview": "راجع اختيارك",
+    "stepReviewBody": "أكّد المدة والمبلغ وأي أسئلة باقية حول الإعداد.",
+    "stepCheckout": "تابع على Opplexify",
+    "stepCheckoutBody": "راجع تفاصيل الدفع النهائية هناك قبل السداد.",
+    "helpTitle": "سؤال قبل الاختيار؟",
+    "helpBody": "أخبر الدعم بجهازك ومشغّلك والخطة التي تفكر بها. للشراء القائم استخدم دعم الطلبات الخاص.",
+    "contactSupport": "الاتصال بالدعم",
+    "trackOrder": "متابعة طلب",
+    "footerIntro": "متجر مركّز للخطط الحالية من IPTV وأقسام رقمية مستقبلية.",
+    "sharedSupport": "تستخدم الخطط ودعم الطلبات أنظمة Opplex المركزية. يفتح الدفع على Opplexify.",
+    "legal": "السياسات",
+    "privacy": "سياسة الخصوصية",
+    "terms": "شروط الخدمة",
+    "refund": "سياسة الاسترداد",
+    "about": "عن Cheap Accounts",
+    "contact": "اتصل بنا",
+    "faqs": "الأسئلة الشائعة",
+    "rights": "تحدد أسماء الجهات الأخرى أقسام المنتجات ولا تعني شراكة رسمية.",
+    "refreshPrices": "تحديث الأسعار",
+    "selectionTitle": "اختر والتفاصيل أمامك.",
+    "selectionIntro": "تحقق من المزوّد والمدة والمبلغ بدقة. أكّد متطلبات الجهاز والمشغّل قبل اختيار الخطة.",
+    "securityNote": "لا تنشر كلمات المرور أو رموز الدفع أو روابط الحساب الخاصة.",
+    "skipContent": "الانتقال إلى المحتوى",
+    "closeDialog": "إغلاق النافذة",
+    "browseAll": "تصفح كل الأقسام",
+    "checkoutHeading": "خطوة دفع تالية واضحة.",
+    "products": "المنتجات",
+    "subscription": "اشتراك",
+    "readGuide": "قراءة دليل الشراء",
+    "centralPolicies": "قراءة السياسة المركزية كاملة",
+    "customerPortal": "فتح بوابة العميل",
+    "pages": {
+      "about": {
+        "title": "عن Cheap Accounts",
+        "intro": "يجمع Cheap Accounts خيارات IPTV الحالية وأقساماً مستقبلية مميزة بوضوح في متجر سهل.",
+        "sections": [
+          {
+            "heading": "ابدأ بتفاصيل واضحة",
+            "body": "قارن Opplex وFilex منفصلين، وراجع المدة والمبلغ الكامل واسأل عن جهازك قبل الشراء. أقسام ChatGPT وNetflix وHBO Max قادمة قريباً ولا تقبل الطلبات الآن."
+          },
+          {
+            "heading": "دعم مرتبط بالطلبات",
+            "body": "تستخدم الخطط والدعم الخاص أنظمة Opplex المركزية. يكتمل الدفع على Opplexify. لا تعني أسماء الأقسام التابعة لجهات أخرى وجود شراكة رسمية مع تلك العلامات."
+          }
+        ]
+      },
+      "contact": {
+        "title": "الاتصال بـ Cheap Accounts",
+        "intro": "ابدأ بالسؤال الذي تريد حله: اختيار خطة أو تجهيز جهاز أو مراجعة طلب قائم.",
+        "sections": [
+          {
+            "heading": "قبل الشراء",
+            "body": "أخبر الدعم المشترك بالطراز الدقيق والمشغّل والمزوّد المقترح. اسأل عن الحدود غير المعلنة والتراخيص المنفصلة وآلية التفعيل قبل اختيار المدة."
+          },
+          {
+            "heading": "للطلب القائم",
+            "body": "استخدم البوابة المركزية الخاصة ببريد الشراء. راجع الدفعة غير الواضحة قبل بدء أخرى. لا تنشر كلمات المرور أو رموز الدفع أو الروابط الخاصة."
+          }
+        ]
+      },
+      "faqs": {
+        "title": "إجابات عن Cheap Accounts",
+        "intro": "افصل بين المنتج والمشغّل والدفع لتبقى الخطوة التالية واضحة.",
+        "sections": [
+          {
+            "heading": "ماذا أستطيع طلبه اليوم؟",
+            "body": "يمكن إضافة خطط IPTV المتاحة حالياً من Opplex وFilex فقط إلى السلة. أقسام ChatGPT وNetflix وHBO Max قادمة قريباً، دون وعود بأسعار أو مواعيد توافر."
+          },
+          {
+            "heading": "هل يمكن دفع عدة خطط معاً؟",
+            "body": "يدعم الدفع الحالي خطة واحدة في كل مرة. راجع المزوّد والمدة والإجمالي في السلة ثم أكّد التفاصيل النهائية على Opplexify."
+          },
+          {
+            "heading": "كم اتصالاً تتضمن الخطة؟",
+            "body": "لدى Opplex اتصال متزامن واحد. يجب تأكيد حد Filex مع الدعم. تثبيت مشغّلات إضافية أو إنشاء ملفات شخصية لا يضيف اتصالات متزامنة."
+          }
+        ]
+      },
+      "buying-guide": {
+        "title": "دليل عملي لاختيار خطة رقمية",
+        "intro": "يبدأ الشراء المفيد بتفاصيل يمكن التحقق منها اليوم، وليس باسم مألوف فقط.",
+        "sections": [
+          {
+            "heading": "طابق الخطة مع إعدادك",
+            "body": "حدد الجهاز والمشغّل وقارن Opplex وFilex كمزوّدين منفصلين. تحقق من المدة والسعر الكامل وحد الاتصالات وأي ترخيص للمشغّل. اسأل عن المعلومات غير المذكورة."
+          },
+          {
+            "heading": "راجع قبل الدفع",
+            "body": "تحتوي السلة خطة واحدة. يُعاد التحقق من السعر والتوافر قبل الدفع. انتقل عبر موقع Opplex المركزي إلى Opplexify وراجع المزوّد والمدة والعملة والمبلغ النهائي."
+          }
+        ]
+      },
+      "privacy-policy": {
+        "title": "نظرة على خصوصية Cheap Accounts",
+        "intro": "تشرح هذه النظرة مسار البيانات الأساسي. اقرأ سياسة الخصوصية المركزية المرتبطة للمعلومات الكاملة المطبقة.",
+        "sections": [
+          {
+            "heading": "اختيارك وحسابك",
+            "body": "تتذكر السلة معرّف الحزمة المختارة في متصفحك. تأتي الأسعار من الكتالوج الرئيسي. تستخدم خدمات الدخول الخاص ودعم الطلبات أنظمة Opplex المركزية؛ ويستمر الدفع على Opplexify."
+          },
+          {
+            "heading": "احمِ التفاصيل الخاصة",
+            "body": "استخدم البوابة الخاصة للشراء القائم. لا تنشر كلمات المرور أو رموز الدفع أو روابط الدخول الخاصة. للخدمات الخارجية شروط خصوصية خاصة بها."
+          }
+        ]
+      },
+      "terms-of-service": {
+        "title": "نظرة على شروط Cheap Accounts",
+        "intro": "راجع الخدمة المختارة والشروط المركزية المرتبطة قبل الطلب. هذا الملخص لا يحل محل تلك الشروط.",
+        "sections": [
+          {
+            "heading": "افهم المنتج المختار",
+            "body": "تحدد الخطط المتاحة Opplex أو Filex والمدة والسعر الحالي. قد يكون للمشغّل متطلبات ورسوم منفصلة. الأقسام القادمة لا تقبل الطلبات ولا تؤكد توافراً مستقبلياً."
+          },
+          {
+            "heading": "راجع الطلب النهائي",
+            "body": "تُدفع خطة واحدة في كل مرة. أكّد المزوّد والمدة والعملة والرسوم والإجمالي على Opplexify. تبقى شروط الخدمة الحالية وحقوق المستهلك الإلزامية نافذة."
+          }
+        ]
+      },
+      "refund-policy": {
+        "title": "معلومات الاسترداد في Cheap Accounts",
+        "intro": "اقرأ سياسة الاسترداد المركزية قبل الدفع واسأل الدعم عن شرائك المحدد إذا بقي شيء غير واضح.",
+        "sections": [
+          {
+            "heading": "تحقق قبل الاختيار",
+            "body": "أكّد المزوّد والمدة ومتطلبات الجهاز والمشغّل وحد الاتصالات وأي تكاليف منفصلة للتطبيق قبل الطلب. لا تفترض أن المدة غير المستخدمة تنشئ استرداداً أو رصيداً تلقائياً."
+          },
+          {
+            "heading": "اسأل عن طلب محدد",
+            "body": "استخدم الدعم الخاص مع مرجع الشراء وتوضيح واضح. تحكم السياسة المركزية المطبقة والحقوق القانونية الإلزامية الطلب؛ ولا تعد هذه الصفحة بالموافقة أو بمدة المعالجة."
+          }
+        ]
+      }
+    }
+  },
+  "hi": {
+    "tagline": "डिजिटल विकल्प, स्पष्ट कीमतें।",
+    "shop": "दुकान",
+    "iptv": "IPTV",
+    "comingSoon": "जल्द आ रहा है",
+    "buyingGuide": "खरीद गाइड",
+    "support": "सहायता",
+    "account": "मेरा खाता",
+    "cart": "कार्ट",
+    "openMenu": "मेनू खोलें",
+    "closeMenu": "मेनू बंद करें",
+    "language": "भाषा",
+    "search": "उत्पाद खोजें",
+    "searchPlaceholder": "प्रदाता या उत्पाद खोजें",
+    "provider": "प्रदाता",
+    "allProviders": "सभी प्रदाता",
+    "duration": "अवधि",
+    "allDurations": "सभी अवधियाँ",
+    "sort": "क्रम चुनें",
+    "sortDefault": "सुझाया गया क्रम",
+    "sortLow": "कीमत: कम से अधिक",
+    "sortHigh": "कीमत: अधिक से कम",
+    "clearFilters": "फ़िल्टर हटाएँ",
+    "results": "मिले उत्पाद",
+    "noResults": "इन फ़िल्टर से कोई उत्पाद नहीं मिला।",
+    "homeEyebrow": "आपकी डिजिटल दुकान",
+    "homeTitle": "डिजिटल प्लान। स्पष्ट विकल्प।",
+    "homeIntro": "Opplex और Filex के मौजूदा IPTV प्लान की तुलना करें, अपने सेटअप की ज़रूरतें देखें और Opplexify पर भुगतान से पहले अपना चयन जाँचें।",
+    "shopPlans": "IPTV प्लान देखें",
+    "howItWorks": "भुगतान कैसे होता है",
+    "availableNow": "अभी उपलब्ध",
+    "categoryHeading": "अपनी श्रेणी खोजें",
+    "iptvSummary": "उपलब्ध प्रदाताओं और सदस्यता अवधियों की तुलना करें।",
+    "chatgptSummary": "उत्पाद विकल्प और कीमतें अभी प्रकाशित नहीं हुई हैं।",
+    "netflixSummary": "यह श्रेणी तैयार हो रही है। ऑर्डर अभी उपलब्ध नहीं हैं।",
+    "hboSummary": "पुष्टि के बाद उपलब्धता और उत्पाद विवरण यहाँ आएँगे।",
+    "planHeading": "आपके अगले कदम के लिए एक प्लान।",
+    "planIntro": "मौजूदा कीमतें और उपलब्धता Opplex कैटलॉग से आती हैं। भुगतान से पहले प्रदाता, अवधि और पूरी रकम जाँचें।",
+    "currentCatalogue": "मौजूदा कैटलॉग",
+    "viewProduct": "उत्पाद देखें",
+    "chooseDuration": "सदस्यता अवधि चुनें",
+    "month": "महीना",
+    "months": "महीने",
+    "total": "प्लान का कुल",
+    "from": "से शुरू",
+    "fullAmount": "चुनी अवधि की पूरी रकम",
+    "connection": "एक साथ कनेक्शन",
+    "oneConnection": "एक साथ एक कनेक्शन",
+    "confirmAllowance": "कनेक्शन सीमा की सहायता से पुष्टि करें",
+    "playerSeparate": "प्लेयर ऐप और उसका अलग लाइसेंस सेवा की सदस्यता से अलग हैं।",
+    "checkoutNote": "लागू शुल्क और अंतिम कुल भुगतान से पहले Opplexify पर दिखेंगे।",
+    "onePlan": "हर भुगतान में एक प्लान",
+    "onePlanDetail": "हर खरीद के लिए एक प्रदाता और सदस्यता अवधि चुनें।",
+    "addToCart": "कार्ट में जोड़ें",
+    "inCart": "आपके कार्ट में",
+    "cartAdded": "चुना हुआ प्लान कार्ट में है।",
+    "viewCart": "कार्ट देखें",
+    "replaceTitle": "मौजूदा चयन बदलें?",
+    "replaceBody": "अभी हर भुगतान में एक प्लान लिया जा सकता है। बदलने तक पुराना चयन बना रहेगा।",
+    "keepPlan": "मौजूदा प्लान रखें",
+    "replacePlan": "चयन बदलें",
+    "remove": "चयन हटाएँ",
+    "emptyCart": "आपका कार्ट चयन का इंतज़ार कर रहा है।",
+    "emptyCartBody": "उपलब्ध IPTV उत्पादों की तुलना करें और भुगतान से पहले देखने के लिए एक प्लान जोड़ें।",
+    "orderSummary": "आपका चयन",
+    "quantity": "मात्रा",
+    "reviewSelection": "मैंने प्रदाता, सदस्यता अवधि और प्लान का मौजूदा कुल जाँच लिया है।",
+    "continueCheckout": "Opplexify पर आगे बढ़ें",
+    "openingCheckout": "भुगतान खुल रहा है…",
+    "refreshing": "मौजूदा विवरण जाँचे जा रहे हैं…",
+    "pricesUnavailable": "मौजूदा कीमतें सत्यापित नहीं हो सकीं। भुगतान से पहले फिर कोशिश करें।",
+    "retry": "फिर कोशिश करें",
+    "priceChanged": "चुना प्लान बदल गया है। नए विवरण देखकर दोबारा पुष्टि करें।",
+    "planUnavailable": "यह प्लान अब उपलब्ध नहीं है। दूसरा मौजूदा प्लान चुनें।",
+    "notAvailable": "ऑर्डर के लिए उपलब्ध नहीं",
+    "comingSoonTitle": "आगे और विकल्प आ रहे हैं।",
+    "comingSoonBody": "यह श्रेणी अभी खरीदी नहीं जा सकती। पुष्टि होने पर ही उत्पाद विवरण और कीमतें दिखेंगी।",
+    "backShop": "दुकान पर लौटें",
+    "productDetails": "समझकर अपना विकल्प चुनें",
+    "opplexSummary": "Opplex IPTV की सदस्यता अवधि चुनें और प्लान के मौजूदा विवरण देखें।",
+    "filexSummary": "Filex IPTV के मौजूदा विकल्पों की तुलना करें और खरीद से पहले अनकही कनेक्शन सीमा पूछें।",
+    "stepChoose": "प्रदाता चुनें",
+    "stepChooseBody": "हर उत्पाद के विवरण से Opplex और Filex की तुलना करें।",
+    "stepReview": "अपना चयन जाँचें",
+    "stepReviewBody": "अवधि, रकम और सेटअप से जुड़े बाकी सवाल स्पष्ट करें।",
+    "stepCheckout": "Opplexify पर जाएँ",
+    "stepCheckoutBody": "भुगतान करने से पहले वहाँ अंतिम विवरण देखें।",
+    "helpTitle": "चुनने से पहले कोई सवाल?",
+    "helpBody": "सहायता को डिवाइस, प्लेयर और जिस प्लान पर विचार कर रहे हैं वह बताएँ। पुरानी खरीद के लिए निजी ऑर्डर सहायता लें।",
+    "contactSupport": "सहायता से संपर्क करें",
+    "trackOrder": "ऑर्डर देखें",
+    "footerIntro": "मौजूदा IPTV प्लान और आने वाली डिजिटल श्रेणियों की एक केंद्रित दुकान।",
+    "sharedSupport": "प्लान और ऑर्डर सहायता मुख्य Opplex प्रणालियों पर हैं। भुगतान Opplexify पर खुलता है।",
+    "legal": "नीतियाँ",
+    "privacy": "गोपनीयता नीति",
+    "terms": "सेवा की शर्तें",
+    "refund": "रिफंड नीति",
+    "about": "Cheap Accounts के बारे में",
+    "contact": "संपर्क",
+    "faqs": "आम सवाल",
+    "rights": "तीसरे पक्ष के नाम उत्पाद श्रेणियाँ बताते हैं; उनसे आधिकारिक साझेदारी नहीं मानी जानी चाहिए।",
+    "refreshPrices": "कीमतें ताज़ा करें",
+    "selectionTitle": "विवरण सामने रखकर चुनें।",
+    "selectionIntro": "सही प्रदाता, अवधि और रकम देखें। प्लान चुनने से पहले डिवाइस और प्लेयर की ज़रूरतें जाँचें।",
+    "securityNote": "सार्वजनिक संदेशों में पासवर्ड, भुगतान कोड या निजी खाता लिंक न दें।",
+    "skipContent": "मुख्य सामग्री पर जाएँ",
+    "closeDialog": "विंडो बंद करें",
+    "browseAll": "सभी श्रेणियाँ देखें",
+    "checkoutHeading": "भुगतान का अगला कदम स्पष्ट रखें।",
+    "products": "उत्पाद",
+    "subscription": "सदस्यता",
+    "readGuide": "खरीद गाइड पढ़ें",
+    "centralPolicies": "पूरी मुख्य नीति पढ़ें",
+    "customerPortal": "ग्राहक पोर्टल खोलें",
+    "pages": {
+      "about": {
+        "title": "Cheap Accounts के बारे में",
+        "intro": "Cheap Accounts मौजूदा IPTV विकल्पों और साफ़ बताई गई आने वाली श्रेणियों को एक आसान दुकान में लाता है।",
+        "sections": [
+          {
+            "heading": "स्पष्ट विवरण से शुरू करें",
+            "body": "Opplex और Filex को अलग देखें, अवधि व पूरी रकम जाँचें और खरीद से पहले अपने डिवाइस के बारे में पूछें। ChatGPT, Netflix और HBO Max जल्द आ रहे हैं और अभी ऑर्डर नहीं किए जा सकते।"
+          },
+          {
+            "heading": "ऑर्डर से जुड़ी सहायता",
+            "body": "प्लान और निजी ऑर्डर सहायता मुख्य Opplex प्रणालियों पर हैं। भुगतान Opplexify पर होता है। तीसरे पक्ष की श्रेणियों के नाम उन ब्रांडों से आधिकारिक साझेदारी नहीं बताते।"
+          }
+        ]
+      },
+      "contact": {
+        "title": "Cheap Accounts से संपर्क करें",
+        "intro": "जिस सवाल का हल चाहिए उससे शुरू करें: प्लान चुनना, डिवाइस तैयार करना या मौजूदा ऑर्डर देखना।",
+        "sections": [
+          {
+            "heading": "खरीद से पहले",
+            "body": "साझा सहायता को सही मॉडल, प्लेयर और जिस प्रदाता पर विचार है वह बताएँ। अवधि चुनने से पहले अनकही सीमाएँ, अलग लाइसेंस और सक्रिय करने की प्रक्रिया पूछें।"
+          },
+          {
+            "heading": "मौजूदा ऑर्डर के लिए",
+            "body": "खरीद वाली ईमेल से मुख्य निजी पोर्टल खोलें। नया भुगतान शुरू करने से पहले पुराने अस्पष्ट भुगतान को जाँचें। पासवर्ड, भुगतान कोड या निजी लिंक सार्वजनिक न करें।"
+          }
+        ]
+      },
+      "faqs": {
+        "title": "Cheap Accounts के सवालों के जवाब",
+        "intro": "उत्पाद, प्लेयर और भुगतान को अलग समझें ताकि अगला कदम साफ़ रहे।",
+        "sections": [
+          {
+            "heading": "आज क्या ऑर्डर कर सकता हूँ?",
+            "body": "कार्ट में केवल अभी उपलब्ध Opplex और Filex IPTV प्लान जोड़े जा सकते हैं। ChatGPT, Netflix और HBO Max जल्द आ रहे हैं; कीमत या उपलब्धता की तारीख का वादा नहीं है।"
+          },
+          {
+            "heading": "क्या कई प्लान एक साथ चुका सकता हूँ?",
+            "body": "मौजूदा भुगतान में एक बार में एक प्लान लिया जा सकता है। कार्ट में प्रदाता, अवधि और रकम देखें, फिर Opplexify पर अंतिम विवरण की पुष्टि करें।"
+          },
+          {
+            "heading": "कितने कनेक्शन शामिल हैं?",
+            "body": "Opplex में एक साथ एक कनेक्शन है। Filex की सीमा सहायता से पूछनी होगी। अतिरिक्त ऐप या प्रोफ़ाइल बनाने से एक साथ और कनेक्शन नहीं मिलते।"
+          }
+        ]
+      },
+      "buying-guide": {
+        "title": "डिजिटल प्लान चुनने की व्यावहारिक गाइड",
+        "intro": "अच्छी खरीद उन विवरणों से शुरू होती है जो आज जाँचे जा सकते हैं, केवल परिचित नाम से नहीं।",
+        "sections": [
+          {
+            "heading": "सेटअप के मुताबिक प्लान चुनें",
+            "body": "डिवाइस व प्लेयर पहचानें और Opplex व Filex की अलग प्रदाताओं की तरह तुलना करें। अवधि, पूरी कीमत, कनेक्शन सीमा और अलग प्लेयर लाइसेंस देखें। जो नहीं बताया गया उसे पूछें।"
+          },
+          {
+            "heading": "भुगतान से पहले देखें",
+            "body": "कार्ट में एक प्लान रहता है। भुगतान से पहले कीमत व उपलब्धता दोबारा जाँची जाती हैं। मुख्य Opplex साइट से Opplexify पर जाकर प्रदाता, अवधि, मुद्रा और अंतिम रकम देखें।"
+          }
+        ]
+      },
+      "privacy-policy": {
+        "title": "Cheap Accounts गोपनीयता का सार",
+        "intro": "यह सार डेटा के मुख्य प्रवाह को समझाता है। पूरी लागू जानकारी के लिए जुड़ी हुई मुख्य गोपनीयता नीति पढ़ें।",
+        "sections": [
+          {
+            "heading": "आपका चयन और खाता",
+            "body": "कार्ट चुने पैकेज का ID आपके ब्राउज़र में याद रखता है। कीमतें मुख्य कैटलॉग से आती हैं। निजी प्रवेश व ऑर्डर सहायता मुख्य Opplex प्रणालियों पर हैं; भुगतान Opplexify पर होता है।"
+          },
+          {
+            "heading": "निजी विवरण सुरक्षित रखें",
+            "body": "पुरानी खरीद के लिए निजी पोर्टल इस्तेमाल करें। पासवर्ड, भुगतान कोड या निजी प्रवेश लिंक सार्वजनिक न करें। बाहरी सेवाओं की अपनी गोपनीयता शर्तें होती हैं।"
+          }
+        ]
+      },
+      "terms-of-service": {
+        "title": "Cheap Accounts की शर्तों का सार",
+        "intro": "ऑर्डर से पहले चुनी सेवा और जुड़ी मुख्य शर्तें पढ़ें। यह छोटा सार उनकी जगह नहीं लेता।",
+        "sections": [
+          {
+            "heading": "चुने उत्पाद को समझें",
+            "body": "उपलब्ध प्लान Opplex या Filex, अवधि और मौजूदा कीमत बताते हैं। प्लेयर की अलग ज़रूरतें और शुल्क हो सकते हैं। आने वाली श्रेणियाँ ऑर्डर नहीं की जा सकतीं और भविष्य की उपलब्धता की पुष्टि नहीं हैं।"
+          },
+          {
+            "heading": "अंतिम ऑर्डर देखें",
+            "body": "एक बार में एक प्लान का भुगतान होता है। Opplexify पर प्रदाता, अवधि, मुद्रा, शुल्क और कुल की पुष्टि करें। सेवा की मौजूदा शर्तें और अनिवार्य उपभोक्ता अधिकार लागू रहते हैं।"
+          }
+        ]
+      },
+      "refund-policy": {
+        "title": "Cheap Accounts रिफंड जानकारी",
+        "intro": "भुगतान से पहले मुख्य रिफंड नीति पढ़ें और संदेह होने पर अपनी खास खरीद के बारे में सहायता से पूछें।",
+        "sections": [
+          {
+            "heading": "चुनने से पहले जाँचें",
+            "body": "ऑर्डर से पहले प्रदाता, अवधि, डिवाइस व प्लेयर की ज़रूरतें, कनेक्शन सीमा और अलग ऐप खर्च की पुष्टि करें। बची हुई अवधि को अपने आप रिफंड या क्रेडिट का आधार न मानें।"
+          },
+          {
+            "heading": "किसी खास ऑर्डर के बारे में पूछें",
+            "body": "निजी सहायता को खरीद संदर्भ और साफ़ कारण दें। लागू मुख्य नीति और अनिवार्य कानूनी अधिकार अनुरोध तय करते हैं; यह पेज स्वीकृति या समय-सीमा का वादा नहीं करता।"
+          }
+        ]
+      }
+    }
+  }
+}
