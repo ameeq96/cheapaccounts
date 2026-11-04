@@ -30,14 +30,15 @@ export async function generateMetadata({ params }) {
   const { locale, slug, valid } = resolveRoute((await params).segments);
   if (!valid) notFound();
   const page = routeCopy(getCopy(locale), slug), url = origin + pathFor(locale, slug);
-  const title = page.title + ' | Cheap Accounts';
+  const search = getCopy(locale).seo?.[slug] || { title: page.title, description: page.intro };
+  const title = search.title + ' | Cheap Accounts';
   return {
-    metadataBase: new URL(origin), title, description: page.intro,
+    metadataBase: new URL(origin), title, description: search.description,
     verification: { google: 'bzQep3YfxwN3w-sj5og2Ltjr1D2dVm8gAwm98LDTw-U', other: { 'msvalidate.01': '240C1FB5E68E5237A1E929DE29E999EC' } },
     alternates: { canonical: url, languages: Object.fromEntries([...SUPPORTED_LOCALES.map(code => [code, origin + pathFor(code, slug)]), ['x-default', origin + pathFor('en', slug)]]) },
     robots: { index: !NOINDEX_ROUTES.includes(slug), follow: true },
-    openGraph: { title, description: page.intro, url, siteName: site.name, type: 'website', locale, images: [{ url: '/share-card.png', width: 1200, height: 630, alt: site.name }] },
-    twitter: { card: 'summary_large_image', title, description: page.intro, images: ['/share-card.png'] },
+    openGraph: { title, description: search.description, url, siteName: site.name, type: 'website', locale, images: [{ url: '/share-card.png', width: 1200, height: 630, alt: site.name }] },
+    twitter: { card: 'summary_large_image', title, description: search.description, images: ['/share-card.png'] },
     icons: { icon: { url: '/favicon.svg', type: 'image/svg+xml', sizes: 'any' } },
   };
 }
@@ -46,14 +47,24 @@ export default async function Page({ params }) {
   if (!valid) notFound();
   const initialCatalog = await catalogFor(locale), copy = getCopy(locale), page = routeCopy(copy, slug);
   const url = origin + pathFor(locale, slug);
+  const breadcrumbs = slug ? [{ name: site.name, path: pathFor(locale, '') }] : [];
+  if (slug.startsWith('categories/') || slug.startsWith('products/')) breadcrumbs.push({ name: copy.shop, path: pathFor(locale, 'shop') });
+  if (slug.startsWith('products/')) breadcrumbs.push({ name: copy.iptv, path: pathFor(locale, 'categories/iptv') });
+  if (['categories/chatgpt', 'categories/netflix', 'categories/hbo-max'].includes(slug)) {
+    const category = slug === 'categories/chatgpt' ? 'ai' : 'ott';
+    breadcrumbs.push({ name: copy[category], path: pathFor(locale, 'categories/' + category) });
+  }
+  if (slug) breadcrumbs.push({ name: page.title, path: pathFor(locale, slug) });
+  const { seo, ...uiCopy } = copy;
   const data = [
     { '@context': 'https://schema.org', '@type': 'Organization', '@id': origin + '/#organization', name: site.name, url: origin, logo: origin + '/favicon.svg' },
-    { '@context': 'https://schema.org', '@type': slug ? 'WebPage' : 'WebSite', name: page.title, description: page.intro, url, inLanguage: locale, publisher: { '@id': origin + '/#organization' } },
+    { '@context': 'https://schema.org', '@type': slug ? 'WebPage' : 'WebSite', name: page.title, description: seo?.[slug]?.description || page.intro, url, inLanguage: locale, publisher: { '@id': origin + '/#organization' } },
   ];
+  if (breadcrumbs.length) data.push({ '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: breadcrumbs.map((item, index) => ({ '@type': 'ListItem', position: index + 1, name: item.name, item: origin + item.path })) });
   if (['products/opplex-iptv', 'products/filex-iptv'].includes(slug)) {
     const provider = slug.endsWith('opplex-iptv') ? 'Opplex' : 'Filex';
     const plans = initialCatalog.packages.filter(plan => plan.service === provider && plan.is_available === true);
     if (plans.length) data.push({ '@context': 'https://schema.org', '@type': 'Product', name: provider + ' IPTV', description: page.intro, url, image: origin + '/share-card.png', brand: { '@type': 'Brand', name: provider }, offers: { '@type': 'AggregateOffer', priceCurrency: initialCatalog.currency, lowPrice: Math.min(...plans.map(plan => Number(plan.price_amount))), highPrice: Math.max(...plans.map(plan => Number(plan.price_amount))), offerCount: plans.length } });
   }
-  return <><script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(data).replace(/</g, '\u003c') }} /><Storefront locale={locale} slug={slug} initialCatalog={initialCatalog} homeContent={initialCatalog.content} /></>;
+  return <><script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(data).replace(/</g, '\u003c') }} /><Storefront locale={locale} slug={slug} initialCatalog={initialCatalog} homeContent={initialCatalog.content} copy={uiCopy} breadcrumbs={breadcrumbs} /></>;
 }

@@ -10,10 +10,13 @@ const attr = (tag, name) => tag.match(new RegExp('(?:^|\\s)' + name + '="([^"]*)
 const tags = (html, name) => [...html.matchAll(new RegExp('<' + name + '\\b[^>]*>', 'g'))].map(m => m[0]);
 const decode = s => s.replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#x27;/g, "'");
 const schemaTypes = [];
+const browserChunks = new Set();
+const plain = value => decode(value.replace(/<[^>]*>/g, '')).replace(/\s+/g, ' ').trim();
 let pages = 0;
 for (const locale of SUPPORTED_LOCALES) {
   const copy = getCopy(locale);
   assert.equal(Object.keys(copy.pages).length, 7);
+  const titles = new Set(), descriptions = new Set();
   for (const slug of ROUTES) {
     const path = pathFor(locale, slug);
     const html = read(path.slice(1) + 'index.html');
@@ -26,7 +29,29 @@ for (const locale of SUPPORTED_LOCALES) {
     assert.equal(attr(metas.find(t => attr(t, 'name') === 'google-site-verification') || '', 'content'), 'bzQep3YfxwN3w-sj5og2Ltjr1D2dVm8gAwm98LDTw-U', path + ': Google ownership tag');
     assert.equal(attr(metas.find(t => attr(t, 'name') === 'msvalidate.01') || '', 'content'), '240C1FB5E68E5237A1E929DE29E999EC', path + ': Bing ownership tag');
     const description = metas.find(t => attr(t, 'name') === 'description');
-    assert.ok(attr(description || '', 'content')?.length > 20, path + ': description');
+    const descriptionText = decode(attr(description || '', 'content') || '');
+    assert.ok(descriptionText.length > 20, path + ': description');
+    if (copy.seo?.[slug]) {
+      assert.equal(decode(title), copy.seo[slug].title + ' | Cheap Accounts', path + ': intended search title');
+      assert.equal(descriptionText, copy.seo[slug].description, path + ': intended search description');
+    }
+    if (!NOINDEX_ROUTES.includes(slug)) {
+      assert.ok(!titles.has(decode(title)), path + ': unique indexable title');
+      assert.ok(!descriptions.has(descriptionText), path + ': unique indexable description');
+      titles.add(decode(title)); descriptions.add(descriptionText);
+    }
+    const breadcrumbNavs = [...html.matchAll(/<nav\b[^>]*class="breadcrumbs"[^>]*>(.*?)<\/nav>/gs)];
+    assert.equal(breadcrumbNavs.length, slug ? 1 : 0, path + ': one visible breadcrumb trail');
+    const trail = breadcrumbNavs[0]?.[1] || '';
+    const breadcrumbLinks = [...trail.matchAll(/<a\b([^>]*)>(.*?)<\/a>/gs)].map(match => ({ name: plain(match[2]), item: origin + decode(attr('<a' + match[1] + '>', 'href') || '') }));
+    const current = trail.match(/<span[^>]*aria-current="page"[^>]*>(.*?)<\/span>/s);
+    if (slug) assert.ok(current && plain(current[1]), path + ': current breadcrumb');
+    const visibleTrail = slug ? [...breadcrumbLinks, { name: plain(current[1]), item: origin + path }] : [];
+    let breadcrumbSchemas = 0;
+    for (const tag of tags(html, 'script')) {
+      const src = attr(tag, 'src');
+      if (src?.startsWith('/_next/static/') && src.endsWith('.js')) browserChunks.add(src);
+    }
     const robots = attr(metas.find(t => attr(t, 'name') === 'robots') || '', 'content') || '';
     assert.equal(robots.includes('noindex'), NOINDEX_ROUTES.includes(slug), path + ': robots');
     const links = tags(html, 'link');
@@ -39,6 +64,12 @@ for (const locale of SUPPORTED_LOCALES) {
       const data = JSON.parse(match[1]);
       for (const item of (Array.isArray(data) ? data : [data])) {
         schemaTypes.push(item['@type']);
+        if (item['@type'] === 'BreadcrumbList') {
+          breadcrumbSchemas++;
+          assert.deepEqual(item.itemListElement.map(({ name, item, position }, index) => { assert.equal(position, index + 1); return { name, item }; }), visibleTrail, path + ': visible and structured hierarchy match');
+          assert.equal(visibleTrail[0].item, origin + pathFor(locale, ''), path + ': trail starts at localized home');
+          if (slug.startsWith('products/')) assert.deepEqual(visibleTrail.map(item => item.item), ['', 'shop', 'categories/iptv', slug].map(route => origin + pathFor(locale, route)), path + ': product hierarchy');
+        }
         if (item['@type'] === 'Product') {
           assert.ok(slug.startsWith('products/'));
           assert.equal(item.offers['@type'], 'AggregateOffer');
@@ -47,6 +78,12 @@ for (const locale of SUPPORTED_LOCALES) {
           assert.equal(item.aggregateRating, undefined);
         }
       }
+    }
+    assert.equal(breadcrumbSchemas, slug ? 1 : 0, path + ': breadcrumb schema count');
+    if (['categories/ott', 'categories/ai', 'buying-guide', 'faqs'].includes(slug)) {
+      const guidance = slug.startsWith('categories/') ? html.match(/<section class="document-section">(.*?)<\/section>/s)?.[1] || '' : html.match(/<div class="document-content">(.*?)<aside class="document-sidebar">/s)?.[1] || '';
+      assert.ok(guidance, path + ': contextual guidance is rendered');
+      for (const target of (slug.startsWith('categories/') ? ['buying-guide', 'contact'] : ['categories/iptv', 'categories/ott', 'categories/ai'])) assert.ok(tags(guidance, 'a').some(tag => decode(attr(tag, 'href') || '') === pathFor(locale, target)), path + ': contextual guidance link ' + target);
     }
     for (const a of tags(html, 'a')) {
       const href = attr(a, 'href');
@@ -76,6 +113,10 @@ for (const locale of SUPPORTED_LOCALES) {
     pages++;
   }
 }
+for (const chunk of browserChunks) {
+  const code = read(decodeURIComponent(chunk.slice(1)));
+  for (const locale of SUPPORTED_LOCALES) assert.ok(!code.includes(getCopy(locale).homeIntro), chunk + ': locale dictionaries stay out of shared browser JS');
+}
 const sitemap = read('sitemap.xml');
 const urls = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => decode(m[1]));
 const expected = SUPPORTED_LOCALES.flatMap(locale => ROUTES.filter(slug => !NOINDEX_ROUTES.includes(slug)).map(slug => origin + pathFor(locale, slug)));
@@ -89,4 +130,4 @@ assert.ok(schemaTypes.filter(t => t === 'Product').length === 20);
 assert.match(read('robots.txt'), /Sitemap: https:\/\/cheapaccounts\.shop\/sitemap\.xml/);
 assert.ok(existsSync('out/404.html'));
 for (const file of ['favicon.svg', 'share-card.png']) assert.ok(existsSync(join('out', file)));
-console.log(JSON.stringify({ pages, indexableSitemapUrls: urls.length, languages: SUPPORTED_LOCALES.length, productSchemas: 20, noindexPages: 40, enquiryProducts: ENQUIRY_PRODUCTS.length, checks: 'passed' }));
+console.log(JSON.stringify({ pages, indexableSitemapUrls: urls.length, languages: SUPPORTED_LOCALES.length, productSchemas: 20, noindexPages: 40, enquiryProducts: ENQUIRY_PRODUCTS.length, breadcrumbSchemas: schemaTypes.filter(type => type === 'BreadcrumbList').length, uniqueLocalizedMetadata: true, currentLanguageOnly: true, checks: 'passed' }));

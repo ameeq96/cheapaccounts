@@ -157,6 +157,18 @@
           {
             "heading": "How many connections are included?",
             "body": "Opplex has one simultaneous connection. The Filex allowance must be confirmed with support. Installed player apps and profiles do not create extra simultaneous connections."
+          },
+          {
+            "heading": "Does Request pricing place an order?",
+            "body": "No. It opens WhatsApp with the selected product and plan so you can ask about current pricing and availability. You choose whether to send the message. Confirm the actual offer and terms before paying."
+          },
+          {
+            "heading": "Is every OTT plan available in my country?",
+            "body": "Availability, plan names, household rules and device support can differ by country. Share your location and intended devices with support, then review the publisher’s official details before agreeing to a plan."
+          },
+          {
+            "heading": "Does an AI chat subscription include API credits?",
+            "body": "Do not assume it does. Chat subscriptions and developer API usage can have separate accounts, limits and charges. Specify which service you need and confirm its billing before choosing an option."
           }
         ]
       },
@@ -171,6 +183,14 @@
           {
             "heading": "Review before paying",
             "body": "The cart holds one plan. Current price and availability are checked again before checkout. Continue through the central Opplex website to Opplexify and review the final provider, term, currency and amount there."
+          },
+          {
+            "heading": "Prepare an OTT pricing enquiry",
+            "body": "Include your country, preferred service and billing period in the enquiry. Check supported devices, simultaneous viewing and household rules against the official plan details. Confirm renewal, cancellation and account eligibility before agreeing to an offer; an enquiry card alone does not confirm that a plan can be supplied."
+          },
+          {
+            "heading": "Separate AI subscriptions from API usage",
+            "body": "A chat subscription is not an API credit balance. State whether you need the consumer application or developer access, then confirm the account owner, usage limits, currency and renewal terms. Ask what is included rather than assuming that a higher tier provides unlimited use or every model."
           }
         ]
       },
@@ -254,7 +274,59 @@
     "claudeUsageAndAccountRequirements": "Claude plans have usage limits and account requirements. Confirm the tier and billing period.",
     "geminiCountryAndPersonalAccount": "Confirm Google AI plan availability and personal-account eligibility in your country.",
     "grokUnifiedSubscriptionEligibility": "Confirm the current unified subscription tier and account eligibility for Grok.",
-    "deepseekChatAndApiSeparate": "DeepSeek chat is free to use; API usage is charged separately. Ask about setup or API usage."
+    "deepseekChatAndApiSeparate": "DeepSeek chat is free to use; API usage is charged separately. Ask about setup or API usage.",
+    "seo": {
+      "": {
+        "title": "IPTV Plans, OTT & AI Subscription Enquiries",
+        "description": "Compare Opplex and Filex IPTV plans at Cheap Accounts. Explore OTT and AI subscription options, request pricing and check eligibility before buying."
+      },
+      "shop": {
+        "title": "Compare IPTV Plans & Subscription Options",
+        "description": "Browse Opplex and Filex IPTV plans by provider and duration. Find OTT and AI enquiry options, compare current details and choose your next step."
+      },
+      "categories/iptv": {
+        "title": "IPTV Subscriptions: Opplex & Filex Plans",
+        "description": "Compare Opplex and Filex IPTV subscriptions for 1, 3, 6 or 12 months. Check current prices, connection details and the final Opplexify checkout total."
+      },
+      "categories/ott": {
+        "title": "OTT Subscription Options & Pricing Enquiries",
+        "description": "Explore Netflix, HBO Max, Prime Video and other OTT plan options. Request pricing and confirm country availability, household rules and billing."
+      },
+      "categories/ai": {
+        "title": "AI Subscription Options: ChatGPT, Claude & More",
+        "description": "Compare ChatGPT, Claude, Gemini, Grok and DeepSeek enquiry options. Check account eligibility, usage limits and subscription versus API billing."
+      },
+      "products/opplex-iptv": {
+        "title": "Opplex IPTV Subscription Plans & Prices",
+        "description": "Choose an Opplex IPTV plan for 1, 3, 6 or 12 months. Check current pricing, one simultaneous connection and your selected total before checkout."
+      },
+      "products/filex-iptv": {
+        "title": "Filex IPTV Subscription Plans & Prices",
+        "description": "Review Filex IPTV plans, subscription lengths and current prices. Confirm device needs and the connection allowance before continuing to Opplexify."
+      },
+      "about": {
+        "title": "About Our Digital Subscription Store",
+        "description": "Learn how Cheap Accounts connects IPTV plan selection, OTT and AI pricing enquiries, Opplexify checkout and central order support."
+      },
+      "contact": {
+        "title": "Contact & Subscription Support",
+        "description": "Contact Cheap Accounts about IPTV plans or OTT and AI pricing. Prepare your country, device and preferred term, or use private support for an order."
+      },
+      "faqs": {
+        "title": "IPTV, OTT & AI Subscription FAQs",
+        "description": "Find answers about IPTV checkout, connection limits, OTT regional eligibility and AI billing. Understand pricing enquiries before choosing a plan."
+      },
+      "buying-guide": {
+        "title": "How to Choose IPTV, OTT & AI Subscriptions",
+        "description": "Compare subscription terms, device needs, regional eligibility and billing. Use this buying guide to prepare an IPTV order or an OTT or AI enquiry."
+      }
+    },
+    "breadcrumbs": "Breadcrumbs",
+    "shopIntro": "Browse Cheap Accounts by provider and subscription length. Opplex and Filex show current IPTV prices; OTT and AI listings let you ask about the plan and eligibility before making a purchase.",
+    "ottGuideHeading": "Choose an OTT plan for your household",
+    "ottGuideBody": "Start with your country, the devices you use and how many people need to watch at once. A familiar plan name does not mean identical features everywhere. Ask which billing period, household restrictions and cancellation terms apply to your chosen Netflix, HBO Max or other OTT option.",
+    "aiGuideHeading": "Choose the AI service you actually need",
+    "aiGuideBody": "Decide whether you want a chat application or developer API access. For ChatGPT, Claude, Gemini and Grok, ask about the account requirements, usage limits and billing period. DeepSeek chat and API usage are separate choices; requesting pricing does not turn free chat into a paid subscription."
   },
   "es": {
     "tagline": "Opciones digitales, precios claros.",
@@ -414,6 +486,18 @@
           {
             "heading": "¿Cuántas conexiones se incluyen?",
             "body": "Opplex tiene una conexión simultánea. Debes confirmar el límite de Filex con soporte. Instalar aplicaciones o crear perfiles no añade conexiones simultáneas."
+          },
+          {
+            "heading": "¿Consultar precio crea un pedido?",
+            "body": "No. Abre WhatsApp con el producto y el plan elegidos para preguntar por el precio y la disponibilidad actuales. Tú decides si envías el mensaje. Confirma la oferta y las condiciones antes de pagar."
+          },
+          {
+            "heading": "¿Todos los planes OTT están disponibles en mi país?",
+            "body": "La disponibilidad, los nombres, las reglas del hogar y los dispositivos compatibles pueden variar por país. Indica tu ubicación y dispositivos a soporte y revisa los detalles oficiales del proveedor antes de aceptar un plan."
+          },
+          {
+            "heading": "¿La suscripción de chat de IA incluye créditos API?",
+            "body": "No lo des por hecho. El chat y la API para desarrolladores pueden tener cuentas, límites y cargos separados. Indica qué servicio necesitas y confirma su facturación antes de elegir."
           }
         ]
       },
@@ -428,6 +512,14 @@
           {
             "heading": "Revisa antes de pagar",
             "body": "El carrito contiene un plan. Precio y disponibilidad se vuelven a comprobar antes del pago. Pasa por la web central Opplex a Opplexify y revisa allí proveedor, periodo, moneda e importe final."
+          },
+          {
+            "heading": "Prepara una consulta de precios OTT",
+            "body": "Incluye país, servicio y periodo de facturación. Comprueba dispositivos, visualización simultánea y reglas del hogar en los detalles oficiales. Confirma renovación, cancelación y requisitos de cuenta antes de aceptar una oferta; una ficha de consulta por sí sola no confirma que el plan se pueda suministrar."
+          },
+          {
+            "heading": "Distingue la suscripción de IA del uso de la API",
+            "body": "Una suscripción de chat no es un saldo de créditos API. Indica si necesitas la aplicación o acceso para desarrolladores y confirma titular, límites, moneda y renovación. Pregunta qué incluye el plan: una categoría superior no implica uso ilimitado ni acceso a todos los modelos."
           }
         ]
       },
@@ -511,7 +603,59 @@
     "claudeUsageAndAccountRequirements": "Los planes Claude tienen límites de uso y requisitos de cuenta. Confirma el plan y el periodo de facturación.",
     "geminiCountryAndPersonalAccount": "Confirma la disponibilidad de Google AI y los requisitos de cuenta personal en tu país.",
     "grokUnifiedSubscriptionEligibility": "Confirma el plan de suscripción unificada actual y los requisitos de cuenta para Grok.",
-    "deepseekChatAndApiSeparate": "El chat DeepSeek es gratuito; el uso de la API se cobra aparte. Consulta la configuración o el uso de la API."
+    "deepseekChatAndApiSeparate": "El chat DeepSeek es gratuito; el uso de la API se cobra aparte. Consulta la configuración o el uso de la API.",
+    "seo": {
+      "": {
+        "title": "Planes IPTV y consultas de suscripciones OTT e IA",
+        "description": "Compara planes IPTV Opplex y Filex en Cheap Accounts. Consulta opciones OTT y de IA, solicita precios y confirma los requisitos antes de comprar."
+      },
+      "shop": {
+        "title": "Compara planes IPTV y opciones de suscripción",
+        "description": "Explora planes IPTV Opplex y Filex por proveedor y duración. Consulta opciones OTT y de IA, revisa los detalles actuales y elige tu siguiente paso."
+      },
+      "categories/iptv": {
+        "title": "Suscripciones IPTV: planes Opplex y Filex",
+        "description": "Compara suscripciones IPTV Opplex y Filex de 1, 3, 6 o 12 meses. Revisa precios, conexiones y el total final del pago en Opplexify."
+      },
+      "categories/ott": {
+        "title": "Opciones OTT y consultas de precios",
+        "description": "Explora planes de Netflix, HBO Max, Prime Video y otros servicios OTT. Consulta precios, disponibilidad por país, reglas del hogar y facturación."
+      },
+      "categories/ai": {
+        "title": "Suscripciones de IA: ChatGPT, Claude y más",
+        "description": "Consulta opciones de ChatGPT, Claude, Gemini, Grok y DeepSeek. Revisa requisitos de cuenta, límites de uso y facturación de suscripción frente a API."
+      },
+      "products/opplex-iptv": {
+        "title": "Planes y precios de suscripción Opplex IPTV",
+        "description": "Elige un plan Opplex IPTV de 1, 3, 6 o 12 meses. Comprueba precio actual, una conexión simultánea y el total seleccionado antes del pago."
+      },
+      "products/filex-iptv": {
+        "title": "Planes y precios de suscripción Filex IPTV",
+        "description": "Revisa planes Filex IPTV, duraciones y precios actuales. Confirma los requisitos del dispositivo y las conexiones antes de pasar a Opplexify."
+      },
+      "about": {
+        "title": "Sobre nuestra tienda de suscripciones digitales",
+        "description": "Conoce cómo Cheap Accounts conecta la selección de IPTV, las consultas OTT y de IA, el pago en Opplexify y el soporte central de pedidos."
+      },
+      "contact": {
+        "title": "Contacto y ayuda con suscripciones",
+        "description": "Contacta con Cheap Accounts sobre IPTV o precios OTT y de IA. Prepara país, dispositivo y duración, o usa el soporte privado para un pedido."
+      },
+      "faqs": {
+        "title": "Preguntas sobre suscripciones IPTV, OTT e IA",
+        "description": "Resuelve dudas sobre pago IPTV, conexiones, requisitos regionales OTT y facturación de IA. Entiende la consulta de precios antes de elegir un plan."
+      },
+      "buying-guide": {
+        "title": "Cómo elegir suscripciones IPTV, OTT y de IA",
+        "description": "Compara condiciones, dispositivos, requisitos regionales y facturación. Prepara tu pedido IPTV o consulta OTT y de IA con esta guía de compra."
+      }
+    },
+    "breadcrumbs": "Ruta de navegación",
+    "shopIntro": "Explora Cheap Accounts por proveedor y duración. Opplex y Filex muestran precios IPTV actuales; los productos OTT y de IA permiten consultar el plan y sus requisitos antes de comprar.",
+    "ottGuideHeading": "Elige un plan OTT para tu hogar",
+    "ottGuideBody": "Empieza por tu país, los dispositivos que usas y cuántas personas necesitan ver contenido a la vez. Un nombre conocido no implica las mismas prestaciones en todos los países. Consulta el periodo de facturación, las restricciones del hogar y las condiciones de cancelación de Netflix, HBO Max u otra opción OTT.",
+    "aiGuideHeading": "Elige el servicio de IA que necesitas",
+    "aiGuideBody": "Decide si necesitas una aplicación de chat o acceso a una API para desarrolladores. Para ChatGPT, Claude, Gemini y Grok, consulta requisitos de cuenta, límites y facturación. El chat de DeepSeek y su API son opciones separadas; pedir precio no convierte el chat gratuito en una suscripción de pago."
   },
   "fr": {
     "tagline": "Des choix numériques, des prix clairs.",
@@ -671,6 +815,18 @@
           {
             "heading": "Combien de connexions sont incluses ?",
             "body": "Opplex autorise une connexion simultanée. La limite Filex doit être confirmée avec l’assistance. Installer des lecteurs ou créer des profils n’ajoute pas de connexions simultanées."
+          },
+          {
+            "heading": "Une demande de tarif crée-t-elle une commande ?",
+            "body": "Non. Elle ouvre WhatsApp avec le produit et la formule choisis pour demander le tarif actuel et la disponibilité. Vous décidez d’envoyer le message. Confirmez l’offre réelle et ses conditions avant paiement."
+          },
+          {
+            "heading": "Toutes les offres OTT sont-elles disponibles dans mon pays ?",
+            "body": "Disponibilité, noms des formules, règles du foyer et appareils compatibles peuvent varier selon le pays. Communiquez votre pays et vos appareils à l’assistance, puis consultez les détails officiels de l’éditeur avant d’accepter."
+          },
+          {
+            "heading": "Un abonnement de chat IA inclut-il des crédits API ?",
+            "body": "Ne le supposez pas. Le chat et l’API développeur peuvent avoir des comptes, limites et frais distincts. Précisez le service voulu et confirmez sa facturation avant de choisir."
           }
         ]
       },
@@ -685,6 +841,14 @@
           {
             "heading": "Vérifiez avant de payer",
             "body": "Le panier contient une offre. Le prix et la disponibilité sont revérifiés avant paiement. Passez du site central Opplex à Opplexify et contrôlez fournisseur, durée, devise et montant final."
+          },
+          {
+            "heading": "Préparer une demande de tarif OTT",
+            "body": "Indiquez pays, service souhaité et période de facturation. Vérifiez appareils, visionnage simultané et règles du foyer dans les détails officiels. Confirmez renouvellement, résiliation et éligibilité du compte avant d’accepter une offre ; une fiche de demande ne confirme pas à elle seule que la formule peut être fournie."
+          },
+          {
+            "heading": "Distinguer abonnement IA et utilisation API",
+            "body": "Un abonnement de chat n’est pas un solde de crédits API. Précisez si vous souhaitez l’application ou l’accès développeur, puis vérifiez titulaire, limites, devise et renouvellement. Demandez ce qui est inclus : une formule supérieure ne signifie pas forcément usage illimité ni accès à tous les modèles."
           }
         ]
       },
@@ -768,7 +932,59 @@
     "claudeUsageAndAccountRequirements": "Les formules Claude ont des limites d’utilisation et des exigences de compte. Confirmez la formule et la période de facturation.",
     "geminiCountryAndPersonalAccount": "Confirmez la disponibilité des offres Google AI et l’éligibilité de votre compte personnel dans votre pays.",
     "grokUnifiedSubscriptionEligibility": "Confirmez la formule actuelle de l’abonnement unifié et l’éligibilité du compte pour Grok.",
-    "deepseekChatAndApiSeparate": "Le chat DeepSeek est gratuit ; l’utilisation de l’API est facturée séparément. Renseignez-vous sur la configuration ou l’usage de l’API."
+    "deepseekChatAndApiSeparate": "Le chat DeepSeek est gratuit ; l’utilisation de l’API est facturée séparément. Renseignez-vous sur la configuration ou l’usage de l’API.",
+    "seo": {
+      "": {
+        "title": "Offres IPTV et demandes de tarifs OTT et IA",
+        "description": "Comparez les offres IPTV Opplex et Filex sur Cheap Accounts. Explorez les abonnements OTT et IA, demandez un tarif et vérifiez votre éligibilité."
+      },
+      "shop": {
+        "title": "Comparer les offres IPTV et les abonnements",
+        "description": "Parcourez Opplex et Filex par fournisseur et durée. Consultez les options OTT et IA, comparez les détails actuels et choisissez la prochaine étape."
+      },
+      "categories/iptv": {
+        "title": "Abonnements IPTV : offres Opplex et Filex",
+        "description": "Comparez les abonnements IPTV Opplex et Filex de 1, 3, 6 ou 12 mois. Vérifiez prix, connexions et montant final du paiement sur Opplexify."
+      },
+      "categories/ott": {
+        "title": "Abonnements OTT et demandes de tarifs",
+        "description": "Découvrez Netflix, HBO Max, Prime Video et les autres options OTT. Vérifiez les tarifs, les pays disponibles, les règles du foyer et la facturation."
+      },
+      "categories/ai": {
+        "title": "Abonnements IA : ChatGPT, Claude et autres",
+        "description": "Comparez les options ChatGPT, Claude, Gemini, Grok et DeepSeek. Vérifiez compte, limites et différences entre abonnement et facturation API."
+      },
+      "products/opplex-iptv": {
+        "title": "Abonnement Opplex IPTV : offres et prix",
+        "description": "Choisissez Opplex IPTV pour 1, 3, 6 ou 12 mois. Vérifiez le prix actuel, la connexion simultanée unique et le total sélectionné avant paiement."
+      },
+      "products/filex-iptv": {
+        "title": "Abonnement Filex IPTV : offres et prix",
+        "description": "Consultez les durées et prix actuels de Filex IPTV. Confirmez les appareils requis et le nombre de connexions avant de passer sur Opplexify."
+      },
+      "about": {
+        "title": "À propos de notre boutique d’abonnements",
+        "description": "Découvrez comment Cheap Accounts relie choix IPTV, demandes de tarifs OTT et IA, paiement Opplexify et assistance centrale pour les commandes."
+      },
+      "contact": {
+        "title": "Contact et assistance pour les abonnements",
+        "description": "Contactez Cheap Accounts pour IPTV ou les tarifs OTT et IA. Préparez pays, appareil et durée, ou utilisez l’assistance privée pour une commande."
+      },
+      "faqs": {
+        "title": "Questions sur les abonnements IPTV, OTT et IA",
+        "description": "Trouvez des réponses sur le paiement IPTV, les connexions, les conditions régionales OTT et la facturation IA avant de choisir une formule."
+      },
+      "buying-guide": {
+        "title": "Comment choisir un abonnement IPTV, OTT ou IA",
+        "description": "Comparez conditions, appareils, éligibilité régionale et facturation. Préparez une commande IPTV ou une demande OTT ou IA avec ce guide d’achat."
+      }
+    },
+    "breadcrumbs": "Fil d’Ariane",
+    "shopIntro": "Parcourez Cheap Accounts par fournisseur et durée. Opplex et Filex affichent les prix IPTV actuels ; les fiches OTT et IA permettent de vérifier la formule et votre éligibilité avant achat.",
+    "ottGuideHeading": "Choisir une formule OTT pour votre foyer",
+    "ottGuideBody": "Commencez par votre pays, vos appareils et le nombre de personnes souhaitant regarder en même temps. Un nom connu ne garantit pas les mêmes fonctions partout. Vérifiez la période de facturation, les restrictions du foyer et les conditions de résiliation de Netflix, HBO Max ou de l’autre option OTT choisie.",
+    "aiGuideHeading": "Choisir le service d’IA dont vous avez besoin",
+    "aiGuideBody": "Déterminez si vous cherchez une application de chat ou un accès API pour développer. Pour ChatGPT, Claude, Gemini et Grok, vérifiez compte, limites et facturation. Le chat DeepSeek et son API sont distincts ; demander un tarif ne transforme pas un chat gratuit en abonnement payant."
   },
   "it": {
     "tagline": "Scelte digitali, prezzi chiari.",
@@ -928,6 +1144,18 @@
           {
             "heading": "Quante connessioni sono incluse?",
             "body": "Opplex ha una connessione simultanea. Il limite Filex va confermato con l’assistenza. Installare lettori o creare profili non aggiunge connessioni simultanee."
+          },
+          {
+            "heading": "Richiedere il prezzo crea un ordine?",
+            "body": "No. Apre WhatsApp con prodotto e piano scelti per chiedere prezzo e disponibilità attuali. Decidi tu se inviare il messaggio. Conferma l’offerta effettiva e le condizioni prima di pagare."
+          },
+          {
+            "heading": "Tutti i piani OTT sono disponibili nel mio paese?",
+            "body": "Disponibilità, nomi dei piani, regole del nucleo domestico e dispositivi possono cambiare per paese. Comunica paese e dispositivi all’assistenza e controlla i dettagli ufficiali dell’editore prima di accettare un piano."
+          },
+          {
+            "heading": "Un abbonamento di chat IA include crediti API?",
+            "body": "Non darlo per scontato. Chat e API per sviluppatori possono avere account, limiti e costi separati. Specifica il servizio necessario e conferma la fatturazione prima di scegliere."
           }
         ]
       },
@@ -942,6 +1170,14 @@
           {
             "heading": "Rivedi prima di pagare",
             "body": "Il carrello contiene un piano. Prezzo e disponibilità vengono ricontrollati prima del pagamento. Passa dal sito centrale Opplex a Opplexify e verifica fornitore, durata, valuta e importo finale."
+          },
+          {
+            "heading": "Prepara una richiesta di prezzo OTT",
+            "body": "Indica paese, servizio desiderato e periodo di fatturazione. Controlla dispositivi, visione simultanea e nucleo domestico nei dettagli ufficiali. Conferma rinnovo, disdetta e requisiti dell’account prima di accettare un’offerta; una scheda di richiesta da sola non conferma che il piano possa essere fornito."
+          },
+          {
+            "heading": "Distingui l’abbonamento IA dall’utilizzo dell’API",
+            "body": "Un abbonamento di chat non è un saldo di crediti API. Specifica se ti serve l’applicazione o l’accesso per sviluppatori, poi verifica titolare, limiti, valuta e rinnovo. Chiedi cosa è incluso: un livello superiore non implica uso illimitato o accesso a ogni modello."
           }
         ]
       },
@@ -1025,7 +1261,59 @@
     "claudeUsageAndAccountRequirements": "I piani Claude hanno limiti di utilizzo e requisiti dell’account. Conferma piano e periodo di fatturazione.",
     "geminiCountryAndPersonalAccount": "Conferma la disponibilità dei piani Google AI e i requisiti dell’account personale nel tuo paese.",
     "grokUnifiedSubscriptionEligibility": "Conferma il piano attuale dell’abbonamento unificato e i requisiti dell’account per Grok.",
-    "deepseekChatAndApiSeparate": "La chat DeepSeek è gratuita; l’uso dell’API viene addebitato separatamente. Chiedi della configurazione o dell’uso dell’API."
+    "deepseekChatAndApiSeparate": "La chat DeepSeek è gratuita; l’uso dell’API viene addebitato separatamente. Chiedi della configurazione o dell’uso dell’API.",
+    "seo": {
+      "": {
+        "title": "Piani IPTV e richieste per abbonamenti OTT e IA",
+        "description": "Confronta Opplex e Filex IPTV su Cheap Accounts. Esplora abbonamenti OTT e IA, richiedi prezzi e verifica i requisiti prima di acquistare."
+      },
+      "shop": {
+        "title": "Confronta piani IPTV e opzioni di abbonamento",
+        "description": "Sfoglia Opplex e Filex per fornitore e durata. Consulta le opzioni OTT e IA, confronta i dettagli attuali e scegli il prossimo passo."
+      },
+      "categories/iptv": {
+        "title": "Abbonamenti IPTV: piani Opplex e Filex",
+        "description": "Confronta abbonamenti IPTV Opplex e Filex da 1, 3, 6 o 12 mesi. Controlla prezzi, connessioni e totale finale del pagamento su Opplexify."
+      },
+      "categories/ott": {
+        "title": "Abbonamenti OTT e richieste di prezzo",
+        "description": "Esplora Netflix, HBO Max, Prime Video e altre opzioni OTT. Chiedi prezzi e verifica disponibilità nel paese, nucleo domestico e fatturazione."
+      },
+      "categories/ai": {
+        "title": "Abbonamenti IA: ChatGPT, Claude e altri",
+        "description": "Confronta le opzioni ChatGPT, Claude, Gemini, Grok e DeepSeek. Verifica requisiti dell’account, limiti e differenze tra abbonamento e API."
+      },
+      "products/opplex-iptv": {
+        "title": "Abbonamento Opplex IPTV: piani e prezzi",
+        "description": "Scegli Opplex IPTV per 1, 3, 6 o 12 mesi. Verifica prezzo attuale, una connessione simultanea e totale selezionato prima del pagamento."
+      },
+      "products/filex-iptv": {
+        "title": "Abbonamento Filex IPTV: piani e prezzi",
+        "description": "Consulta piani Filex IPTV, durate e prezzi attuali. Conferma dispositivi e limite di connessioni prima di proseguire su Opplexify."
+      },
+      "about": {
+        "title": "Il nostro negozio di abbonamenti digitali",
+        "description": "Scopri come Cheap Accounts collega scelta IPTV, richieste di prezzo OTT e IA, pagamento su Opplexify e assistenza centrale agli ordini."
+      },
+      "contact": {
+        "title": "Contatti e assistenza abbonamenti",
+        "description": "Contatta Cheap Accounts per IPTV o prezzi OTT e IA. Prepara paese, dispositivo e durata, oppure usa l’assistenza privata per un ordine."
+      },
+      "faqs": {
+        "title": "Domande sugli abbonamenti IPTV, OTT e IA",
+        "description": "Trova risposte su pagamento IPTV, connessioni, disponibilità regionale OTT e fatturazione IA. Chiarisci le richieste di prezzo prima di scegliere."
+      },
+      "buying-guide": {
+        "title": "Come scegliere abbonamenti IPTV, OTT e IA",
+        "description": "Confronta condizioni, dispositivi, requisiti regionali e fatturazione. Prepara un ordine IPTV o una richiesta OTT o IA con questa guida all’acquisto."
+      }
+    },
+    "breadcrumbs": "Percorso di navigazione",
+    "shopIntro": "Sfoglia Cheap Accounts per fornitore e durata. Opplex e Filex mostrano i prezzi IPTV attuali; le schede OTT e IA permettono di chiedere informazioni sul piano e sui requisiti prima di acquistare.",
+    "ottGuideHeading": "Scegli un piano OTT per il tuo nucleo domestico",
+    "ottGuideBody": "Parti dal tuo paese, dai dispositivi e da quante persone devono guardare contemporaneamente. Un nome noto non indica le stesse funzioni ovunque. Chiedi quale periodo di fatturazione, quali restrizioni del nucleo domestico e quali condizioni di disdetta valgono per Netflix, HBO Max o l’altra opzione OTT scelta.",
+    "aiGuideHeading": "Scegli il servizio di IA che ti serve davvero",
+    "aiGuideBody": "Decidi se cerchi un’applicazione di chat o un’API per sviluppatori. Per ChatGPT, Claude, Gemini e Grok, chiedi requisiti dell’account, limiti e fatturazione. La chat DeepSeek e la sua API sono opzioni separate; richiedere un prezzo non trasforma la chat gratuita in un abbonamento a pagamento."
   },
   "nl": {
     "tagline": "Digitale keuzes, duidelijke prijzen.",
@@ -1185,6 +1473,18 @@
           {
             "heading": "Hoeveel verbindingen zijn inbegrepen?",
             "body": "Opplex heeft één gelijktijdige verbinding. Vraag ondersteuning naar de Filex-limiet. Extra geïnstalleerde spelers of profielen voegen geen gelijktijdige verbindingen toe."
+          },
+          {
+            "heading": "Wordt een prijsaanvraag een bestelling?",
+            "body": "Nee. WhatsApp opent met je gekozen product en abonnement om actuele prijs en beschikbaarheid te vragen. Je bepaalt zelf of je het bericht verstuurt. Bevestig het echte aanbod en de voorwaarden vóór betaling."
+          },
+          {
+            "heading": "Is elk OTT-abonnement beschikbaar in mijn land?",
+            "body": "Beschikbaarheid, abonnementsnamen, huishoudregels en apparaten kunnen per land verschillen. Geef je land en apparaten door aan ondersteuning en bekijk de officiële gegevens van de aanbieder voordat je akkoord gaat."
+          },
+          {
+            "heading": "Bevat een AI-chatabonnement ook API-tegoed?",
+            "body": "Ga daar niet van uit. Chat en ontwikkelaars-API kunnen afzonderlijke accounts, limieten en kosten hebben. Geef aan welke dienst je nodig hebt en bevestig de facturering vóór je kiest."
           }
         ]
       },
@@ -1199,6 +1499,14 @@
           {
             "heading": "Controleer vóór betaling",
             "body": "De winkelwagen bevat één abonnement. Prijs en beschikbaarheid worden opnieuw gecontroleerd voordat je afrekent. Ga via de centrale Opplex-website naar Opplexify en bekijk aanbieder, looptijd, valuta en eindbedrag."
+          },
+          {
+            "heading": "Bereid een OTT-prijsaanvraag voor",
+            "body": "Vermeld je land, gewenste dienst en factureringsperiode. Controleer apparaten, gelijktijdig kijken en huishoudregels in de officiële abonnementsgegevens. Bevestig verlenging, opzegging en accountvoorwaarden vóór je een aanbod accepteert; een aanvraagkaart bewijst op zichzelf niet dat het abonnement geleverd kan worden."
+          },
+          {
+            "heading": "Houd AI-abonnementen en API-gebruik apart",
+            "body": "Een chatabonnement is geen saldo API-tegoed. Geef aan of je de app of ontwikkelaarstoegang nodig hebt en controleer accounthouder, limieten, valuta en verlenging. Vraag wat is inbegrepen: een hoger niveau betekent niet automatisch onbeperkt gebruik of toegang tot elk model."
           }
         ]
       },
@@ -1282,7 +1590,59 @@
     "claudeUsageAndAccountRequirements": "Claude-abonnementen hebben gebruikslimieten en accountvoorwaarden. Bevestig het abonnement en de factureringsperiode.",
     "geminiCountryAndPersonalAccount": "Bevestig de beschikbaarheid van Google AI-abonnementen en de voorwaarden voor persoonlijke accounts in je land.",
     "grokUnifiedSubscriptionEligibility": "Bevestig het huidige gecombineerde abonnement en de accountvoorwaarden voor Grok.",
-    "deepseekChatAndApiSeparate": "De DeepSeek-chat is gratis; API-gebruik wordt apart berekend. Vraag naar instellingen of API-gebruik."
+    "deepseekChatAndApiSeparate": "De DeepSeek-chat is gratis; API-gebruik wordt apart berekend. Vraag naar instellingen of API-gebruik.",
+    "seo": {
+      "": {
+        "title": "IPTV-abonnementen en OTT- en AI-prijsaanvragen",
+        "description": "Vergelijk Opplex en Filex IPTV bij Cheap Accounts. Bekijk OTT- en AI-abonnementen, vraag prijzen aan en controleer de voorwaarden vóór aankoop."
+      },
+      "shop": {
+        "title": "Vergelijk IPTV en andere abonnementsopties",
+        "description": "Bekijk Opplex en Filex op aanbieder en looptijd. Vergelijk actuele gegevens en vind OTT- en AI-opties waarvoor je een prijs kunt aanvragen."
+      },
+      "categories/iptv": {
+        "title": "IPTV-abonnementen: Opplex en Filex",
+        "description": "Vergelijk Opplex en Filex IPTV voor 1, 3, 6 of 12 maanden. Controleer prijzen, verbindingen en het uiteindelijke betaalbedrag op Opplexify."
+      },
+      "categories/ott": {
+        "title": "OTT-abonnementen en prijsaanvragen",
+        "description": "Bekijk Netflix, HBO Max, Prime Video en andere OTT-opties. Vraag prijzen aan en controleer landen, huishoudregels en facturering."
+      },
+      "categories/ai": {
+        "title": "AI-abonnementen: ChatGPT, Claude en meer",
+        "description": "Vergelijk opties voor ChatGPT, Claude, Gemini, Grok en DeepSeek. Controleer accountvoorwaarden, gebruikslimieten en aparte API-facturering."
+      },
+      "products/opplex-iptv": {
+        "title": "Opplex IPTV: abonnementen en prijzen",
+        "description": "Kies Opplex IPTV voor 1, 3, 6 of 12 maanden. Controleer actuele prijs, één gelijktijdige verbinding en je totaal voordat je afrekent."
+      },
+      "products/filex-iptv": {
+        "title": "Filex IPTV: abonnementen en prijzen",
+        "description": "Bekijk actuele Filex IPTV-prijzen en looptijden. Bevestig apparaatvereisten en het toegestane aantal verbindingen vóór betaling op Opplexify."
+      },
+      "about": {
+        "title": "Over onze winkel voor digitale abonnementen",
+        "description": "Lees hoe Cheap Accounts IPTV-keuze, OTT- en AI-prijsaanvragen, betaling via Opplexify en centrale ondersteuning voor bestellingen verbindt."
+      },
+      "contact": {
+        "title": "Contact en hulp bij abonnementen",
+        "description": "Vraag Cheap Accounts naar IPTV of OTT- en AI-prijzen. Vermeld land, apparaat en looptijd, of gebruik privéondersteuning voor een bestelling."
+      },
+      "faqs": {
+        "title": "Vragen over IPTV-, OTT- en AI-abonnementen",
+        "description": "Vind antwoorden over IPTV-betaling, verbindingen, regionale OTT-voorwaarden en AI-facturering. Begrijp prijsaanvragen voordat je kiest."
+      },
+      "buying-guide": {
+        "title": "Een IPTV-, OTT- of AI-abonnement kiezen",
+        "description": "Vergelijk voorwaarden, apparaten, regionale beschikbaarheid en facturering. Bereid met deze koopgids je IPTV-bestelling of OTT- of AI-aanvraag voor."
+      }
+    },
+    "breadcrumbs": "Broodkruimelpad",
+    "shopIntro": "Bekijk Cheap Accounts op aanbieder en looptijd. Opplex en Filex tonen actuele IPTV-prijzen; bij OTT- en AI-producten kun je vóór aankoop vragen naar het abonnement en de voorwaarden.",
+    "ottGuideHeading": "Kies een OTT-abonnement voor je huishouden",
+    "ottGuideBody": "Begin met je land, apparaten en het aantal mensen dat tegelijk wil kijken. Een bekende abonnementsnaam heeft niet overal dezelfde functies. Vraag naar facturering, huishoudbeperkingen en opzegvoorwaarden voor je gekozen Netflix-, HBO Max- of andere OTT-optie.",
+    "aiGuideHeading": "Kies de AI-dienst die je nodig hebt",
+    "aiGuideBody": "Bepaal of je een chatapp of API-toegang voor ontwikkelaars zoekt. Vraag bij ChatGPT, Claude, Gemini en Grok naar accountvoorwaarden, limieten en facturering. DeepSeek-chat en API-gebruik zijn afzonderlijke keuzes; een prijsaanvraag maakt gratis chat niet tot een betaald abonnement."
   },
   "pt": {
     "tagline": "Escolhas digitais, preços claros.",
@@ -1442,6 +1802,18 @@
           {
             "heading": "Quantas ligações estão incluídas?",
             "body": "A Opplex tem uma ligação simultânea. Confirme o limite da Filex com o apoio. Aplicações instaladas e perfis não criam ligações simultâneas adicionais."
+          },
+          {
+            "heading": "Consultar o preço cria uma encomenda?",
+            "body": "Não. Abre o WhatsApp com o produto e o plano escolhidos para consultar preço e disponibilidade atuais. Decide se envia a mensagem. Confirme a oferta real e as condições antes de pagar."
+          },
+          {
+            "heading": "Todos os planos OTT estão disponíveis no meu país?",
+            "body": "Disponibilidade, nomes, regras do agregado e dispositivos compatíveis podem variar por país. Informe o apoio sobre o país e os dispositivos e consulte os detalhes oficiais do fornecedor antes de aceitar um plano."
+          },
+          {
+            "heading": "Uma assinatura de chat de IA inclui créditos API?",
+            "body": "Não assuma que sim. O chat e a API para programadores podem ter contas, limites e custos separados. Indique o serviço de que precisa e confirme a cobrança antes de escolher."
           }
         ]
       },
@@ -1456,6 +1828,14 @@
           {
             "heading": "Reveja antes de pagar",
             "body": "O carrinho contém um plano. Preço e disponibilidade são novamente verificados antes do pagamento. Siga pelo site central Opplex para a Opplexify e confirme fornecedor, período, moeda e total final."
+          },
+          {
+            "heading": "Prepare uma consulta de preços OTT",
+            "body": "Indique país, serviço pretendido e período de cobrança. Confira dispositivos, visualização simultânea e regras do agregado nos detalhes oficiais. Confirme renovação, cancelamento e requisitos da conta antes de aceitar uma oferta; uma ficha de consulta não confirma, por si só, que o plano possa ser fornecido."
+          },
+          {
+            "heading": "Separe assinatura de IA e utilização da API",
+            "body": "Uma assinatura de chat não é um saldo de créditos API. Especifique se precisa da aplicação ou de acesso para programadores e confirme titular, limites, moeda e renovação. Pergunte o que está incluído: um nível superior não implica utilização ilimitada nem todos os modelos."
           }
         ]
       },
@@ -1539,7 +1919,59 @@
     "claudeUsageAndAccountRequirements": "Os planos Claude têm limites de uso e requisitos de conta. Confirme o plano e o período de cobrança.",
     "geminiCountryAndPersonalAccount": "Confirme a disponibilidade dos planos Google AI e os requisitos de conta pessoal no seu país.",
     "grokUnifiedSubscriptionEligibility": "Confirme o plano atual da assinatura unificada e os requisitos de conta para o Grok.",
-    "deepseekChatAndApiSeparate": "O chat DeepSeek é gratuito; o uso da API é cobrado à parte. Consulte a configuração ou o uso da API."
+    "deepseekChatAndApiSeparate": "O chat DeepSeek é gratuito; o uso da API é cobrado à parte. Consulte a configuração ou o uso da API.",
+    "seo": {
+      "": {
+        "title": "Planos IPTV e consultas de assinaturas OTT e IA",
+        "description": "Compare Opplex e Filex IPTV na Cheap Accounts. Explore assinaturas OTT e de IA, consulte preços e confirme os requisitos antes de comprar."
+      },
+      "shop": {
+        "title": "Compare planos IPTV e opções de assinatura",
+        "description": "Veja Opplex e Filex por fornecedor e duração. Consulte opções OTT e de IA, compare os detalhes atuais e escolha o próximo passo."
+      },
+      "categories/iptv": {
+        "title": "Assinaturas IPTV: planos Opplex e Filex",
+        "description": "Compare IPTV Opplex e Filex por 1, 3, 6 ou 12 meses. Confira preços atuais, ligações e o total final do pagamento na Opplexify."
+      },
+      "categories/ott": {
+        "title": "Assinaturas OTT e consultas de preços",
+        "description": "Explore Netflix, HBO Max, Prime Video e outras opções OTT. Consulte preços, disponibilidade no país, regras do agregado e cobrança."
+      },
+      "categories/ai": {
+        "title": "Assinaturas de IA: ChatGPT, Claude e outras",
+        "description": "Compare ChatGPT, Claude, Gemini, Grok e DeepSeek. Confira requisitos da conta, limites e diferenças entre cobrança de assinatura e API."
+      },
+      "products/opplex-iptv": {
+        "title": "Opplex IPTV: planos e preços de assinatura",
+        "description": "Escolha Opplex IPTV por 1, 3, 6 ou 12 meses. Confira preço atual, uma ligação simultânea e o total selecionado antes de pagar."
+      },
+      "products/filex-iptv": {
+        "title": "Filex IPTV: planos e preços de assinatura",
+        "description": "Veja planos Filex IPTV, durações e preços atuais. Confirme os dispositivos e o limite de ligações antes de continuar para a Opplexify."
+      },
+      "about": {
+        "title": "Sobre a nossa loja de assinaturas digitais",
+        "description": "Saiba como a Cheap Accounts liga a escolha IPTV, consultas OTT e de IA, pagamento na Opplexify e apoio central às encomendas."
+      },
+      "contact": {
+        "title": "Contacto e apoio a assinaturas",
+        "description": "Contacte a Cheap Accounts sobre IPTV ou preços OTT e de IA. Prepare país, dispositivo e duração, ou use apoio privado para uma encomenda."
+      },
+      "faqs": {
+        "title": "Perguntas sobre assinaturas IPTV, OTT e IA",
+        "description": "Veja respostas sobre pagamento IPTV, ligações, requisitos regionais OTT e cobrança de IA. Entenda a consulta de preços antes de escolher."
+      },
+      "buying-guide": {
+        "title": "Como escolher assinaturas IPTV, OTT e de IA",
+        "description": "Compare condições, dispositivos, requisitos regionais e cobrança. Prepare uma encomenda IPTV ou consulta OTT ou de IA com este guia de compra."
+      }
+    },
+    "breadcrumbs": "Caminho de navegação",
+    "shopIntro": "Explore a Cheap Accounts por fornecedor e duração. Opplex e Filex mostram preços IPTV atuais; as opções OTT e de IA permitem consultar o plano e os requisitos antes da compra.",
+    "ottGuideHeading": "Escolha um plano OTT para o seu agregado",
+    "ottGuideBody": "Comece pelo país, dispositivos e número de pessoas que precisam de ver em simultâneo. Um nome conhecido não significa as mesmas funções em todos os lugares. Pergunte sobre cobrança, restrições do agregado e cancelamento da opção Netflix, HBO Max ou de outro serviço OTT.",
+    "aiGuideHeading": "Escolha o serviço de IA de que precisa",
+    "aiGuideBody": "Decida se pretende uma aplicação de chat ou acesso à API para programadores. Para ChatGPT, Claude, Gemini e Grok, pergunte sobre conta, limites e cobrança. O chat DeepSeek e o uso da API são opções distintas; consultar um preço não transforma chat gratuito numa assinatura paga."
   },
   "ru": {
     "tagline": "Цифровые услуги с понятными ценами.",
@@ -1699,6 +2131,18 @@
           {
             "heading": "Сколько подключений включено?",
             "body": "У Opplex одно одновременное подключение. Лимит Filex уточняется у поддержки. Дополнительные приложения и профили не создают одновременных подключений."
+          },
+          {
+            "heading": "Создаёт ли запрос цены заказ?",
+            "body": "Нет. Открывается WhatsApp с выбранными продуктом и планом для запроса текущей цены и доступности. Вы сами решаете, отправлять ли сообщение. До оплаты подтвердите фактическое предложение и условия."
+          },
+          {
+            "heading": "Доступны ли все стриминговые планы в моей стране?",
+            "body": "Доступность, названия, правила домохозяйства и устройства могут различаться по странам. Сообщите поддержке страну и устройства и проверьте официальные сведения поставщика до принятия предложения."
+          },
+          {
+            "heading": "Включает ли подписка на чат ИИ кредиты API?",
+            "body": "Не стоит это предполагать. Чат и API разработчика могут иметь отдельные аккаунты, лимиты и расходы. Укажите нужный сервис и подтвердите порядок оплаты до выбора."
           }
         ]
       },
@@ -1713,6 +2157,14 @@
           {
             "heading": "Проверьте до оплаты",
             "body": "Корзина содержит один план. Перед оплатой цена и доступность проверяются снова. Перейдите через центральный сайт Opplex в Opplexify и проверьте поставщика, срок, валюту и итог."
+          },
+          {
+            "heading": "Подготовьте запрос цены на стриминг",
+            "body": "Укажите страну, сервис и расчётный период. Проверьте устройства, одновременный просмотр и правила домохозяйства в официальном описании. До принятия предложения уточните продление, отмену и требования к аккаунту; сама карточка запроса не подтверждает возможность предоставить план."
+          },
+          {
+            "heading": "Разделяйте подписку ИИ и использование API",
+            "body": "Подписка на чат не является балансом кредитов API. Укажите, нужно ли приложение или доступ разработчика, затем уточните владельца аккаунта, лимиты, валюту и продление. Спросите о составе плана: более высокий уровень не означает безлимитное использование или доступ ко всем моделям."
           }
         ]
       },
@@ -1796,7 +2248,59 @@
     "claudeUsageAndAccountRequirements": "У тарифов Claude есть лимиты использования и требования к аккаунту. Уточните тариф и расчётный период.",
     "geminiCountryAndPersonalAccount": "Уточните доступность Google AI и требования к личному аккаунту в вашей стране.",
     "grokUnifiedSubscriptionEligibility": "Уточните текущий тариф единой подписки и требования к аккаунту для Grok.",
-    "deepseekChatAndApiSeparate": "Чат DeepSeek бесплатный; использование API оплачивается отдельно. Узнайте о настройке чата или использовании API."
+    "deepseekChatAndApiSeparate": "Чат DeepSeek бесплатный; использование API оплачивается отдельно. Узнайте о настройке чата или использовании API.",
+    "seo": {
+      "": {
+        "title": "Планы IPTV и запросы подписок на стриминг и ИИ",
+        "description": "Сравните Opplex и Filex IPTV в Cheap Accounts. Изучите подписки на стриминг и ИИ, запросите цену и уточните условия до покупки."
+      },
+      "shop": {
+        "title": "Сравнение IPTV и вариантов подписок",
+        "description": "Выбирайте Opplex и Filex по поставщику и сроку. Сравните текущие условия IPTV и найдите варианты запроса цены на стриминг и ИИ."
+      },
+      "categories/iptv": {
+        "title": "Подписки IPTV: планы Opplex и Filex",
+        "description": "Сравните Opplex и Filex IPTV на 1, 3, 6 или 12 месяцев. Проверьте цены, подключения и окончательную сумму оплаты в Opplexify."
+      },
+      "categories/ott": {
+        "title": "Подписки на стриминг: варианты и запрос цены",
+        "description": "Изучите Netflix, HBO Max, Prime Video и другие стриминговые планы. Уточните цену, страны, правила домохозяйства и расчётный период."
+      },
+      "categories/ai": {
+        "title": "Подписки ИИ: ChatGPT, Claude и другие",
+        "description": "Сравните варианты ChatGPT, Claude, Gemini, Grok и DeepSeek. Уточните требования к аккаунту, лимиты и разницу оплаты подписки и API."
+      },
+      "products/opplex-iptv": {
+        "title": "Подписка Opplex IPTV: планы и цены",
+        "description": "Выберите Opplex IPTV на 1, 3, 6 или 12 месяцев. Проверьте цену, одно одновременное подключение и выбранную сумму до оплаты."
+      },
+      "products/filex-iptv": {
+        "title": "Подписка Filex IPTV: планы и цены",
+        "description": "Изучите планы Filex IPTV, сроки и текущие цены. Уточните устройства и лимит подключений перед переходом к оплате в Opplexify."
+      },
+      "about": {
+        "title": "О магазине цифровых подписок",
+        "description": "Узнайте, как Cheap Accounts объединяет выбор IPTV, запросы цен на стриминг и ИИ, оплату в Opplexify и поддержку заказов."
+      },
+      "contact": {
+        "title": "Контакты и помощь с подписками",
+        "description": "Обратитесь в Cheap Accounts по вопросам IPTV и цен на стриминг или ИИ. Укажите страну, устройство и срок либо используйте личную поддержку заказа."
+      },
+      "faqs": {
+        "title": "Вопросы о подписках IPTV, стриминга и ИИ",
+        "description": "Ответы об оплате IPTV, подключениях, региональных условиях стриминга и расчётах за ИИ. Разберитесь с запросом цены до выбора плана."
+      },
+      "buying-guide": {
+        "title": "Как выбрать подписку IPTV, стриминга или ИИ",
+        "description": "Сравните условия, устройства, региональную доступность и оплату. Подготовьте заказ IPTV или запрос на стриминг и ИИ по руководству."
+      }
+    },
+    "breadcrumbs": "Навигационная цепочка",
+    "shopIntro": "Выбирайте в Cheap Accounts по поставщику и сроку. Для Opplex и Filex указаны текущие цены IPTV; карточки стриминга и ИИ позволяют до покупки уточнить план и условия.",
+    "ottGuideHeading": "Выберите стриминговый план для домохозяйства",
+    "ottGuideBody": "Начните со страны, устройств и числа зрителей, которым нужен одновременный просмотр. Знакомое название плана не означает одинаковые функции везде. Уточните расчётный период, ограничения домохозяйства и условия отмены для Netflix, HBO Max или другого выбранного стримингового сервиса.",
+    "aiGuideHeading": "Выберите нужный вам сервис ИИ",
+    "aiGuideBody": "Определите, нужен ли вам чат или API для разработчиков. Для ChatGPT, Claude, Gemini и Grok уточните требования к аккаунту, лимиты и оплату. Чат DeepSeek и API — отдельные варианты; запрос цены не превращает бесплатный чат в платную подписку."
   },
   "ur": {
     "tagline": "ڈیجیٹل انتخاب، واضح قیمتیں۔",
@@ -1956,6 +2460,18 @@
           {
             "heading": "کتنے کنکشن شامل ہیں؟",
             "body": "Opplex پر ایک بیک وقت کنکشن ہے۔ Filex کی حد سپورٹ سے پوچھنی ہوگی۔ اضافی پلیئر ایپس یا پروفائلز بنانے سے بیک وقت مزید کنکشن نہیں ملتے۔"
+          },
+          {
+            "heading": "قیمت پوچھنے سے آرڈر بن جاتا ہے؟",
+            "body": "نہیں۔ منتخب پراڈکٹ اور پلان کے ساتھ WhatsApp کھلتا ہے تاکہ موجودہ قیمت اور دستیابی پوچھ سکیں۔ پیغام بھیجنے کا فیصلہ آپ کرتے ہیں۔ ادائیگی سے پہلے اصل پیشکش اور شرائط کی تصدیق کریں۔"
+          },
+          {
+            "heading": "کیا ہر OTT پلان میرے ملک میں دستیاب ہے؟",
+            "body": "دستیابی، پلان کے نام، گھرانے کے اصول اور آلات کی سہولت ملک کے مطابق بدل سکتی ہے۔ سپورٹ کو ملک اور آلات بتائیں اور پلان قبول کرنے سے پہلے ناشر کی سرکاری تفصیل دیکھیں۔"
+          },
+          {
+            "heading": "کیا AI چیٹ سبسکرپشن میں API کریڈٹس شامل ہیں؟",
+            "body": "ایسا فرض نہ کریں۔ چیٹ اور ڈویلپر API کے اکاؤنٹس، حدود اور اخراجات الگ ہو سکتے ہیں۔ بتائیں کون سی سروس چاہیے اور چننے سے پہلے اس کی بلنگ کی تصدیق کریں۔"
           }
         ]
       },
@@ -1970,6 +2486,14 @@
           {
             "heading": "ادائیگی سے پہلے جائزہ لیں",
             "body": "کارٹ میں ایک پلان رہتا ہے۔ ادائیگی سے پہلے قیمت اور دستیابی دوبارہ دیکھی جاتی ہیں۔ مرکزی Opplex ویب سائٹ سے Opplexify پر جا کر فراہم کنندہ، مدت، کرنسی اور حتمی رقم دیکھیں۔"
+          },
+          {
+            "heading": "OTT کی قیمت پوچھنے کی تیاری کریں",
+            "body": "پیغام میں ملک، مطلوبہ سروس اور بلنگ مدت بتائیں۔ سرکاری پلان تفصیل سے آلات، بیک وقت دیکھنے اور گھرانے کے اصول چیک کریں۔ پیشکش قبول کرنے سے پہلے تجدید، منسوخی اور اکاؤنٹ کی اہلیت کی تصدیق کریں؛ صرف معلوماتی کارڈ کسی پلان کی فراہمی کی تصدیق نہیں کرتا۔"
+          },
+          {
+            "heading": "AI سبسکرپشن اور API استعمال الگ سمجھیں",
+            "body": "چیٹ کی سبسکرپشن API کریڈٹس کا بیلنس نہیں۔ بتائیں کہ صارف والی ایپ چاہیے یا ڈویلپر رسائی، پھر اکاؤنٹ کے مالک، حدود، کرنسی اور تجدید کی شرائط پوچھیں۔ معلوم کریں کیا شامل ہے؛ بڑے درجے کا مطلب لامحدود استعمال یا ہر ماڈل کی رسائی نہیں۔"
           }
         ]
       },
@@ -2053,7 +2577,59 @@
     "claudeUsageAndAccountRequirements": "Claude کے پلانز میں استعمال کی حدیں اور اکاؤنٹ کی شرائط ہوتی ہیں۔ پلان اور بلنگ کی مدت کی تصدیق کریں۔",
     "geminiCountryAndPersonalAccount": "اپنے ملک میں Google AI پلان کی دستیابی اور ذاتی اکاؤنٹ کی اہلیت کی تصدیق کریں۔",
     "grokUnifiedSubscriptionEligibility": "Grok کے لیے موجودہ مشترکہ سبسکرپشن پلان اور اکاؤنٹ کی اہلیت کی تصدیق کریں۔",
-    "deepseekChatAndApiSeparate": "DeepSeek چیٹ مفت ہے؛ API کے استعمال کے الگ چارجز ہیں۔ سیٹ اپ یا API کے استعمال کے بارے میں پوچھیں۔"
+    "deepseekChatAndApiSeparate": "DeepSeek چیٹ مفت ہے؛ API کے استعمال کے الگ چارجز ہیں۔ سیٹ اپ یا API کے استعمال کے بارے میں پوچھیں۔",
+    "seo": {
+      "": {
+        "title": "IPTV پلانز، OTT اور AI سبسکرپشن کی معلومات",
+        "description": "Cheap Accounts پر Opplex اور Filex IPTV پلانز کا موازنہ کریں۔ OTT اور AI کے اختیارات دیکھیں، قیمت پوچھیں اور خریدنے سے پہلے اہلیت کی تصدیق کریں۔"
+      },
+      "shop": {
+        "title": "IPTV پلانز اور سبسکرپشن کے اختیارات کا موازنہ",
+        "description": "Opplex اور Filex کو فراہم کنندہ اور مدت کے مطابق دیکھیں۔ موجودہ تفصیلات کا موازنہ کریں اور OTT یا AI کی قیمت پوچھنے کا درست راستہ چنیں۔"
+      },
+      "categories/iptv": {
+        "title": "IPTV سبسکرپشن: Opplex اور Filex پلانز",
+        "description": "Opplex اور Filex IPTV کی 1، 3، 6 یا 12 ماہ کی سبسکرپشن دیکھیں۔ موجودہ قیمت، کنکشن اور Opplexify پر ادائیگی کی حتمی رقم چیک کریں۔"
+      },
+      "categories/ott": {
+        "title": "OTT سبسکرپشن کے اختیارات اور قیمت کی معلومات",
+        "description": "Netflix، HBO Max، Prime Video اور دوسرے OTT پلانز دیکھیں۔ قیمت، اپنے ملک میں دستیابی، گھرانے کے اصول اور بلنگ کی تصدیق کریں۔"
+      },
+      "categories/ai": {
+        "title": "AI سبسکرپشن: ChatGPT، Claude اور دیگر",
+        "description": "ChatGPT، Claude، Gemini، Grok اور DeepSeek کے اختیارات دیکھیں۔ اکاؤنٹ کی اہلیت، استعمال کی حد اور سبسکرپشن و API کی الگ بلنگ سمجھیں۔"
+      },
+      "products/opplex-iptv": {
+        "title": "Opplex IPTV سبسکرپشن کے پلانز اور قیمتیں",
+        "description": "1، 3، 6 یا 12 ماہ کا Opplex IPTV پلان چنیں۔ موجودہ قیمت، ایک بیک وقت کنکشن اور منتخب رقم ادائیگی سے پہلے دیکھیں۔"
+      },
+      "products/filex-iptv": {
+        "title": "Filex IPTV سبسکرپشن کے پلانز اور قیمتیں",
+        "description": "Filex IPTV کے پلانز، مدت اور موجودہ قیمتیں دیکھیں۔ Opplexify پر جانے سے پہلے آلے کی ضرورت اور کنکشن کی حد سپورٹ سے تصدیق کریں۔"
+      },
+      "about": {
+        "title": "ہمارے ڈیجیٹل سبسکرپشن اسٹور کے بارے میں",
+        "description": "جانیں کہ Cheap Accounts پر IPTV کا انتخاب، OTT اور AI کی قیمت کی معلومات، Opplexify کی ادائیگی اور مرکزی آرڈر سپورٹ کیسے کام کرتی ہے۔"
+      },
+      "contact": {
+        "title": "رابطہ اور سبسکرپشن سپورٹ",
+        "description": "IPTV یا OTT اور AI کی قیمتوں کے لیے Cheap Accounts سے رابطہ کریں۔ ملک، آلہ اور مدت بتائیں یا موجودہ آرڈر کے لیے نجی سپورٹ استعمال کریں۔"
+      },
+      "faqs": {
+        "title": "IPTV، OTT اور AI سبسکرپشن کے سوالات",
+        "description": "IPTV ادائیگی، کنکشن کی حد، OTT کی علاقائی اہلیت اور AI بلنگ کے جواب پائیں۔ پلان چننے سے پہلے قیمت پوچھنے کا طریقہ سمجھیں۔"
+      },
+      "buying-guide": {
+        "title": "IPTV، OTT اور AI سبسکرپشن کیسے چنیں",
+        "description": "شرائط، آلات، علاقائی اہلیت اور بلنگ کا موازنہ کریں۔ اس گائیڈ سے IPTV آرڈر یا OTT اور AI کی معلومات مانگنے کی تیاری کریں۔"
+      }
+    },
+    "breadcrumbs": "صفحے کا راستہ",
+    "shopIntro": "Cheap Accounts پر فراہم کنندہ اور مدت کے مطابق دیکھیں۔ Opplex اور Filex کی موجودہ IPTV قیمتیں درج ہیں؛ OTT اور AI کی فہرستوں سے خریدنے سے پہلے پلان اور اہلیت کی معلومات لے سکتے ہیں۔",
+    "ottGuideHeading": "اپنے گھرانے کے لیے OTT پلان چنیں",
+    "ottGuideBody": "اپنا ملک، استعمال ہونے والے آلات اور ایک وقت میں دیکھنے والے لوگوں کی تعداد پہلے طے کریں۔ مانوس پلان کے نام کا مطلب ہر ملک میں یکساں سہولتیں نہیں۔ منتخب Netflix، HBO Max یا دوسرے OTT پلان کی بلنگ مدت، گھرانے کی پابندیاں اور منسوخی کی شرائط پوچھیں۔",
+    "aiGuideHeading": "وہ AI سروس چنیں جس کی واقعی ضرورت ہے",
+    "aiGuideBody": "طے کریں کہ چیٹ ایپ چاہیے یا ڈویلپر کے لیے API رسائی۔ ChatGPT، Claude، Gemini اور Grok کے اکاؤنٹ کی شرائط، استعمال کی حد اور بلنگ پوچھیں۔ DeepSeek کی چیٹ اور API الگ اختیارات ہیں؛ قیمت پوچھنے سے مفت چیٹ بامعاوضہ سبسکرپشن نہیں بن جاتی۔"
   },
   "ar": {
     "tagline": "خيارات رقمية بأسعار واضحة.",
@@ -2213,6 +2789,18 @@
           {
             "heading": "كم اتصالاً تتضمن الخطة؟",
             "body": "لدى Opplex اتصال متزامن واحد. يجب تأكيد حد Filex مع الدعم. تثبيت مشغّلات إضافية أو إنشاء ملفات شخصية لا يضيف اتصالات متزامنة."
+          },
+          {
+            "heading": "هل يؤدي طلب السعر إلى إنشاء طلب شراء؟",
+            "body": "لا. يفتح WhatsApp بالمنتج والخطة المختارين للاستفسار عن السعر والتوافر الحاليين. أنت تقرر إرسال الرسالة. أكّد العرض الفعلي وشروطه قبل الدفع."
+          },
+          {
+            "heading": "هل كل خطط البث متاحة في بلدي؟",
+            "body": "قد تختلف الإتاحة وأسماء الخطط وقواعد الأسرة والأجهزة المدعومة حسب البلد. أخبر الدعم ببلدك وأجهزتك وراجع التفاصيل الرسمية للناشر قبل قبول الخطة."
+          },
+          {
+            "heading": "هل يتضمن اشتراك محادثة الذكاء الاصطناعي رصيد API؟",
+            "body": "لا تفترض ذلك. قد تكون للمحادثة وAPI للمطوّرين حسابات وحدود ورسوم منفصلة. حدد الخدمة التي تحتاجها وأكّد الفوترة قبل اختيارها."
           }
         ]
       },
@@ -2227,6 +2815,14 @@
           {
             "heading": "راجع قبل الدفع",
             "body": "تحتوي السلة خطة واحدة. يُعاد التحقق من السعر والتوافر قبل الدفع. انتقل عبر موقع Opplex المركزي إلى Opplexify وراجع المزوّد والمدة والعملة والمبلغ النهائي."
+          },
+          {
+            "heading": "جهّز استفسارك عن سعر البث",
+            "body": "اذكر البلد والخدمة وفترة الفوترة المطلوبة. راجع الأجهزة والمشاهدة المتزامنة وقواعد الأسرة في تفاصيل الخطة الرسمية. أكّد التجديد والإلغاء وأهلية الحساب قبل قبول العرض؛ بطاقة الاستفسار وحدها لا تؤكد إمكانية توفير الخطة."
+          },
+          {
+            "heading": "افصل الاشتراك في الذكاء الاصطناعي عن استخدام API",
+            "body": "اشتراك المحادثة ليس رصيداً لاستخدام API. حدد هل تحتاج التطبيق أم وصول المطوّرين، ثم أكّد صاحب الحساب والحدود والعملة وشروط التجديد. اسأل عمّا تتضمنه الخطة؛ المستوى الأعلى لا يعني استخداماً بلا حدود أو إتاحة كل النماذج."
           }
         ]
       },
@@ -2310,7 +2906,59 @@
     "claudeUsageAndAccountRequirements": "تتضمن خطط Claude حدود استخدام ومتطلبات للحساب. أكّد الخطة وفترة الفوترة.",
     "geminiCountryAndPersonalAccount": "أكّد توافر خطط Google AI وأهلية الحساب الشخصي في بلدك.",
     "grokUnifiedSubscriptionEligibility": "أكّد فئة الاشتراك الموحّد الحالية وأهلية الحساب لخدمة Grok.",
-    "deepseekChatAndApiSeparate": "دردشة DeepSeek مجانية؛ يُحاسب استخدام API بشكل منفصل. اسأل عن الإعداد أو استخدام API."
+    "deepseekChatAndApiSeparate": "دردشة DeepSeek مجانية؛ يُحاسب استخدام API بشكل منفصل. اسأل عن الإعداد أو استخدام API.",
+    "seo": {
+      "": {
+        "title": "خطط IPTV واستفسارات اشتراكات البث والذكاء الاصطناعي",
+        "description": "قارن خطط Opplex وFilex IPTV لدى Cheap Accounts. استكشف اشتراكات البث والذكاء الاصطناعي واطلب السعر وتحقق من الأهلية قبل الشراء."
+      },
+      "shop": {
+        "title": "قارن خطط IPTV وخيارات الاشتراك",
+        "description": "تصفح Opplex وFilex حسب المزوّد والمدة. قارن التفاصيل الحالية واطلع على خيارات الاستفسار عن اشتراكات البث والذكاء الاصطناعي."
+      },
+      "categories/iptv": {
+        "title": "اشتراكات IPTV: خطط Opplex وFilex",
+        "description": "قارن اشتراكات Opplex وFilex IPTV لمدة 1 أو 3 أو 6 أو 12 شهراً. راجع الأسعار والاتصالات والمبلغ النهائي للدفع على Opplexify."
+      },
+      "categories/ott": {
+        "title": "خيارات اشتراكات البث والاستفسار عن الأسعار",
+        "description": "استكشف Netflix وHBO Max وPrime Video وخيارات البث الأخرى. اطلب السعر وتحقق من البلدان المتاحة وقواعد الأسرة والفوترة."
+      },
+      "categories/ai": {
+        "title": "اشتراكات الذكاء الاصطناعي: ChatGPT وClaude والمزيد",
+        "description": "قارن خيارات ChatGPT وClaude وGemini وGrok وDeepSeek. تحقق من متطلبات الحساب والحدود والفوترة المنفصلة للاشتراك وواجهة API."
+      },
+      "products/opplex-iptv": {
+        "title": "اشتراك Opplex IPTV: الخطط والأسعار",
+        "description": "اختر Opplex IPTV لمدة 1 أو 3 أو 6 أو 12 شهراً. راجع السعر الحالي والاتصال المتزامن الواحد والمبلغ المحدد قبل الدفع."
+      },
+      "products/filex-iptv": {
+        "title": "اشتراك Filex IPTV: الخطط والأسعار",
+        "description": "راجع خطط Filex IPTV والمدد والأسعار الحالية. أكّد الأجهزة المطلوبة وحد الاتصالات قبل الانتقال إلى الدفع على Opplexify."
+      },
+      "about": {
+        "title": "عن متجرنا للاشتراكات الرقمية",
+        "description": "تعرّف كيف تجمع Cheap Accounts اختيار IPTV واستفسارات أسعار البث والذكاء الاصطناعي والدفع عبر Opplexify والدعم المركزي للطلبات."
+      },
+      "contact": {
+        "title": "التواصل ودعم الاشتراكات",
+        "description": "تواصل مع Cheap Accounts بشأن IPTV وأسعار البث والذكاء الاصطناعي. جهّز بلدك وجهازك والمدة أو استخدم الدعم الخاص لطلب قائم."
+      },
+      "faqs": {
+        "title": "أسئلة اشتراكات IPTV والبث والذكاء الاصطناعي",
+        "description": "إجابات عن دفع IPTV وحدود الاتصالات والأهلية الإقليمية للبث وفوترة الذكاء الاصطناعي. افهم طلب السعر قبل اختيار الخطة."
+      },
+      "buying-guide": {
+        "title": "كيف تختار اشتراك IPTV أو البث أو الذكاء الاصطناعي",
+        "description": "قارن الشروط والأجهزة والأهلية الإقليمية والفوترة. استخدم دليل الشراء لتحضير طلب IPTV أو استفسار عن البث أو الذكاء الاصطناعي."
+      }
+    },
+    "breadcrumbs": "مسار التنقل",
+    "shopIntro": "تصفح Cheap Accounts حسب المزوّد والمدة. يعرض Opplex وFilex أسعار IPTV الحالية؛ وتتيح قوائم البث والذكاء الاصطناعي الاستفسار عن الخطة والأهلية قبل الشراء.",
+    "ottGuideHeading": "اختر خطة بث مناسبة لأسرتك",
+    "ottGuideBody": "ابدأ ببلدك والأجهزة التي تستخدمها وعدد الأشخاص الراغبين في المشاهدة معاً. لا يعني الاسم المألوف للخطة تطابق المزايا في كل بلد. اسأل عن فترة الفوترة وقيود الأسرة وشروط الإلغاء لخيار Netflix أو HBO Max أو خدمة البث الأخرى التي اخترتها.",
+    "aiGuideHeading": "اختر خدمة الذكاء الاصطناعي التي تحتاجها",
+    "aiGuideBody": "حدد هل تريد تطبيق محادثة أم وصول API للمطوّرين. اسأل عن متطلبات الحساب وحدود الاستخدام والفوترة في ChatGPT وClaude وGemini وGrok. محادثة DeepSeek واستخدام API خياران منفصلان؛ طلب السعر لا يحوّل المحادثة المجانية إلى اشتراك مدفوع."
   },
   "hi": {
     "tagline": "डिजिटल विकल्प, स्पष्ट कीमतें।",
@@ -2470,6 +3118,18 @@
           {
             "heading": "कितने कनेक्शन शामिल हैं?",
             "body": "Opplex में एक साथ एक कनेक्शन है। Filex की सीमा सहायता से पूछनी होगी। अतिरिक्त ऐप या प्रोफ़ाइल बनाने से एक साथ और कनेक्शन नहीं मिलते।"
+          },
+          {
+            "heading": "क्या कीमत पूछने से ऑर्डर बन जाता है?",
+            "body": "नहीं। चुने हुए उत्पाद और प्लान के साथ WhatsApp खुलता है ताकि मौजूदा कीमत और उपलब्धता पूछ सकें। संदेश भेजना आपका फैसला है। भुगतान से पहले असली प्रस्ताव और शर्तों की पुष्टि करें।"
+          },
+          {
+            "heading": "क्या हर ओटीटी प्लान मेरे देश में उपलब्ध है?",
+            "body": "उपलब्धता, प्लान के नाम, घरेलू नियम और समर्थित डिवाइस देश के अनुसार बदल सकते हैं। सहायता को अपना देश और डिवाइस बताएं और प्लान स्वीकार करने से पहले प्रकाशक का आधिकारिक विवरण देखें।"
+          },
+          {
+            "heading": "क्या एआई चैट सब्सक्रिप्शन में API क्रेडिट शामिल हैं?",
+            "body": "ऐसा न मानें। चैट और डेवलपर API के खाते, सीमाएं और शुल्क अलग हो सकते हैं। बताएं कौन सी सेवा चाहिए और चुनने से पहले बिलिंग की पुष्टि करें।"
           }
         ]
       },
@@ -2484,6 +3144,14 @@
           {
             "heading": "भुगतान से पहले देखें",
             "body": "कार्ट में एक प्लान रहता है। भुगतान से पहले कीमत व उपलब्धता दोबारा जाँची जाती हैं। मुख्य Opplex साइट से Opplexify पर जाकर प्रदाता, अवधि, मुद्रा और अंतिम रकम देखें।"
+          },
+          {
+            "heading": "ओटीटी की कीमत पूछने की तैयारी करें",
+            "body": "देश, पसंदीदा सेवा और बिलिंग अवधि बताएं। आधिकारिक प्लान विवरण से डिवाइस, एक साथ देखने और घर के नियम जांचें। प्रस्ताव स्वीकार करने से पहले नवीनीकरण, रद्द करने और खाते की पात्रता की पुष्टि करें; केवल पूछताछ की सूची से प्लान की आपूर्ति की पुष्टि नहीं होती।"
+          },
+          {
+            "heading": "एआई सब्सक्रिप्शन और API इस्तेमाल अलग समझें",
+            "body": "चैट का सब्सक्रिप्शन API क्रेडिट बैलेंस नहीं है। बताएं कि सामान्य ऐप चाहिए या डेवलपर एक्सेस, फिर खाते के मालिक, सीमाओं, मुद्रा और नवीनीकरण की शर्तें पूछें। देखें क्या शामिल है; ऊंचे स्तर का मतलब असीमित इस्तेमाल या हर मॉडल का एक्सेस नहीं।"
           }
         ]
       },
@@ -2567,6 +3235,58 @@
     "claudeUsageAndAccountRequirements": "Claude प्लान में उपयोग की सीमाएं और खाते की शर्तें होती हैं। प्लान और बिलिंग अवधि की पुष्टि करें।",
     "geminiCountryAndPersonalAccount": "अपने देश में Google AI प्लान की उपलब्धता और निजी खाते की पात्रता की पुष्टि करें।",
     "grokUnifiedSubscriptionEligibility": "Grok के लिए मौजूदा संयुक्त सब्सक्रिप्शन प्लान और खाते की पात्रता की पुष्टि करें।",
-    "deepseekChatAndApiSeparate": "DeepSeek चैट मुफ्त है; API उपयोग का अलग शुल्क लगता है। सेटअप या API उपयोग के बारे में पूछें।"
+    "deepseekChatAndApiSeparate": "DeepSeek चैट मुफ्त है; API उपयोग का अलग शुल्क लगता है। सेटअप या API उपयोग के बारे में पूछें।",
+    "seo": {
+      "": {
+        "title": "IPTV प्लान और ओटीटी व एआई सब्सक्रिप्शन की जानकारी",
+        "description": "Cheap Accounts पर Opplex और Filex IPTV की तुलना करें। ओटीटी और एआई विकल्प देखें, कीमत पूछें और खरीदने से पहले पात्रता की पुष्टि करें।"
+      },
+      "shop": {
+        "title": "IPTV प्लान और सब्सक्रिप्शन विकल्पों की तुलना",
+        "description": "प्रदाता और अवधि के अनुसार Opplex और Filex देखें। मौजूदा विवरण की तुलना करें और ओटीटी या एआई की कीमत पूछने का सही विकल्प चुनें।"
+      },
+      "categories/iptv": {
+        "title": "IPTV सब्सक्रिप्शन: Opplex और Filex प्लान",
+        "description": "Opplex और Filex IPTV के 1, 3, 6 या 12 महीने के प्लान की तुलना करें। मौजूदा कीमत, कनेक्शन और Opplexify पर अंतिम भुगतान राशि देखें।"
+      },
+      "categories/ott": {
+        "title": "ओटीटी सब्सक्रिप्शन विकल्प और कीमत की जानकारी",
+        "description": "Netflix, HBO Max, Prime Video और दूसरे ओटीटी विकल्प देखें। कीमत, अपने देश में उपलब्धता, घरेलू नियम और बिलिंग की पुष्टि करें।"
+      },
+      "categories/ai": {
+        "title": "एआई सब्सक्रिप्शन: ChatGPT, Claude और अन्य",
+        "description": "ChatGPT, Claude, Gemini, Grok और DeepSeek विकल्पों की तुलना करें। खाते की पात्रता, सीमाएं और सब्सक्रिप्शन व API की अलग बिलिंग समझें।"
+      },
+      "products/opplex-iptv": {
+        "title": "Opplex IPTV सब्सक्रिप्शन प्लान और कीमतें",
+        "description": "1, 3, 6 या 12 महीने का Opplex IPTV प्लान चुनें। मौजूदा कीमत, एक साथ एक कनेक्शन और चुनी हुई रकम भुगतान से पहले देखें।"
+      },
+      "products/filex-iptv": {
+        "title": "Filex IPTV सब्सक्रिप्शन प्लान और कीमतें",
+        "description": "Filex IPTV प्लान, अवधि और मौजूदा कीमतें देखें। Opplexify पर जाने से पहले डिवाइस की जरूरत और कनेक्शन सीमा की पुष्टि करें।"
+      },
+      "about": {
+        "title": "हमारे डिजिटल सब्सक्रिप्शन स्टोर के बारे में",
+        "description": "जानें कि Cheap Accounts पर IPTV चयन, ओटीटी और एआई कीमत की जानकारी, Opplexify भुगतान और मुख्य ऑर्डर सहायता कैसे काम करती है।"
+      },
+      "contact": {
+        "title": "संपर्क और सब्सक्रिप्शन सहायता",
+        "description": "IPTV या ओटीटी और एआई कीमतों के लिए Cheap Accounts से संपर्क करें। देश, डिवाइस और अवधि बताएं या मौजूदा ऑर्डर के लिए निजी सहायता लें।"
+      },
+      "faqs": {
+        "title": "IPTV, ओटीटी और एआई सब्सक्रिप्शन के सवाल",
+        "description": "IPTV भुगतान, कनेक्शन सीमा, ओटीटी की क्षेत्रीय पात्रता और एआई बिलिंग के जवाब पाएं। प्लान चुनने से पहले कीमत पूछने का तरीका समझें।"
+      },
+      "buying-guide": {
+        "title": "IPTV, ओटीटी और एआई सब्सक्रिप्शन कैसे चुनें",
+        "description": "शर्तों, डिवाइस, क्षेत्रीय पात्रता और बिलिंग की तुलना करें। इस खरीद गाइड से IPTV ऑर्डर या ओटीटी व एआई पूछताछ की तैयारी करें।"
+      }
+    },
+    "breadcrumbs": "नेविगेशन पथ",
+    "shopIntro": "Cheap Accounts पर प्रदाता और अवधि के अनुसार देखें। Opplex और Filex की मौजूदा IPTV कीमतें दिखती हैं; ओटीटी और एआई सूची से खरीदने से पहले प्लान और पात्रता के बारे में पूछ सकते हैं।",
+    "ottGuideHeading": "अपने घर के लिए ओटीटी प्लान चुनें",
+    "ottGuideBody": "पहले देश, इस्तेमाल होने वाले डिवाइस और एक साथ देखने वाले लोगों की संख्या तय करें। परिचित प्लान के नाम का मतलब हर देश में समान सुविधाएं नहीं है। चुने हुए Netflix, HBO Max या दूसरे ओटीटी विकल्प की बिलिंग अवधि, घरेलू पाबंदियां और रद्द करने की शर्तें पूछें।",
+    "aiGuideHeading": "अपनी जरूरत की एआई सेवा चुनें",
+    "aiGuideBody": "तय करें कि चैट ऐप चाहिए या डेवलपर के लिए API एक्सेस। ChatGPT, Claude, Gemini और Grok के खाते की शर्तें, इस्तेमाल की सीमा और बिलिंग पूछें। DeepSeek चैट और API अलग विकल्प हैं; कीमत पूछने से मुफ्त चैट सशुल्क सब्सक्रिप्शन नहीं बन जाती।"
   }
 }
