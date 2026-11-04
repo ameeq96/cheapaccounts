@@ -25,7 +25,9 @@
     "results": "Products found",
     "noResults": "No products match these filters.",
     "homeEyebrow": "YOUR DIGITAL STOREFRONT",
-    "homeTitle": "Digital plans. Clear choices.",
+    "homeTitle": "IPTV plans, OTT and AI enquiries",
+    "shopHeading": "Compare IPTV plans and ask about OTT or AI subscriptions",
+    "iptvHeading": "Opplex and Filex IPTV plans",
     "homeIntro": "Compare current Opplex and Filex IPTV plans with checkout on Opplexify. Or ask about OTT and AI plans, and confirm country eligibility, billing and availability with support.",
     "shopPlans": "Shop IPTV plans",
     "howItWorks": "How checkout works",
@@ -103,6 +105,8 @@
     "refreshPrices": "Refresh prices",
     "selectionTitle": "Choose with the details in view.",
     "selectionIntro": "Check the exact provider, term and amount. Confirm device and player requirements before choosing a plan.",
+    "opplexDetailsBody": "Start with the Opplex plan’s subscription length and current catalogue price. Opplex allows one simultaneous connection, so choose the device you intend to use and confirm its exact model and player with support before paying. A player app or licence can be a separate purchase. Review the provider, currency, duration and final total on Opplexify. If you have already started a payment, check that order in the private customer portal before trying again.",
+    "filexDetailsBody": "Filex is a separate provider, even when its subscription length matches an Opplex plan. Compare the current Filex price and ask support to confirm the simultaneous-connection allowance; an unstated limit should not be treated as unlimited. Give support your exact device model and proposed player, including any separate app licence. Before payment, check that Opplexify shows Filex, your chosen duration, currency and final total. For an unclear earlier payment, use private order support first.",
     "securityNote": "Keep passwords, payment codes and private account links out of public messages.",
     "skipContent": "Skip to content",
     "closeDialog": "Close dialog",
@@ -124,13 +128,13 @@
           },
           {
             "heading": "Connected order support",
-            "body": "Plans and private order support use the central Opplex systems. Checkout continues on Opplexify. Third-party category names do not mean that Cheap Accounts is an official partner of those brands."
+            "body": "Cheap Accounts is the storefront. IPTV plans and private order support use the central systems of Opplex IPTV Subscription Services, with payment continuing on Opplexify. OTT and AI cards accept pricing enquiries rather than direct checkout. Third-party names do not imply official partnerships with those brands."
           }
         ]
       },
       "contact": {
         "title": "Contact Cheap Accounts",
-        "intro": "Start with the question you want answered: choosing a plan, preparing a device or checking an existing order.",
+        "intro": "Cheap Accounts uses shared support from Opplex IPTV Subscription Services. Ask the team about choosing a plan or preparing your device; use the central private customer portal for an existing order or payment.",
         "sections": [
           {
             "heading": "Before a purchase",
@@ -354,7 +358,9 @@
     "results": "Productos encontrados",
     "noResults": "Ningún producto coincide con estos filtros.",
     "homeEyebrow": "TU TIENDA DIGITAL",
-    "homeTitle": "Planes digitales. Opciones claras.",
+    "homeTitle": "Planes IPTV y consultas sobre OTT e IA",
+    "shopHeading": "Compara planes IPTV y consulta suscripciones OTT o de IA",
+    "iptvHeading": "Planes IPTV de Opplex y Filex",
     "homeIntro": "Compara los planes IPTV actuales de Opplex y Filex con pago en Opplexify. O consulta planes OTT y de IA y confirma los requisitos de tu país, la facturación y la disponibilidad con atención al cliente.",
     "shopPlans": "Ver planes IPTV",
     "howItWorks": "Cómo funciona el pago",
@@ -432,6 +438,8 @@
     "refreshPrices": "Actualizar precios",
     "selectionTitle": "Elige con los detalles a la vista.",
     "selectionIntro": "Revisa proveedor, periodo e importe exactos. Confirma los requisitos del dispositivo y reproductor antes de elegir.",
+    "opplexDetailsBody": "Empieza por la duración del plan Opplex y su precio actual en el catálogo. Opplex permite una conexión simultánea: elige el dispositivo que vas a usar y confirma su modelo exacto y el reproductor con soporte antes de pagar. La aplicación o su licencia pueden comprarse por separado. Revisa el proveedor, la moneda, la duración y el total final en Opplexify. Si ya has iniciado un pago, consulta ese pedido en el portal privado de clientes antes de intentarlo de nuevo.",
+    "filexDetailsBody": "Filex es un proveedor distinto, aunque la duración coincida con la de un plan Opplex. Compara el precio actual de Filex y pide a soporte que confirme cuántas conexiones simultáneas permite; un límite no indicado no significa uso ilimitado. Facilita el modelo exacto del dispositivo y el reproductor previsto, incluida cualquier licencia independiente. Antes de pagar, comprueba que Opplexify muestre Filex, la duración elegida, la moneda y el total final. Si un pago anterior no está claro, consulta primero el soporte privado del pedido.",
     "securityNote": "No publiques contraseñas, códigos de pago ni enlaces privados de cuenta.",
     "skipContent": "Saltar al contenido",
     "closeDialog": "Cerrar diálogo",
@@ -453,13 +461,13 @@
           },
           {
             "heading": "Soporte conectado",
-            "body": "Los planes y el soporte privado usan los sistemas centrales Opplex. El pago continúa en Opplexify. Los nombres de categorías de terceros no significan una asociación oficial con esas marcas."
+            "body": "Cheap Accounts es la tienda. Los planes IPTV y el soporte privado de pedidos usan los sistemas centrales de Opplex IPTV Subscription Services, y el pago continúa en Opplexify. Las tarjetas OTT y de IA permiten consultar precios, no pagar directamente. Los nombres de terceros no implican una asociación oficial con esas marcas."
           }
         ]
       },
       "contact": {
         "title": "Contactar con Cheap Accounts",
-        "intro": "Empieza por la pregunta que necesitas resolver: elegir un plan, preparar un dispositivo o consultar un pedido.",
+        "intro": "Cheap Accounts utiliza el soporte compartido de Opplex IPTV Subscription Services. Pregunta al equipo por la elección de un plan o la preparación de tu dispositivo; para un pedido o pago existente, usa el portal privado central de clientes.",
         "sections": [
           {
             "heading": "Antes de comprar",
@@ -683,7 +691,9 @@
     "results": "Produits trouvés",
     "noResults": "Aucun produit ne correspond à ces filtres.",
     "homeEyebrow": "VOTRE BOUTIQUE NUMÉRIQUE",
-    "homeTitle": "Des offres numériques. Un choix clair.",
+    "homeTitle": "Offres IPTV et demandes OTT et IA",
+    "shopHeading": "Comparez les offres IPTV et renseignez-vous sur les abonnements OTT ou d’IA",
+    "iptvHeading": "Offres IPTV Opplex et Filex",
     "homeIntro": "Comparez les offres IPTV actuelles d’Opplex et de Filex, avec paiement sur Opplexify. Ou renseignez-vous sur les abonnements OTT et d’IA, puis confirmez les conditions d’accès dans votre pays, la facturation et la disponibilité auprès de l’assistance.",
     "shopPlans": "Voir les offres IPTV",
     "howItWorks": "Comment payer",
@@ -761,6 +771,8 @@
     "refreshPrices": "Actualiser les prix",
     "selectionTitle": "Choisissez avec les détails en vue.",
     "selectionIntro": "Vérifiez le fournisseur, la durée et le montant exacts. Confirmez les exigences de l’appareil et du lecteur avant de choisir.",
+    "opplexDetailsBody": "Commencez par la durée de l’offre Opplex et son prix actuel dans le catalogue. Opplex autorise une connexion simultanée : choisissez l’appareil prévu et confirmez son modèle exact ainsi que le lecteur auprès de l’assistance avant de payer. L’application ou sa licence peuvent nécessiter un achat séparé. Vérifiez le fournisseur, la devise, la durée et le total final sur Opplexify. Si vous avez déjà commencé un paiement, consultez cette commande dans le portail client privé avant de réessayer.",
+    "filexDetailsBody": "Filex est un fournisseur distinct, même si sa durée d’abonnement correspond à celle d’une offre Opplex. Comparez le prix actuel de Filex et faites confirmer le nombre de connexions simultanées par l’assistance ; une limite non précisée ne signifie pas un usage illimité. Indiquez le modèle exact de l’appareil et le lecteur envisagé, y compris toute licence séparée. Avant de payer, vérifiez que Opplexify affiche Filex, la durée choisie, la devise et le total final. Pour un paiement antérieur incertain, contactez d’abord l’assistance privée de la commande.",
     "securityNote": "Ne publiez pas de mots de passe, codes de paiement ni liens privés de compte.",
     "skipContent": "Aller au contenu",
     "closeDialog": "Fermer la boîte de dialogue",
@@ -782,13 +794,13 @@
           },
           {
             "heading": "Une assistance reliée aux commandes",
-            "body": "Les offres et l’assistance privée utilisent les systèmes centraux Opplex. Le paiement continue sur Opplexify. Les noms de catégories tierces ne signifient pas de partenariat officiel avec ces marques."
+            "body": "Cheap Accounts est la boutique. Les offres IPTV et l’assistance privée des commandes utilisent les systèmes centraux d’Opplex IPTV Subscription Services, et le paiement se poursuit sur Opplexify. Les fiches OTT et d’IA permettent de demander un tarif, sans paiement direct. Les noms de tiers n’impliquent aucun partenariat officiel avec ces marques."
           }
         ]
       },
       "contact": {
         "title": "Contacter Cheap Accounts",
-        "intro": "Commencez par la question à résoudre : choisir une offre, préparer un appareil ou consulter une commande.",
+        "intro": "Cheap Accounts utilise l’assistance commune d’Opplex IPTV Subscription Services. Demandez conseil pour choisir une offre ou préparer votre appareil ; pour une commande ou un paiement existant, utilisez le portail client privé central.",
         "sections": [
           {
             "heading": "Avant l’achat",
@@ -1012,7 +1024,9 @@
     "results": "Prodotti trovati",
     "noResults": "Nessun prodotto corrisponde ai filtri.",
     "homeEyebrow": "IL TUO NEGOZIO DIGITALE",
-    "homeTitle": "Piani digitali. Scelte chiare.",
+    "homeTitle": "Piani IPTV e richieste OTT e IA",
+    "shopHeading": "Confronta i piani IPTV e chiedi degli abbonamenti OTT o di IA",
+    "iptvHeading": "Piani IPTV Opplex e Filex",
     "homeIntro": "Confronta i piani IPTV attuali di Opplex e Filex, con pagamento su Opplexify. Oppure chiedi informazioni sui piani OTT e di IA e conferma requisiti del tuo paese, fatturazione e disponibilità con l’assistenza.",
     "shopPlans": "Esplora i piani IPTV",
     "howItWorks": "Come funziona il pagamento",
@@ -1090,6 +1104,8 @@
     "refreshPrices": "Aggiorna i prezzi",
     "selectionTitle": "Scegli con i dettagli in vista.",
     "selectionIntro": "Controlla fornitore, durata e importo esatti. Conferma i requisiti di dispositivo e lettore prima di scegliere.",
+    "opplexDetailsBody": "Parti dalla durata del piano Opplex e dal prezzo attuale nel catalogo. Opplex consente una connessione simultanea: scegli il dispositivo che userai e conferma con l’assistenza il modello esatto e il lettore prima di pagare. L’app o la relativa licenza possono richiedere un acquisto separato. Controlla fornitore, valuta, durata e totale finale su Opplexify. Se hai già avviato un pagamento, verifica quell’ordine nel portale clienti privato prima di riprovare.",
+    "filexDetailsBody": "Filex è un fornitore distinto, anche quando la durata dell’abbonamento coincide con un piano Opplex. Confronta il prezzo attuale di Filex e chiedi all’assistenza di confermare il numero di connessioni simultanee: un limite non indicato non significa uso illimitato. Comunica il modello esatto del dispositivo e il lettore previsto, comprese eventuali licenze separate. Prima di pagare, verifica che Opplexify mostri Filex, la durata scelta, la valuta e il totale finale. Per un pagamento precedente poco chiaro, consulta prima l’assistenza privata dell’ordine.",
     "securityNote": "Non pubblicare password, codici di pagamento o link privati dell’account.",
     "skipContent": "Vai al contenuto",
     "closeDialog": "Chiudi finestra",
@@ -1111,13 +1127,13 @@
           },
           {
             "heading": "Assistenza collegata agli ordini",
-            "body": "Piani e assistenza privata usano i sistemi centrali Opplex. Il pagamento prosegue su Opplexify. I nomi delle categorie di terzi non indicano una collaborazione ufficiale con quei marchi."
+            "body": "Cheap Accounts è il negozio. I piani IPTV e l’assistenza privata degli ordini usano i sistemi centrali di Opplex IPTV Subscription Services; il pagamento prosegue su Opplexify. Le schede OTT e di IA permettono di chiedere un prezzo, senza acquistare direttamente. I nomi di terzi non indicano una collaborazione ufficiale con quei marchi."
           }
         ]
       },
       "contact": {
         "title": "Contatta Cheap Accounts",
-        "intro": "Parti dalla domanda da risolvere: scegliere un piano, preparare un dispositivo o controllare un ordine.",
+        "intro": "Cheap Accounts usa l’assistenza condivisa di Opplex IPTV Subscription Services. Chiedi al team come scegliere un piano o preparare il dispositivo; per un ordine o pagamento già avviato, usa il portale clienti privato centrale.",
         "sections": [
           {
             "heading": "Prima dell’acquisto",
@@ -1341,7 +1357,9 @@
     "results": "Gevonden producten",
     "noResults": "Geen producten passen bij deze filters.",
     "homeEyebrow": "JOUW DIGITALE WINKEL",
-    "homeTitle": "Digitale abonnementen. Duidelijke keuzes.",
+    "homeTitle": "IPTV-abonnementen en vragen over OTT en AI",
+    "shopHeading": "Vergelijk IPTV-abonnementen en stel vragen over OTT of AI",
+    "iptvHeading": "IPTV-abonnementen van Opplex en Filex",
     "homeIntro": "Vergelijk de huidige IPTV-abonnementen van Opplex en Filex met afrekenen via Opplexify. Of vraag naar OTT- en AI-abonnementen en bevestig de voorwaarden voor je land, facturering en beschikbaarheid met de klantenservice.",
     "shopPlans": "IPTV-abonnementen bekijken",
     "howItWorks": "Zo werkt afrekenen",
@@ -1419,6 +1437,8 @@
     "refreshPrices": "Prijzen verversen",
     "selectionTitle": "Kies met de gegevens in beeld.",
     "selectionIntro": "Controleer de exacte aanbieder, looptijd en het bedrag. Bevestig apparaat- en spelereisen voordat je kiest.",
+    "opplexDetailsBody": "Begin met de looptijd van het Opplex-abonnement en de huidige catalogusprijs. Opplex staat één gelijktijdige verbinding toe. Kies daarom het apparaat dat je wilt gebruiken en bevestig het exacte model en de speler vóór betaling bij de ondersteuning. Een spelerapp of licentie kan een aparte aankoop zijn. Controleer aanbieder, valuta, looptijd en eindtotaal op Opplexify. Heb je al een betaling gestart, controleer die bestelling dan eerst in het privéklantenportaal voordat je opnieuw probeert.",
+    "filexDetailsBody": "Filex is een aparte aanbieder, ook als de looptijd overeenkomt met een Opplex-abonnement. Vergelijk de huidige Filex-prijs en vraag de ondersteuning hoeveel gelijktijdige verbindingen zijn toegestaan; een ontbrekende limiet betekent geen onbeperkt gebruik. Geef het exacte apparaatmodel en de beoogde speler door, inclusief een eventuele losse applicatielicentie. Controleer vóór betaling of Opplexify Filex, de gekozen looptijd, valuta en het eindtotaal toont. Gebruik bij een onduidelijke eerdere betaling eerst de privéondersteuning voor die bestelling.",
     "securityNote": "Publiceer geen wachtwoorden, betaalcodes of privéaccountlinks.",
     "skipContent": "Naar de inhoud",
     "closeDialog": "Dialoog sluiten",
@@ -1440,13 +1460,13 @@
           },
           {
             "heading": "Verbonden orderondersteuning",
-            "body": "Abonnementen en privéondersteuning gebruiken de centrale Opplex-systemen. Afrekenen gaat verder op Opplexify. Categorienamen van derden betekenen geen officieel partnerschap met die merken."
+            "body": "Cheap Accounts is de winkel. IPTV-abonnementen en privéondersteuning voor bestellingen gebruiken de centrale systemen van Opplex IPTV Subscription Services; afrekenen gaat verder op Opplexify. Via OTT- en AI-kaarten vraag je een prijs op, zonder direct af te rekenen. Namen van derden betekenen geen officieel partnerschap met die merken."
           }
         ]
       },
       "contact": {
         "title": "Contact met Cheap Accounts",
-        "intro": "Begin met de vraag die je wilt oplossen: een abonnement kiezen, een apparaat voorbereiden of een bestelling controleren.",
+        "intro": "Cheap Accounts gebruikt de gezamenlijke ondersteuning van Opplex IPTV Subscription Services. Vraag het team om hulp bij een abonnement of de voorbereiding van je apparaat; gebruik het centrale privéklantenportaal voor een bestaande bestelling of betaling.",
         "sections": [
           {
             "heading": "Vóór aankoop",
@@ -1670,7 +1690,9 @@
     "results": "Produtos encontrados",
     "noResults": "Nenhum produto corresponde aos filtros.",
     "homeEyebrow": "A SUA LOJA DIGITAL",
-    "homeTitle": "Planos digitais. Escolhas claras.",
+    "homeTitle": "Planos IPTV e consultas sobre OTT e IA",
+    "shopHeading": "Compare planos IPTV e consulte assinaturas OTT ou de IA",
+    "iptvHeading": "Planos IPTV da Opplex e da Filex",
     "homeIntro": "Compare os planos IPTV atuais da Opplex e da Filex, com pagamento na Opplexify. Ou consulte os planos OTT e de IA e confirme os requisitos do seu país, a cobrança e a disponibilidade com o suporte.",
     "shopPlans": "Ver planos IPTV",
     "howItWorks": "Como funciona o pagamento",
@@ -1748,6 +1770,8 @@
     "refreshPrices": "Atualizar preços",
     "selectionTitle": "Escolha com os detalhes à vista.",
     "selectionIntro": "Confirme fornecedor, período e valor exatos. Verifique os requisitos do dispositivo e leitor antes de escolher.",
+    "opplexDetailsBody": "Comece pela duração do plano Opplex e pelo preço atual no catálogo. A Opplex permite uma conexão simultânea: escolha o dispositivo que vai utilizar e confirme com o apoio o modelo exato e o leitor antes de pagar. A aplicação ou a respetiva licença podem exigir uma compra separada. Reveja o fornecedor, a moeda, a duração e o total final na Opplexify. Se já iniciou um pagamento, consulte essa encomenda no portal privado de clientes antes de tentar novamente.",
+    "filexDetailsBody": "A Filex é um fornecedor distinto, mesmo quando a duração da assinatura coincide com a de um plano Opplex. Compare o preço atual da Filex e peça ao apoio que confirme o limite de conexões simultâneas; um limite não indicado não significa utilização ilimitada. Indique o modelo exato do dispositivo e o leitor pretendido, incluindo qualquer licença separada da aplicação. Antes de pagar, confirme que a Opplexify apresenta Filex, a duração escolhida, a moeda e o total final. Se um pagamento anterior não estiver claro, use primeiro o apoio privado da encomenda.",
     "securityNote": "Não publique palavras-passe, códigos de pagamento ou ligações privadas da conta.",
     "skipContent": "Ir para o conteúdo",
     "closeDialog": "Fechar janela",
@@ -1769,13 +1793,13 @@
           },
           {
             "heading": "Apoio ligado às encomendas",
-            "body": "Planos e apoio privado usam os sistemas centrais Opplex. O pagamento continua na Opplexify. Os nomes de categorias de terceiros não significam parceria oficial com essas marcas."
+            "body": "A Cheap Accounts é a loja. Os planos IPTV e o apoio privado às encomendas usam os sistemas centrais da Opplex IPTV Subscription Services, e o pagamento continua na Opplexify. Os cartões OTT e de IA permitem consultar preços, sem pagamento direto. Os nomes de terceiros não implicam uma parceria oficial com essas marcas."
           }
         ]
       },
       "contact": {
         "title": "Contactar a Cheap Accounts",
-        "intro": "Comece pela dúvida que pretende resolver: escolher um plano, preparar um dispositivo ou verificar uma encomenda.",
+        "intro": "A Cheap Accounts usa o apoio partilhado da Opplex IPTV Subscription Services. Pergunte à equipa sobre a escolha de um plano ou a preparação do dispositivo; para uma encomenda ou pagamento existente, use o portal privado central de clientes.",
         "sections": [
           {
             "heading": "Antes de comprar",
@@ -1999,7 +2023,9 @@
     "results": "Найдено продуктов",
     "noResults": "По этим фильтрам продукты не найдены.",
     "homeEyebrow": "ВАШ ЦИФРОВОЙ МАГАЗИН",
-    "homeTitle": "Цифровые планы. Понятный выбор.",
+    "homeTitle": "Тарифы IPTV и вопросы о подписках OTT и ИИ",
+    "shopHeading": "Сравните тарифы IPTV и узнайте о подписках OTT или ИИ",
+    "iptvHeading": "Тарифы IPTV от Opplex и Filex",
     "homeIntro": "Сравните актуальные IPTV-тарифы Opplex и Filex с оплатой через Opplexify. Или узнайте о подписках на стриминг и инструменты ИИ, уточнив у поддержки доступность в вашей стране, расчётный период и условия.",
     "shopPlans": "Выбрать план IPTV",
     "howItWorks": "Как проходит оплата",
@@ -2077,6 +2103,8 @@
     "refreshPrices": "Обновить цены",
     "selectionTitle": "Выбирайте, видя все сведения.",
     "selectionIntro": "Проверьте точного поставщика, срок и сумму. Уточните требования устройства и плеера до выбора.",
+    "opplexDetailsBody": "Сначала проверьте срок подписки Opplex и текущую цену в каталоге. Opplex допускает одно одновременное подключение: выберите устройство, которым будете пользоваться, и до оплаты уточните у поддержки его точную модель и подходящий плеер. Приложение или лицензия плеера могут оплачиваться отдельно. На Opplexify проверьте поставщика, валюту, срок и итоговую сумму. Если вы уже начали оплату, сначала проверьте этот заказ в личном кабинете, прежде чем пробовать снова.",
+    "filexDetailsBody": "Filex — отдельный поставщик, даже если срок подписки совпадает с тарифом Opplex. Сравните текущую цену Filex и уточните у поддержки число одновременных подключений: отсутствие указанного лимита не означает безлимитное использование. Сообщите точную модель устройства и выбранный плеер, спросите об отдельной лицензии приложения. Перед оплатой проверьте, что на Opplexify указаны Filex, нужный срок, валюта и итоговая сумма. Если предыдущая оплата осталась неясной, сначала обратитесь в частную поддержку заказов.",
     "securityNote": "Не публикуйте пароли, платежные коды и личные ссылки аккаунта.",
     "skipContent": "Перейти к содержимому",
     "closeDialog": "Закрыть окно",
@@ -2098,13 +2126,13 @@
           },
           {
             "heading": "Поддержка связана с заказами",
-            "body": "Планы и частная поддержка используют центральные системы Opplex. Оплата продолжается в Opplexify. Названия сторонних категорий не означают официального партнерства с этими брендами."
+            "body": "Cheap Accounts — онлайн-витрина. IPTV-тарифы и частная поддержка заказов используют центральные системы Opplex IPTV Subscription Services, а оплата продолжается на Opplexify. Карточки OTT и ИИ предназначены для запросов цен, прямого оформления заказа на них нет. Упоминание сторонних брендов не означает официального партнёрства с ними."
           }
         ]
       },
       "contact": {
         "title": "Связаться с Cheap Accounts",
-        "intro": "Начните с вопроса, который нужно решить: выбор плана, подготовка устройства или проверка заказа.",
+        "intro": "Cheap Accounts использует общую поддержку Opplex IPTV Subscription Services. Обратитесь к команде с вопросами о выборе тарифа или подготовке устройства; для существующего заказа или оплаты используйте центральный личный кабинет.",
         "sections": [
           {
             "heading": "Перед покупкой",
@@ -2328,7 +2356,9 @@
     "results": "ملنے والی پراڈکٹس",
     "noResults": "ان فلٹرز کے مطابق کوئی پراڈکٹ نہیں ملی۔",
     "homeEyebrow": "آپ کی ڈیجیٹل دکان",
-    "homeTitle": "ڈیجیٹل پلانز۔ واضح انتخاب۔",
+    "homeTitle": "IPTV پلانز، OTT اور مصنوعی ذہانت کے بارے میں سوالات",
+    "shopHeading": "IPTV پلانز کا موازنہ کریں اور OTT یا مصنوعی ذہانت کی سبسکرپشنز کے بارے میں پوچھیں",
+    "iptvHeading": "Opplex اور Filex کے IPTV پلانز",
     "homeIntro": "Opplex اور Filex کے موجودہ IPTV پلانز کا موازنہ کریں، جن کی ادائیگی Opplexify پر ہوتی ہے۔ یا OTT اور مصنوعی ذہانت کے پلانز کے بارے میں پوچھیں اور اپنے ملک میں دستیابی، بلنگ اور شرائط سپورٹ سے تصدیق کریں۔",
     "shopPlans": "IPTV پلانز دیکھیں",
     "howItWorks": "ادائیگی کیسے ہوتی ہے",
@@ -2406,6 +2436,8 @@
     "refreshPrices": "قیمتیں تازہ کریں",
     "selectionTitle": "تفصیل سامنے رکھ کر منتخب کریں۔",
     "selectionIntro": "اصل فراہم کنندہ، مدت اور رقم دیکھیں۔ پلان منتخب کرنے سے پہلے آلے اور پلیئر کی ضروریات کی تصدیق کریں۔",
+    "opplexDetailsBody": "Opplex کا پلان دیکھتے وقت پہلے اس کی مدت اور کیٹلاگ میں موجود قیمت چیک کریں۔ Opplex پر ایک وقت میں ایک کنکشن استعمال ہو سکتا ہے، اس لیے اپنی مطلوبہ ڈیوائس منتخب کریں اور ادائیگی سے پہلے سپورٹ سے اس کے صحیح ماڈل اور پلیئر کی تصدیق کریں۔ پلیئر ایپ یا اس کا لائسنس الگ خریدنا پڑ سکتا ہے۔ Opplexify پر فراہم کنندہ، کرنسی، مدت اور آخری کل رقم دیکھیں۔ اگر پہلے ہی ادائیگی شروع کر چکے ہیں تو دوبارہ کوشش سے پہلے نجی کسٹمر پورٹل میں وہ آرڈر چیک کریں۔",
+    "filexDetailsBody": "Filex الگ فراہم کنندہ ہے، چاہے اس کی سبسکرپشن کی مدت Opplex کے پلان جتنی ہو۔ Filex کی موجودہ قیمت کا موازنہ کریں اور سپورٹ سے بیک وقت کنکشنز کی حد پوچھیں؛ حد درج نہ ہونے کو لامحدود استعمال نہ سمجھیں۔ سپورٹ کو اپنی ڈیوائس کا صحیح ماڈل اور مطلوبہ پلیئر بتائیں اور ایپ کے الگ لائسنس کے بارے میں بھی پوچھیں۔ ادائیگی سے پہلے Opplexify پر Filex، منتخب مدت، کرنسی اور آخری کل رقم کی تصدیق کریں۔ پچھلی ادائیگی واضح نہ ہو تو پہلے نجی آرڈر سپورٹ سے رابطہ کریں۔",
     "securityNote": "عوامی پیغامات میں پاس ورڈ، ادائیگی کے کوڈ یا نجی اکاؤنٹ لنکس نہ دیں۔",
     "skipContent": "اصل مواد پر جائیں",
     "closeDialog": "ونڈو بند کریں",
@@ -2427,13 +2459,13 @@
           },
           {
             "heading": "آرڈرز سے منسلک سپورٹ",
-            "body": "پلانز اور نجی آرڈر سپورٹ مرکزی Opplex نظام استعمال کرتے ہیں۔ ادائیگی Opplexify پر ہوتی ہے۔ تیسرے فریق کی کیٹیگریز کے نام ان برانڈز کے ساتھ سرکاری شراکت داری ظاہر نہیں کرتے۔"
+            "body": "Cheap Accounts ایک آن لائن اسٹور ہے۔ IPTV پلانز اور نجی آرڈر سپورٹ کے لیے Opplex IPTV Subscription Services کے مرکزی نظام استعمال ہوتے ہیں، جبکہ ادائیگی Opplexify پر ہوتی ہے۔ OTT اور مصنوعی ذہانت کے کارڈز قیمت پوچھنے کے لیے ہیں؛ ان پر براہ راست چیک آؤٹ نہیں ہوتا۔ دوسرے برانڈز کے نام ان کے ساتھ سرکاری شراکت داری ظاہر نہیں کرتے۔"
           }
         ]
       },
       "contact": {
         "title": "Cheap Accounts سے رابطہ کریں",
-        "intro": "جس سوال کا جواب چاہیے اس سے شروع کریں: پلان منتخب کرنا، آلہ تیار کرنا یا موجودہ آرڈر دیکھنا۔",
+        "intro": "Cheap Accounts کے لیے Opplex IPTV Subscription Services کی مشترکہ سپورٹ دستیاب ہے۔ پلان منتخب کرنے یا اپنی ڈیوائس تیار کرنے کے بارے میں ٹیم سے پوچھیں؛ موجودہ آرڈر یا ادائیگی کے لیے مرکزی نجی کسٹمر پورٹل استعمال کریں۔",
         "sections": [
           {
             "heading": "خریداری سے پہلے",
@@ -2657,7 +2689,9 @@
     "results": "المنتجات الموجودة",
     "noResults": "لا توجد منتجات تطابق هذه المرشحات.",
     "homeEyebrow": "متجرك الرقمي",
-    "homeTitle": "خطط رقمية. خيارات واضحة.",
+    "homeTitle": "خطط IPTV واستفسارات اشتراكات البث والذكاء الاصطناعي",
+    "shopHeading": "قارن خطط IPTV واستفسر عن اشتراكات البث أو الذكاء الاصطناعي",
+    "iptvHeading": "خطط IPTV من Opplex وFilex",
     "homeIntro": "قارن خطط IPTV الحالية من Opplex وFilex، مع الدفع على Opplexify. أو استفسر عن خطط البث والذكاء الاصطناعي وأكّد أهلية بلدك والفوترة والتوافر مع الدعم.",
     "shopPlans": "تصفح خطط IPTV",
     "howItWorks": "كيف يتم الدفع",
@@ -2735,6 +2769,8 @@
     "refreshPrices": "تحديث الأسعار",
     "selectionTitle": "اختر والتفاصيل أمامك.",
     "selectionIntro": "تحقق من المزوّد والمدة والمبلغ بدقة. أكّد متطلبات الجهاز والمشغّل قبل اختيار الخطة.",
+    "opplexDetailsBody": "ابدأ بمراجعة مدة اشتراك Opplex والسعر الحالي في الكتالوج. يسمح Opplex باتصال واحد في الوقت نفسه، لذا حدد الجهاز الذي ستستخدمه وأكّد طرازه الدقيق والمشغّل المناسب مع الدعم قبل الدفع. قد يتطلب تطبيق المشغّل أو ترخيصه شراءً منفصلًا. راجع المزوّد والعملة والمدة والمبلغ النهائي على Opplexify. إذا كنت قد بدأت عملية دفع بالفعل، فتحقق من ذلك الطلب في بوابة العملاء الخاصة قبل المحاولة مرة أخرى.",
+    "filexDetailsBody": "Filex مزوّد مستقل، حتى عندما تتطابق مدة اشتراكه مع خطة Opplex. قارن سعر Filex الحالي واطلب من الدعم تأكيد عدد الاتصالات المتزامنة؛ عدم ذكر الحد لا يعني أن الاستخدام غير محدود. أخبر الدعم بطراز جهازك الدقيق والمشغّل الذي تنوي استخدامه، واسأل عن أي ترخيص منفصل للتطبيق. قبل الدفع، تأكد من ظهور Filex والمدة المختارة والعملة والمبلغ النهائي على Opplexify. إذا كانت دفعة سابقة غير واضحة، فراجع دعم الطلبات الخاص أولًا.",
     "securityNote": "لا تنشر كلمات المرور أو رموز الدفع أو روابط الحساب الخاصة.",
     "skipContent": "الانتقال إلى المحتوى",
     "closeDialog": "إغلاق النافذة",
@@ -2756,13 +2792,13 @@
           },
           {
             "heading": "دعم مرتبط بالطلبات",
-            "body": "تستخدم الخطط والدعم الخاص أنظمة Opplex المركزية. يكتمل الدفع على Opplexify. لا تعني أسماء الأقسام التابعة لجهات أخرى وجود شراكة رسمية مع تلك العلامات."
+            "body": "Cheap Accounts واجهة متجر إلكتروني. تستخدم خطط IPTV ودعم الطلبات الخاص الأنظمة المركزية لدى Opplex IPTV Subscription Services، وتستمر عملية الدفع على Opplexify. تتيح بطاقات البث والذكاء الاصطناعي الاستفسار عن الأسعار، ولا توفر دفعًا مباشرًا. لا تعني أسماء العلامات التجارية الأخرى وجود شراكات رسمية معها."
           }
         ]
       },
       "contact": {
         "title": "الاتصال بـ Cheap Accounts",
-        "intro": "ابدأ بالسؤال الذي تريد حله: اختيار خطة أو تجهيز جهاز أو مراجعة طلب قائم.",
+        "intro": "يستخدم Cheap Accounts الدعم المشترك من Opplex IPTV Subscription Services. اسأل الفريق عن اختيار خطة أو تجهيز جهازك، واستخدم بوابة العملاء المركزية الخاصة لمراجعة طلب أو دفعة قائمة.",
         "sections": [
           {
             "heading": "قبل الشراء",
@@ -2986,7 +3022,9 @@
     "results": "मिले उत्पाद",
     "noResults": "इन फ़िल्टर से कोई उत्पाद नहीं मिला।",
     "homeEyebrow": "आपकी डिजिटल दुकान",
-    "homeTitle": "डिजिटल प्लान। स्पष्ट विकल्प।",
+    "homeTitle": "IPTV प्लान और ओटीटी व एआई के बारे में पूछताछ",
+    "shopHeading": "IPTV प्लान की तुलना करें और ओटीटी या एआई सब्सक्रिप्शन के बारे में पूछें",
+    "iptvHeading": "Opplex और Filex के IPTV प्लान",
     "homeIntro": "Opplex और Filex के मौजूदा IPTV प्लान की तुलना करें, जिनका भुगतान Opplexify पर होता है। या ओटीटी और एआई प्लान के बारे में पूछें और अपने देश में पात्रता, बिलिंग व उपलब्धता की पुष्टि सपोर्ट से करें।",
     "shopPlans": "IPTV प्लान देखें",
     "howItWorks": "भुगतान कैसे होता है",
@@ -3064,6 +3102,8 @@
     "refreshPrices": "कीमतें ताज़ा करें",
     "selectionTitle": "विवरण सामने रखकर चुनें।",
     "selectionIntro": "सही प्रदाता, अवधि और रकम देखें। प्लान चुनने से पहले डिवाइस और प्लेयर की ज़रूरतें जाँचें।",
+    "opplexDetailsBody": "पहले Opplex प्लान की अवधि और कैटलॉग में मौजूदा कीमत देखें। Opplex पर एक समय में एक कनेक्शन की अनुमति है, इसलिए इस्तेमाल करने वाली डिवाइस चुनें और भुगतान से पहले सहायता टीम से उसका सही मॉडल और प्लेयर जाँच लें। प्लेयर ऐप या उसका लाइसेंस अलग से खरीदना पड़ सकता है। Opplexify पर प्रदाता, मुद्रा, अवधि और आखिरी कुल रकम देखें। अगर आप पहले ही भुगतान शुरू कर चुके हैं, तो दोबारा कोशिश करने से पहले निजी ग्राहक पोर्टल में उस ऑर्डर को जाँचें।",
+    "filexDetailsBody": "Filex अलग प्रदाता है, भले ही उसकी सब्सक्रिप्शन अवधि Opplex के किसी प्लान जितनी हो। Filex की मौजूदा कीमत की तुलना करें और सहायता टीम से एक साथ चलने वाले कनेक्शन की सीमा पूछें; सीमा न लिखी होने का मतलब असीमित इस्तेमाल नहीं है। अपनी डिवाइस का सही मॉडल और चुना हुआ प्लेयर बताएँ और ऐप के अलग लाइसेंस के बारे में भी पूछें। भुगतान से पहले Opplexify पर Filex, चुनी अवधि, मुद्रा और आखिरी कुल रकम जाँचें। पुराने भुगतान की स्थिति स्पष्ट न हो तो पहले निजी ऑर्डर सहायता लें।",
     "securityNote": "सार्वजनिक संदेशों में पासवर्ड, भुगतान कोड या निजी खाता लिंक न दें।",
     "skipContent": "मुख्य सामग्री पर जाएँ",
     "closeDialog": "विंडो बंद करें",
@@ -3085,13 +3125,13 @@
           },
           {
             "heading": "ऑर्डर से जुड़ी सहायता",
-            "body": "प्लान और निजी ऑर्डर सहायता मुख्य Opplex प्रणालियों पर हैं। भुगतान Opplexify पर होता है। तीसरे पक्ष की श्रेणियों के नाम उन ब्रांडों से आधिकारिक साझेदारी नहीं बताते।"
+            "body": "Cheap Accounts एक ऑनलाइन स्टोर है। IPTV प्लान और निजी ऑर्डर सहायता के लिए Opplex IPTV Subscription Services की केंद्रीय प्रणालियाँ इस्तेमाल होती हैं, जबकि भुगतान Opplexify पर होता है। ओटीटी और एआई कार्ड कीमत पूछने के लिए हैं; उन पर सीधे चेकआउट नहीं होता। दूसरे ब्रांडों के नाम उनके साथ आधिकारिक साझेदारी नहीं दर्शाते।"
           }
         ]
       },
       "contact": {
         "title": "Cheap Accounts से संपर्क करें",
-        "intro": "जिस सवाल का हल चाहिए उससे शुरू करें: प्लान चुनना, डिवाइस तैयार करना या मौजूदा ऑर्डर देखना।",
+        "intro": "Cheap Accounts के लिए Opplex IPTV Subscription Services की साझा सहायता उपलब्ध है। प्लान चुनने या अपनी डिवाइस तैयार करने के बारे में टीम से पूछें; मौजूदा ऑर्डर या भुगतान के लिए केंद्रीय निजी ग्राहक पोर्टल इस्तेमाल करें।",
         "sections": [
           {
             "heading": "खरीद से पहले",
