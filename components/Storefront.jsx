@@ -113,6 +113,15 @@ function ReplaceDialog({ pending, current, locale, t, onKeep, onReplace }) {
   return <div className="dialog-backdrop" onClick={onKeep}><section className="replace-dialog" ref={box} role="dialog" aria-modal="true" aria-labelledby="replace-title" aria-describedby="replace-description" onClick={event => event.stopPropagation()}><span className="dialog-icon"><Icon name="bag" size={24} /></span><h2 id="replace-title">{t('replaceTitle')}</h2><p id="replace-description">{t('replaceBody')}</p><div className="replace-comparison">{[current, pending].map((plan, index) => <div key={index}><span>{plan ? plan.service + ' IPTV' : t('planUnavailable')}</span><strong>{plan ? term(plan.duration_months, locale) : '—'}</strong>{plan && <small>{currency(plan, locale)}</small>}</div>)}</div><div className="dialog-actions"><button type="button" className="button button-outline" onClick={onKeep}>{t('keepPlan')}</button><button type="button" className="button button-primary" onClick={onReplace}>{t('replacePlan')}</button></div></section></div>;
 }
 
+function privateChatUrl(value) {
+  try {
+    const url = new URL(value), parts = decodeURIComponent(url.pathname).toLowerCase().split('/').filter(Boolean);
+    if (SUPPORTED_LOCALES.includes(parts[0])) parts.shift();
+    return ['cart', 'checkout', 'streaming-plans', 'account', 'admin', 'api'].includes(parts[0])
+      || [...url.searchParams.keys(), ...new URLSearchParams(url.hash.slice(1)).keys()].some(key => ['selection', 'signature', 'token', 'resume', 'checkout_key'].includes(key.toLowerCase()));
+  } catch { return true; }
+}
+
 export default function Storefront({ locale = 'en', slug = '', initialCatalog, homeContent, copy, breadcrumbs = [] }) {
   const router = useRouter();
   const t = key => copy[key];
@@ -140,6 +149,37 @@ export default function Storefront({ locale = 'en', slug = '', initialCatalog, h
   const requestGeneration = useRef(0);
   const manualRefreshes = useRef(new Set());
   const checkoutController = useRef(null);
+  const [chat, setChat] = useState(null);
+  const [chatAllowed, setChatAllowed] = useState(false);
+  const chatLauncher = useRef(null);
+  const chatClose = useRef(null);
+  const closeChat = useCallback(() => {
+    setChat(null);
+    requestAnimationFrame(() => chatLauncher.current?.focus());
+  }, []);
+  useEffect(() => {
+    const checkLocation = () => {
+      setChat(null);
+      setChatAllowed(slug !== 'cart' && !privateChatUrl(window.location.href));
+    };
+    checkLocation();
+    window.addEventListener('popstate', checkLocation);
+    window.addEventListener('hashchange', checkLocation);
+    window.addEventListener('pageshow', checkLocation);
+    return () => {
+      window.removeEventListener('popstate', checkLocation);
+      window.removeEventListener('hashchange', checkLocation);
+      window.removeEventListener('pageshow', checkLocation);
+    };
+  }, [locale, slug]);
+  useEffect(() => { if (pendingId !== null) setChat(null); }, [pendingId]);
+  useEffect(() => {
+    if (!chat || chat.route !== locale + ':' + slug || !chatAllowed) return;
+    chatClose.current?.focus();
+    const escape = event => { if (event.key === 'Escape') closeChat(); };
+    window.addEventListener('keydown', escape);
+    return () => window.removeEventListener('keydown', escape);
+  }, [chat, chatAllowed, locale, slug, closeChat]);
 
   const applyCatalog = useCallback(next => {
     const before = packageFor(catalogRef.current, cartRef.current), after = packageFor(next, cartRef.current);
@@ -231,6 +271,13 @@ export default function Storefront({ locale = 'en', slug = '', initialCatalog, h
     }
   };
   const selected = packageFor(catalog, cartId), pending = packageFor(catalog, pendingId);
+  const chatAvailable = chatAllowed && slug !== 'cart' && !pending;
+  const activeChat = chatAvailable && chat?.route === locale + ':' + slug;
+  const openChat = () => {
+    if (pending || slug === 'cart' || privateChatUrl(window.location.href)) return;
+    setChat({ route: locale + ':' + slug });
+  };
+
   const enquiryProduct = ENQUIRY_PRODUCTS.find(product => slug === 'categories/' + product.id);
   const enquiryCategory = ['ott', 'ai'].find(category => slug === 'categories/' + category);
   const phone = catalog?.support?.phone;
@@ -306,6 +353,8 @@ export default function Storefront({ locale = 'en', slug = '', initialCatalog, h
     </main>
     <footer className="site-footer"><div className="container footer-main"><div className="footer-brand"><Link href={pathFor(locale, '')} aria-label="Cheap Accounts"><Mark light /></Link><p>{t('footerIntro')}</p><span>{t('tagline')}</span></div><div className="footer-column"><h2>{t('shop')}</h2><Link href={pathFor(locale, 'categories/iptv')}>{t('iptv')}</Link>{categories.filter(category => !category.live).map(category => <Link key={category.id} href={pathFor(locale, 'categories/' + category.id)}>{t(category.id)}</Link>)}</div><div className="footer-column"><h2>{t('support')}</h2><Link href={pathFor(locale, 'about')}>{t('about')}</Link><Link href={pathFor(locale, 'contact')}>{t('contact')}</Link><Link href={pathFor(locale, 'faqs')}>{t('faqs')}</Link><Link href={pathFor(locale, 'buying-guide')}>{t('buyingGuide')}</Link></div><div className="footer-column"><h2>{t('legal')}</h2><Link href={pathFor(locale, 'privacy-policy')}>{t('privacy')}</Link><Link href={pathFor(locale, 'terms-of-service')}>{t('terms')}</Link><Link href={pathFor(locale, 'refund-policy')}>{t('refund')}</Link><a href={centralUrl('/account')}>{t('account')}<Icon name="arrowUp" size={13} /></a></div></div><div className="container footer-bottom"><p>© {new Date().getUTCFullYear()} Cheap Accounts</p><p>{t('sharedSupport')} {t('rights')}</p><span>Opplexify <Icon name="arrowUp" size={14} /></span></div></footer>
     {generalWhatsApp && !pending && <a className="floating-whatsapp" href={generalWhatsApp} target="_blank" rel="noopener noreferrer" aria-label={t('whatsappSupport')} title={t('whatsappSupport')}><Icon name="whatsapp" size={29} /></a>}
+    {chatAvailable && <button ref={chatLauncher} className="cheapaccounts-chat-launcher" type="button" aria-label={t('contactSupport')} title={t('contactSupport')} aria-expanded={Boolean(activeChat)} aria-controls="cheapaccounts-support-chat" onClick={activeChat ? closeChat : openChat}><Icon name="chat" size={27} /></button>}
+    {activeChat && <section className="cheapaccounts-chat-panel" id="cheapaccounts-support-chat" role="region" aria-labelledby="cheapaccounts-support-chat-heading"><div className="cheapaccounts-chat-header"><h2 id="cheapaccounts-support-chat-heading">{t('support')}</h2><button ref={chatClose} className="cheapaccounts-chat-close" type="button" aria-label={t('closeDialog')} onClick={closeChat}><Icon name="close" size={20} /></button></div><iframe title={t('contactSupport')} src="https://tawk.to/chat/6ac929cd7f1f3634beb0e4f6/1k4gsmj54" referrerPolicy="no-referrer" sandbox="allow-scripts allow-same-origin allow-forms allow-popups" /></section>}
     {pending && <ReplaceDialog pending={pending} current={selected} locale={locale} t={t} onKeep={closeReplace} onReplace={() => { persist(pending.id); closeReplace(); setNotice(t('cartAdded')); }} />}
   </div>;
 }
