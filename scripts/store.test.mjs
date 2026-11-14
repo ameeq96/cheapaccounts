@@ -43,7 +43,7 @@ test('checkout hands off package identity only to fixed central origin', () => {
   assert.equal(checkoutUrl('62'), null);
   assert.equal(checkoutUrl(-2), null);
   assert.equal(centralUrl('//evil.example'), null);
-  assert.equal(centralUrl('/contact').startsWith('https://opplexiptv.com/contact?'), true);
+  assert.equal(centralUrl('/contact').startsWith('https://opplexiptv.com/contact-us?'), true);
 });
 test('price sorting does not mutate the trusted catalogue', () => {
   const plans = [row(62, { price_amount: 7 }), row(101, { service: 'Filex', price_amount: 3 })];

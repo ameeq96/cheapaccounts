@@ -2,7 +2,6 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import Link from 'next/link';
-import { useRouter } from 'next/navigation';
 import Icon from './Icons.jsx';
 import { LANGUAGE_NAMES, SUPPORTED_LOCALES, pathFor } from '../lib/site.js';
 import { fetchCatalog } from '../lib/api.js';
@@ -123,7 +122,6 @@ function privateChatUrl(value) {
 }
 
 export default function Storefront({ locale = 'en', slug = '', initialCatalog, homeContent, copy, breadcrumbs = [] }) {
-  const router = useRouter();
   const t = key => copy[key];
   const initial = normalizeCatalog(initialCatalog, locale);
   const [catalog, setCatalog] = useState(initial);
@@ -312,7 +310,10 @@ export default function Storefront({ locale = 'en', slug = '', initialCatalog, h
     <header className="site-header"><div className="container header-main">
       <Link className="brand" href={pathFor(locale, '')} aria-label="Cheap Accounts"><Mark /></Link>
       <nav className={'main-nav' + (menuOpen ? ' is-open' : '')} id="main-nav" aria-label={t('shop')}><Link className={slug === 'shop' ? 'active' : ''} href={pathFor(locale, 'shop')}>{t('shop')}</Link>{categories.map(category => <Link key={category.id} className={slug === 'categories/' + category.id ? 'active' : ''} href={pathFor(locale, 'categories/' + category.id)}>{t(category.id)}</Link>)}<Link href={pathFor(locale, 'buying-guide')}>{t('buyingGuide')}</Link><Link href={pathFor(locale, 'contact')}>{t('support')}</Link></nav>
-      <div className="header-tools"><label className="language-control"><Icon name="globe" size={18} /><span className="sr-only">{t('language')}</span><select aria-label={t('language')} value={locale} onChange={event => { router.push(pathFor(event.target.value, slug)); }}>{SUPPORTED_LOCALES.map(code => <option key={code} value={code}>{LANGUAGE_NAMES[code]}</option>)}</select></label>
+      <div className="header-tools"><details className="language-control" onBlur={event => { if (!event.currentTarget.contains(event.relatedTarget)) event.currentTarget.open = false; }} onKeyDown={event => { if (event.key === 'Escape') { event.currentTarget.open = false; event.currentTarget.querySelector('summary')?.focus(); } }}>
+        <summary aria-label={t('language') + ': ' + LANGUAGE_NAMES[locale]}><Icon name="globe" size={18} /><span>{LANGUAGE_NAMES[locale]}</span><Icon name="chevron" size={12} /></summary>
+        <nav className="language-options" aria-label={t('language')}>{SUPPORTED_LOCALES.map(code => <Link key={code} href={pathFor(code, slug)} hrefLang={code} lang={code} aria-current={code === locale ? 'page' : undefined} onClick={event => event.currentTarget.closest('details')?.removeAttribute('open')}>{LANGUAGE_NAMES[code]}</Link>)}</nav>
+      </details>
         <a className="icon-button account-link" href={centralUrl('/account')} aria-label={t('account')}><Icon name="user" /></a>
         <Link className="icon-button cart-link" href={pathFor(locale, 'cart')} aria-label={t('cart') + (cartId ? ': 1' : '')}><Icon name="bag" /><span>{cartId ? '1' : '0'}</span></Link>
         <button className="icon-button mobile-menu-toggle" type="button" aria-expanded={menuOpen} aria-controls="main-nav" aria-label={t(menuOpen ? 'closeMenu' : 'openMenu')} onClick={() => setMenuOpen(value => !value)}><Icon name={menuOpen ? 'close' : 'menu'} /></button></div>
