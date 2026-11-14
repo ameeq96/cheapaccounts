@@ -57,7 +57,7 @@ export default async function Page({ params }) {
   if (slug) breadcrumbs.push({ name: page.title, path: pathFor(locale, slug) });
   const { seo, ...uiCopy } = copy;
   const data = [
-    { '@context': 'https://schema.org', '@type': 'Organization', '@id': origin + '/#organization', name: site.name, url: origin, logo: origin + '/favicon.svg' },
+    { '@context': 'https://schema.org', '@type': 'Organization', '@id': origin + '/#organization', name: site.name, url: origin, logo: origin + '/favicon.svg', parentOrganization: { '@type': 'Organization', name: 'Opplex IPTV Subscription Services', url: 'https://opplexiptv.com/' } },
     { '@context': 'https://schema.org', '@type': slug ? 'WebPage' : 'WebSite', name: page.title, description: seo?.[slug]?.description || page.intro, url, inLanguage: locale, publisher: { '@id': origin + '/#organization' } },
   ];
   if (breadcrumbs.length) data.push({ '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: breadcrumbs.map((item, index) => ({ '@type': 'ListItem', position: index + 1, name: item.name, item: origin + item.path })) });
