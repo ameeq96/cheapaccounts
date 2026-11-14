@@ -3,10 +3,17 @@ import Storefront from '../../components/Storefront.jsx';
 import { site, SUPPORTED_LOCALES, ROUTES, NOINDEX_ROUTES, pathFor, resolveRoute } from '../../lib/site.js';
 import { getCopy } from '../../lib/i18n.js';
 import { catalogFor } from '../../lib/server-data.js';
+import { ENQUIRY_PRODUCTS } from '../../lib/store.js';
 export const dynamicParams = false;
 const origin = 'https://' + site.domain;
 function routeCopy(copy, slug) {
   if (copy.pages?.[slug]) return copy.pages[slug];
+  const product = ENQUIRY_PRODUCTS.find(item => slug === 'products/' + item.id);
+  if (product) {
+    const parts = [product.name, product.plans.map((plan, index) => product.planKeys?.[index] ? copy[product.planKeys[index]] : plan).join(' · '), copy[product.noteKey]];
+    if (!copy[product.noteKey] || !copy[product.category] || !copy.requestPricing || /undefined/.test(parts[1])) throw new Error('Localized page metadata is missing: ' + slug);
+    return { title: product.name, intro: parts.join(' — '), search: { title: product.name + ' — ' + copy.requestPricing + ' · ' + copy[product.category], description: parts.join(' — ') } };
+  }
   const map = {
     '': [copy.homeTitle, copy.homeIntro], shop: [copy.shop, copy.homeIntro],
     'categories/iptv': [copy.iptv, copy.iptvSummary],
@@ -30,7 +37,7 @@ export async function generateMetadata({ params }) {
   const { locale, slug, valid } = resolveRoute((await params).segments);
   if (!valid) notFound();
   const page = routeCopy(getCopy(locale), slug), url = origin + pathFor(locale, slug);
-  const search = getCopy(locale).seo?.[slug] || { title: page.title, description: page.intro };
+  const search = getCopy(locale).seo?.[slug] || page.search || { title: page.title, description: page.intro };
   const title = search.title + ' | Cheap Accounts';
   return {
     metadataBase: new URL(origin), title, description: search.description,
@@ -49,7 +56,10 @@ export default async function Page({ params }) {
   const url = origin + pathFor(locale, slug);
   const breadcrumbs = slug ? [{ name: site.name, path: pathFor(locale, '') }] : [];
   if (slug.startsWith('categories/') || slug.startsWith('products/')) breadcrumbs.push({ name: copy.shop, path: pathFor(locale, 'shop') });
-  if (slug.startsWith('products/')) breadcrumbs.push({ name: copy.iptv, path: pathFor(locale, 'categories/iptv') });
+  if (slug.startsWith('products/')) {
+    const category = ENQUIRY_PRODUCTS.find(product => slug === 'products/' + product.id)?.category || 'iptv';
+    breadcrumbs.push({ name: copy[category], path: pathFor(locale, 'categories/' + category) });
+  }
   if (['categories/chatgpt', 'categories/netflix', 'categories/hbo-max'].includes(slug)) {
     const category = slug === 'categories/chatgpt' ? 'ai' : 'ott';
     breadcrumbs.push({ name: copy[category], path: pathFor(locale, 'categories/' + category) });

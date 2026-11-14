@@ -94,6 +94,7 @@ test('OTT and AI enquiries have official references and no invented sellable off
     if (product.planKeys) assert.equal(product.planKeys.length, product.plans.length);
     for (const field of ['price', 'price_amount', 'currency', 'stock', 'is_available', 'available']) assert.equal(Object.hasOwn(product, field), false);
     assert.equal(checkoutUrl(product.id), null);
+    assert.ok(ROUTES.includes('products/' + product.id)); assert.ok(!NOINDEX_ROUTES.includes('products/' + product.id));
   }
   assert.deepEqual(ENQUIRY_PRODUCTS.find(product => product.id === 'deepseek').planKeys, ['chatSetupEnquiry', 'apiUsageEnquiry']);
   for (const route of ['categories/ott', 'categories/ai']) {

@@ -68,7 +68,7 @@ for (const locale of SUPPORTED_LOCALES) {
           breadcrumbSchemas++;
           assert.deepEqual(item.itemListElement.map(({ name, item, position }, index) => { assert.equal(position, index + 1); return { name, item }; }), visibleTrail, path + ': visible and structured hierarchy match');
           assert.equal(visibleTrail[0].item, origin + pathFor(locale, ''), path + ': trail starts at localized home');
-          if (slug.startsWith('products/')) assert.deepEqual(visibleTrail.map(item => item.item), ['', 'shop', 'categories/iptv', slug].map(route => origin + pathFor(locale, route)), path + ': product hierarchy');
+          if (slug.startsWith('products/')) assert.deepEqual(visibleTrail.map(item => item.item), ['', 'shop', 'categories/' + (ENQUIRY_PRODUCTS.find(product => slug === 'products/' + product.id)?.category || 'iptv'), slug].map(route => origin + pathFor(locale, route)), path + ': product hierarchy');
         }
         if (item['@type'] === 'Product') {
           assert.ok(slug.startsWith('products/'));
@@ -105,9 +105,20 @@ for (const locale of SUPPORTED_LOCALES) {
     if (enquiryCategory) {
       for (const product of ENQUIRY_PRODUCTS.filter(item => item.category === enquiryCategory)) {
         assert.ok(html.includes('id="quote-' + product.id + '"'), path + ': product ' + product.id);
+        assert.ok(tags(html, 'a').some(t => decode(attr(t, 'href') || '') === pathFor(locale, 'products/' + product.id)), path + ': product page link ' + product.id);
         assert.ok(tags(html, 'a').some(t => decode(attr(t, 'href') || '') === product.source), path + ': official reference ' + product.id);
         assert.ok(typeof copy[product.noteKey] === 'string' && copy[product.noteKey].length > 12, path + ': localized product note');
       }
+    }
+    const enquiryPage = ENQUIRY_PRODUCTS.find(product => slug === 'products/' + product.id);
+    if (enquiryPage) {
+      const plans = enquiryPage.plans.map((plan, index) => enquiryPage.planKeys?.[index] ? copy[enquiryPage.planKeys[index]] : plan);
+      const main = html.match(/<main\b.*?<\/main>/s)?.[0] || '';
+      assert.equal(plain(main.match(/<h1\b[^>]*>(.*?)<\/h1>/s)?.[1] || ''), enquiryPage.name, path + ': product H1');
+      assert.deepEqual([...(main.match(/<div class="term-pills">(.*?)<\/div>/s)?.[1] || '').matchAll(/<span>(.*?)<\/span>/gs)].map(match => plain(match[1])), plans, path + ': plan list');
+      assert.ok(whatsappLinks.some(href => new URL(decode(href)).searchParams.get('text') === copy.whatsappProductMessage.replaceAll('{product}', enquiryPage.name).replaceAll('{plan}', plans[0])), path + ': enquiry carries product and plan');
+      assert.ok(tags(html, 'a').some(t => decode(attr(t, 'href') || '') === enquiryPage.source), path + ': official reference');
+      assert.ok(tags(main, 'a').some(t => decode(attr(t, 'href') || '') === pathFor(locale, 'categories/' + enquiryPage.category)), path + ': category link');
     }
     assert.ok(!html.includes('wa.me/undefined'));
     pages++;
@@ -121,8 +132,8 @@ const sitemap = read('sitemap.xml');
 const urls = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => decode(m[1]));
 const expected = SUPPORTED_LOCALES.flatMap(locale => ROUTES.filter(slug => !NOINDEX_ROUTES.includes(slug)).map(slug => origin + pathFor(locale, slug)));
 assert.deepEqual([...urls].sort(), expected.sort());
-assert.equal(new Set(urls).size, 140);
-assert.equal(pages, 180);
+assert.equal(new Set(urls).size, 310);
+assert.equal(pages, 350);
 assert.equal(ENQUIRY_PRODUCTS.filter(p => p.category === 'ott').length, 12);
 assert.equal(ENQUIRY_PRODUCTS.filter(p => p.category === 'ai').length, 5);
 assert.ok(!NOINDEX_ROUTES.includes('categories/ott') && !NOINDEX_ROUTES.includes('categories/ai'));
