@@ -61,6 +61,7 @@ export default async function Page({ params }) {
     { '@context': 'https://schema.org', '@type': slug ? 'WebPage' : 'WebSite', name: page.title, description: seo?.[slug]?.description || page.intro, url, inLanguage: locale, publisher: { '@id': origin + '/#organization' } },
   ];
   if (breadcrumbs.length) data.push({ '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: breadcrumbs.map((item, index) => ({ '@type': 'ListItem', position: index + 1, name: item.name, item: origin + item.path })) });
+  if (slug === 'faqs') data.push({ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: page.sections.map(section => ({ '@type': 'Question', name: section.heading, acceptedAnswer: { '@type': 'Answer', text: section.body } })) });
   if (['products/opplex-iptv', 'products/filex-iptv'].includes(slug)) {
     const provider = slug.endsWith('opplex-iptv') ? 'Opplex' : 'Filex';
     const plans = initialCatalog.packages.filter(plan => plan.service === provider && plan.is_available === true);
