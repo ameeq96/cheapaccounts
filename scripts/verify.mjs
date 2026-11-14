@@ -119,6 +119,10 @@ for (const locale of SUPPORTED_LOCALES) {
     if (enquiryPage) {
       const plans = enquiryPage.plans.map((plan, index) => enquiryPage.planKeys?.[index] ? copy[enquiryPage.planKeys[index]] : plan);
       const main = html.match(/<main\b.*?<\/main>/s)?.[0] || '';
+      const intro = copy[enquiryPage.introKey];
+      assert.ok(Array.isArray(intro) && intro.length === 2 && intro.every(sentence => typeof sentence === 'string' && sentence.length > 20), path + ': localized product introduction');
+      assert.equal(plain(main.match(/<p class="enquiry-intro">(.*?)<\/p>/s)?.[1] || ''), intro.join(' '), path + ': product introduction is rendered');
+      assert.ok(descriptionText.startsWith(intro[0]) && descriptionText.length <= 160, path + ': description opens with the product introduction');
       assert.equal(plain(main.match(/<h1\b[^>]*>(.*?)<\/h1>/s)?.[1] || ''), enquiryPage.name, path + ': product H1');
       assert.deepEqual([...(main.match(/<div class="term-pills">(.*?)<\/div>/s)?.[1] || '').matchAll(/<span>(.*?)<\/span>/gs)].map(match => plain(match[1])), plans, path + ': plan list');
       assert.ok(whatsappLinks.some(href => new URL(decode(href)).searchParams.get('text') === copy.whatsappProductMessage.replaceAll('{product}', enquiryPage.name).replaceAll('{plan}', plans[0])), path + ': enquiry carries product and plan');

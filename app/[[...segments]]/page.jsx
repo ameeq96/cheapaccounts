@@ -11,8 +11,10 @@ function routeCopy(copy, slug) {
   const product = ENQUIRY_PRODUCTS.find(item => slug === 'products/' + item.id);
   if (product) {
     const parts = [product.name, product.plans.map((plan, index) => product.planKeys?.[index] ? copy[product.planKeys[index]] : plan).join(' · '), copy[product.noteKey]];
-    if (!copy[product.noteKey] || !copy[product.category] || !copy.requestPricing || /undefined/.test(parts[1])) throw new Error('Localized page metadata is missing: ' + slug);
-    return { title: product.name, intro: parts.join(' — '), search: { title: product.name + ' — ' + copy.requestPricing + ' · ' + copy[product.category], description: parts.join(' — ') } };
+    const lead = copy[product.introKey]?.[0];
+    if (!lead || !copy[product.noteKey] || !copy[product.category] || !copy.requestPricing || /undefined/.test(parts[1])) throw new Error('Localized page metadata is missing: ' + slug);
+    const description = [lead + ' ' + parts[2], lead + ' ' + copy.requestPricing + ': ' + parts[1]].find(text => text.length <= 160) || lead;
+    return { title: product.name, intro: description, search: { title: product.name + ' — ' + copy.requestPricing + ' · ' + copy[product.category], description } };
   }
   const map = {
     '': [copy.homeTitle, copy.homeIntro], shop: [copy.shop, copy.homeIntro],

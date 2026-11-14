@@ -1,7 +1,8 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { ENQUIRY_PRODUCTS, normalizeCatalog, packageFor, plansForProvider, quoteKey, storedPackageId, checkoutUrl, centralUrl, sortPlans, whatsappUrl } from '../lib/store.js';
-import { ROUTES, NOINDEX_ROUTES, pathFor } from '../lib/site.js';
+import { ROUTES, NOINDEX_ROUTES, SUPPORTED_LOCALES, pathFor } from '../lib/site.js';
+import { getCopy } from '../lib/i18n.js';
 const row = (id = 62, changes = {}) => ({ id, type: 'iptv', service: 'Opplex', price_amount: 2.99, currency: 'USD', duration_months: 1, max_devices: 1, is_available: true, ...changes });
 const payload = packages => ({ brand: 'cheapaccounts', locale: 'en', currency: 'USD', packages, support: { email: 'support@example.test' } });
 test('only exact brand/language and valid current catalogue data is usable', () => {
@@ -95,6 +96,12 @@ test('OTT and AI enquiries have official references and no invented sellable off
     for (const field of ['price', 'price_amount', 'currency', 'stock', 'is_available', 'available']) assert.equal(Object.hasOwn(product, field), false);
     assert.equal(checkoutUrl(product.id), null);
     assert.ok(ROUTES.includes('products/' + product.id)); assert.ok(!NOINDEX_ROUTES.includes('products/' + product.id));
+  }
+  assert.equal(SUPPORTED_LOCALES.length, 10);
+  for (const locale of SUPPORTED_LOCALES) {
+    const intros = ENQUIRY_PRODUCTS.map(product => getCopy(locale)[product.introKey]);
+    for (const intro of intros) assert.ok(Array.isArray(intro) && intro.length === 2 && intro.every(sentence => typeof sentence === 'string' && sentence.trim().length > 20 && !/[$€£₹]/.test(sentence)));
+    assert.equal(new Set(intros.map(intro => intro.join(' '))).size, 17);
   }
   assert.deepEqual(ENQUIRY_PRODUCTS.find(product => product.id === 'deepseek').planKeys, ['chatSetupEnquiry', 'apiUsageEnquiry']);
   for (const route of ['categories/ott', 'categories/ai']) {

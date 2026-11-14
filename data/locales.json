@@ -279,6 +279,74 @@
     "geminiCountryAndPersonalAccount": "Confirm Google AI plan availability and personal-account eligibility in your country.",
     "grokUnifiedSubscriptionEligibility": "Confirm the current unified subscription tier and account eligibility for Grok.",
     "deepseekChatAndApiSeparate": "DeepSeek chat is free to use; API usage is charged separately. Ask about setup or API usage.",
+    "netflixIntro": [
+      "Netflix is a subscription video streaming service operated by Netflix, Inc.",
+      "This store takes Netflix pricing and availability enquiries over WhatsApp; plan names and features are set by Netflix and can vary by country, so the official plan details link on this page is the reference."
+    ],
+    "hboMaxIntro": [
+      "HBO Max is a subscription streaming service.",
+      "This store takes HBO Max pricing and availability enquiries over WhatsApp; plan names and features are set by its publisher and can vary by country, so the official plan details link on this page is the reference."
+    ],
+    "ulluIntro": [
+      "ULLU is a subscription video streaming app.",
+      "This store takes ULLU pricing and availability enquiries over WhatsApp; plan names and features are set by its publisher and can vary by country, so the official plan details link on this page is the reference."
+    ],
+    "primeVideoIntro": [
+      "Prime Video is Amazon’s video streaming service.",
+      "This store takes Prime Video pricing and availability enquiries over WhatsApp; plan names and features are set by Amazon and can vary by country, so the official plan details link on this page is the reference."
+    ],
+    "disneyPlusIntro": [
+      "Disney+ is the streaming service of The Walt Disney Company.",
+      "This store takes Disney+ pricing and availability enquiries over WhatsApp; plan names and features are set by Disney and can vary by country, so the official plan details link on this page is the reference."
+    ],
+    "appleTvIntro": [
+      "Apple TV is Apple’s subscription streaming service.",
+      "This store takes Apple TV pricing and availability enquiries over WhatsApp; plan names and features are set by Apple and can vary by country, so the official plan details link on this page is the reference."
+    ],
+    "jioHotstarIntro": [
+      "JioHotstar is a streaming service from JioStar.",
+      "This store takes JioHotstar pricing and availability enquiries over WhatsApp; plan names and features are set by JioStar and can vary by country, so the official plan details link on this page is the reference."
+    ],
+    "sonyLivIntro": [
+      "Sony LIV is an Indian streaming service from Sony Pictures Networks India.",
+      "This store takes Sony LIV pricing and availability enquiries over WhatsApp; plan names and features are set by Sony Pictures Networks India and can vary by country, so the official plan details link on this page is the reference."
+    ],
+    "zee5Intro": [
+      "ZEE5 is an Indian streaming service from Zee Entertainment.",
+      "This store takes ZEE5 pricing and availability enquiries over WhatsApp; plan names and features are set by Zee Entertainment and can vary by country, so the official plan details link on this page is the reference."
+    ],
+    "crunchyrollIntro": [
+      "Crunchyroll is a subscription anime streaming service.",
+      "This store takes Crunchyroll pricing and availability enquiries over WhatsApp; plan names and features are set by its publisher and can vary by country, so the official plan details link on this page is the reference."
+    ],
+    "paramountPlusIntro": [
+      "Paramount+ is Paramount’s subscription streaming service.",
+      "This store takes Paramount+ pricing and availability enquiries over WhatsApp; plan names and features are set by Paramount and can vary by country, so the official plan details link on this page is the reference."
+    ],
+    "peacockIntro": [
+      "Peacock is NBCUniversal’s streaming service.",
+      "This store takes Peacock pricing and availability enquiries over WhatsApp; plan names and features are set by NBCUniversal and can vary by country, so the official plan details link on this page is the reference."
+    ],
+    "chatgptIntro": [
+      "ChatGPT is an AI chat assistant developed by OpenAI.",
+      "This store takes ChatGPT pricing and availability enquiries over WhatsApp; plan names and features are set by OpenAI and can vary by country, so the official plan details link on this page is the reference."
+    ],
+    "claudeIntro": [
+      "Claude is an AI assistant developed by Anthropic.",
+      "This store takes Claude pricing and availability enquiries over WhatsApp; plan names and features are set by Anthropic and can vary by country, so the official plan details link on this page is the reference."
+    ],
+    "geminiIntro": [
+      "Gemini is Google’s AI assistant.",
+      "This store takes Gemini pricing and availability enquiries over WhatsApp; plan names and features are set by Google and can vary by country, so the official plan details link on this page is the reference."
+    ],
+    "grokIntro": [
+      "Grok is an AI assistant from xAI.",
+      "This store takes Grok pricing and availability enquiries over WhatsApp; plan names and features are set by xAI and can vary by country, so the official plan details link on this page is the reference."
+    ],
+    "deepseekIntro": [
+      "DeepSeek is an AI assistant developed by the company of the same name.",
+      "This store takes DeepSeek pricing and availability enquiries over WhatsApp; plan names and features are set by DeepSeek and can vary by country, so the official plan details link on this page is the reference."
+    ],
     "seo": {
       "": {
         "title": "IPTV Plans, OTT & AI Subscription Enquiries",
@@ -612,6 +680,74 @@
     "geminiCountryAndPersonalAccount": "Confirma la disponibilidad de Google AI y los requisitos de cuenta personal en tu país.",
     "grokUnifiedSubscriptionEligibility": "Confirma el plan de suscripción unificada actual y los requisitos de cuenta para Grok.",
     "deepseekChatAndApiSeparate": "El chat DeepSeek es gratuito; el uso de la API se cobra aparte. Consulta la configuración o el uso de la API.",
+    "netflixIntro": [
+      "Netflix es un servicio de streaming de vídeo por suscripción operado por Netflix, Inc.",
+      "Esta tienda atiende por WhatsApp consultas de precio y disponibilidad de Netflix; los nombres y las prestaciones de los planes los define Netflix y pueden variar por país, por lo que la referencia es el enlace a los detalles de los planes oficiales de esta página."
+    ],
+    "hboMaxIntro": [
+      "HBO Max es un servicio de streaming por suscripción.",
+      "Esta tienda atiende por WhatsApp consultas de precio y disponibilidad de HBO Max; los nombres y las prestaciones de los planes los define su proveedor y pueden variar por país, por lo que la referencia es el enlace a los detalles de los planes oficiales de esta página."
+    ],
+    "ulluIntro": [
+      "ULLU es una aplicación de streaming de vídeo por suscripción.",
+      "Esta tienda atiende por WhatsApp consultas de precio y disponibilidad de ULLU; los nombres y las prestaciones de los planes los define su proveedor y pueden variar por país, por lo que la referencia es el enlace a los detalles de los planes oficiales de esta página."
+    ],
+    "primeVideoIntro": [
+      "Prime Video es el servicio de streaming de vídeo de Amazon.",
+      "Esta tienda atiende por WhatsApp consultas de precio y disponibilidad de Prime Video; los nombres y las prestaciones de los planes los define Amazon y pueden variar por país, por lo que la referencia es el enlace a los detalles de los planes oficiales de esta página."
+    ],
+    "disneyPlusIntro": [
+      "Disney+ es el servicio de streaming de The Walt Disney Company.",
+      "Esta tienda atiende por WhatsApp consultas de precio y disponibilidad de Disney+; los nombres y las prestaciones de los planes los define Disney y pueden variar por país, por lo que la referencia es el enlace a los detalles de los planes oficiales de esta página."
+    ],
+    "appleTvIntro": [
+      "Apple TV es el servicio de streaming por suscripción de Apple.",
+      "Esta tienda atiende por WhatsApp consultas de precio y disponibilidad de Apple TV; los nombres y las prestaciones de los planes los define Apple y pueden variar por país, por lo que la referencia es el enlace a los detalles de los planes oficiales de esta página."
+    ],
+    "jioHotstarIntro": [
+      "JioHotstar es un servicio de streaming de JioStar.",
+      "Esta tienda atiende por WhatsApp consultas de precio y disponibilidad de JioHotstar; los nombres y las prestaciones de los planes los define JioStar y pueden variar por país, por lo que la referencia es el enlace a los detalles de los planes oficiales de esta página."
+    ],
+    "sonyLivIntro": [
+      "Sony LIV es un servicio de streaming indio de Sony Pictures Networks India.",
+      "Esta tienda atiende por WhatsApp consultas de precio y disponibilidad de Sony LIV; los nombres y las prestaciones de los planes los define Sony Pictures Networks India y pueden variar por país, por lo que la referencia es el enlace a los detalles de los planes oficiales de esta página."
+    ],
+    "zee5Intro": [
+      "ZEE5 es un servicio de streaming indio de Zee Entertainment.",
+      "Esta tienda atiende por WhatsApp consultas de precio y disponibilidad de ZEE5; los nombres y las prestaciones de los planes los define Zee Entertainment y pueden variar por país, por lo que la referencia es el enlace a los detalles de los planes oficiales de esta página."
+    ],
+    "crunchyrollIntro": [
+      "Crunchyroll es un servicio de streaming de anime por suscripción.",
+      "Esta tienda atiende por WhatsApp consultas de precio y disponibilidad de Crunchyroll; los nombres y las prestaciones de los planes los define su proveedor y pueden variar por país, por lo que la referencia es el enlace a los detalles de los planes oficiales de esta página."
+    ],
+    "paramountPlusIntro": [
+      "Paramount+ es el servicio de streaming por suscripción de Paramount.",
+      "Esta tienda atiende por WhatsApp consultas de precio y disponibilidad de Paramount+; los nombres y las prestaciones de los planes los define Paramount y pueden variar por país, por lo que la referencia es el enlace a los detalles de los planes oficiales de esta página."
+    ],
+    "peacockIntro": [
+      "Peacock es el servicio de streaming de NBCUniversal.",
+      "Esta tienda atiende por WhatsApp consultas de precio y disponibilidad de Peacock; los nombres y las prestaciones de los planes los define NBCUniversal y pueden variar por país, por lo que la referencia es el enlace a los detalles de los planes oficiales de esta página."
+    ],
+    "chatgptIntro": [
+      "ChatGPT es un asistente conversacional de IA desarrollado por OpenAI.",
+      "Esta tienda atiende por WhatsApp consultas de precio y disponibilidad de ChatGPT; los nombres y las prestaciones de los planes los define OpenAI y pueden variar por país, por lo que la referencia es el enlace a los detalles de los planes oficiales de esta página."
+    ],
+    "claudeIntro": [
+      "Claude es un asistente de IA desarrollado por Anthropic.",
+      "Esta tienda atiende por WhatsApp consultas de precio y disponibilidad de Claude; los nombres y las prestaciones de los planes los define Anthropic y pueden variar por país, por lo que la referencia es el enlace a los detalles de los planes oficiales de esta página."
+    ],
+    "geminiIntro": [
+      "Gemini es el asistente de IA de Google.",
+      "Esta tienda atiende por WhatsApp consultas de precio y disponibilidad de Gemini; los nombres y las prestaciones de los planes los define Google y pueden variar por país, por lo que la referencia es el enlace a los detalles de los planes oficiales de esta página."
+    ],
+    "grokIntro": [
+      "Grok es un asistente de IA de xAI.",
+      "Esta tienda atiende por WhatsApp consultas de precio y disponibilidad de Grok; los nombres y las prestaciones de los planes los define xAI y pueden variar por país, por lo que la referencia es el enlace a los detalles de los planes oficiales de esta página."
+    ],
+    "deepseekIntro": [
+      "DeepSeek es un asistente de IA desarrollado por la empresa del mismo nombre.",
+      "Esta tienda atiende por WhatsApp consultas de precio y disponibilidad de DeepSeek; los nombres y las prestaciones de los planes los define DeepSeek y pueden variar por país, por lo que la referencia es el enlace a los detalles de los planes oficiales de esta página."
+    ],
     "seo": {
       "": {
         "title": "Planes IPTV y consultas OTT e IA",
@@ -945,6 +1081,74 @@
     "geminiCountryAndPersonalAccount": "Confirmez la disponibilité des offres Google AI et l’éligibilité de votre compte personnel dans votre pays.",
     "grokUnifiedSubscriptionEligibility": "Confirmez la formule actuelle de l’abonnement unifié et l’éligibilité du compte pour Grok.",
     "deepseekChatAndApiSeparate": "Le chat DeepSeek est gratuit ; l’utilisation de l’API est facturée séparément. Renseignez-vous sur la configuration ou l’usage de l’API.",
+    "netflixIntro": [
+      "Netflix est un service de streaming vidéo par abonnement exploité par Netflix, Inc.",
+      "Cette boutique traite sur WhatsApp les demandes de tarif et de disponibilité pour Netflix, mais les noms et les fonctions des formules sont définis par Netflix et peuvent varier selon le pays, la référence restant le lien vers les détails des formules officielles sur cette page."
+    ],
+    "hboMaxIntro": [
+      "HBO Max est un service de streaming par abonnement.",
+      "Cette boutique traite sur WhatsApp les demandes de tarif et de disponibilité pour HBO Max, mais les noms et les fonctions des formules sont définis par son éditeur et peuvent varier selon le pays, la référence restant le lien vers les détails des formules officielles sur cette page."
+    ],
+    "ulluIntro": [
+      "ULLU est une application de streaming vidéo par abonnement.",
+      "Cette boutique traite sur WhatsApp les demandes de tarif et de disponibilité pour ULLU, mais les noms et les fonctions des formules sont définis par son éditeur et peuvent varier selon le pays, la référence restant le lien vers les détails des formules officielles sur cette page."
+    ],
+    "primeVideoIntro": [
+      "Prime Video est le service de streaming vidéo d’Amazon.",
+      "Cette boutique traite sur WhatsApp les demandes de tarif et de disponibilité pour Prime Video, mais les noms et les fonctions des formules sont définis par Amazon et peuvent varier selon le pays, la référence restant le lien vers les détails des formules officielles sur cette page."
+    ],
+    "disneyPlusIntro": [
+      "Disney+ est le service de streaming de The Walt Disney Company.",
+      "Cette boutique traite sur WhatsApp les demandes de tarif et de disponibilité pour Disney+, mais les noms et les fonctions des formules sont définis par Disney et peuvent varier selon le pays, la référence restant le lien vers les détails des formules officielles sur cette page."
+    ],
+    "appleTvIntro": [
+      "Apple TV est le service de streaming par abonnement d’Apple.",
+      "Cette boutique traite sur WhatsApp les demandes de tarif et de disponibilité pour Apple TV, mais les noms et les fonctions des formules sont définis par Apple et peuvent varier selon le pays, la référence restant le lien vers les détails des formules officielles sur cette page."
+    ],
+    "jioHotstarIntro": [
+      "JioHotstar est un service de streaming de JioStar.",
+      "Cette boutique traite sur WhatsApp les demandes de tarif et de disponibilité pour JioHotstar, mais les noms et les fonctions des formules sont définis par JioStar et peuvent varier selon le pays, la référence restant le lien vers les détails des formules officielles sur cette page."
+    ],
+    "sonyLivIntro": [
+      "Sony LIV est un service de streaming indien de Sony Pictures Networks India.",
+      "Cette boutique traite sur WhatsApp les demandes de tarif et de disponibilité pour Sony LIV, mais les noms et les fonctions des formules sont définis par Sony Pictures Networks India et peuvent varier selon le pays, la référence restant le lien vers les détails des formules officielles sur cette page."
+    ],
+    "zee5Intro": [
+      "ZEE5 est un service de streaming indien de Zee Entertainment.",
+      "Cette boutique traite sur WhatsApp les demandes de tarif et de disponibilité pour ZEE5, mais les noms et les fonctions des formules sont définis par Zee Entertainment et peuvent varier selon le pays, la référence restant le lien vers les détails des formules officielles sur cette page."
+    ],
+    "crunchyrollIntro": [
+      "Crunchyroll est un service de streaming d’anime par abonnement.",
+      "Cette boutique traite sur WhatsApp les demandes de tarif et de disponibilité pour Crunchyroll, mais les noms et les fonctions des formules sont définis par son éditeur et peuvent varier selon le pays, la référence restant le lien vers les détails des formules officielles sur cette page."
+    ],
+    "paramountPlusIntro": [
+      "Paramount+ est le service de streaming par abonnement de Paramount.",
+      "Cette boutique traite sur WhatsApp les demandes de tarif et de disponibilité pour Paramount+, mais les noms et les fonctions des formules sont définis par Paramount et peuvent varier selon le pays, la référence restant le lien vers les détails des formules officielles sur cette page."
+    ],
+    "peacockIntro": [
+      "Peacock est le service de streaming de NBCUniversal.",
+      "Cette boutique traite sur WhatsApp les demandes de tarif et de disponibilité pour Peacock, mais les noms et les fonctions des formules sont définis par NBCUniversal et peuvent varier selon le pays, la référence restant le lien vers les détails des formules officielles sur cette page."
+    ],
+    "chatgptIntro": [
+      "ChatGPT est un assistant conversationnel d’IA développé par OpenAI.",
+      "Cette boutique traite sur WhatsApp les demandes de tarif et de disponibilité pour ChatGPT, mais les noms et les fonctions des formules sont définis par OpenAI et peuvent varier selon le pays, la référence restant le lien vers les détails des formules officielles sur cette page."
+    ],
+    "claudeIntro": [
+      "Claude est un assistant d’IA développé par Anthropic.",
+      "Cette boutique traite sur WhatsApp les demandes de tarif et de disponibilité pour Claude, mais les noms et les fonctions des formules sont définis par Anthropic et peuvent varier selon le pays, la référence restant le lien vers les détails des formules officielles sur cette page."
+    ],
+    "geminiIntro": [
+      "Gemini est l’assistant d’IA de Google.",
+      "Cette boutique traite sur WhatsApp les demandes de tarif et de disponibilité pour Gemini, mais les noms et les fonctions des formules sont définis par Google et peuvent varier selon le pays, la référence restant le lien vers les détails des formules officielles sur cette page."
+    ],
+    "grokIntro": [
+      "Grok est un assistant d’IA de xAI.",
+      "Cette boutique traite sur WhatsApp les demandes de tarif et de disponibilité pour Grok, mais les noms et les fonctions des formules sont définis par xAI et peuvent varier selon le pays, la référence restant le lien vers les détails des formules officielles sur cette page."
+    ],
+    "deepseekIntro": [
+      "DeepSeek est un assistant d’IA développé par l’entreprise du même nom.",
+      "Cette boutique traite sur WhatsApp les demandes de tarif et de disponibilité pour DeepSeek, mais les noms et les fonctions des formules sont définis par DeepSeek et peuvent varier selon le pays, la référence restant le lien vers les détails des formules officielles sur cette page."
+    ],
     "seo": {
       "": {
         "title": "Offres IPTV et demandes de tarifs OTT et IA",
@@ -1278,6 +1482,74 @@
     "geminiCountryAndPersonalAccount": "Conferma la disponibilità dei piani Google AI e i requisiti dell’account personale nel tuo paese.",
     "grokUnifiedSubscriptionEligibility": "Conferma il piano attuale dell’abbonamento unificato e i requisiti dell’account per Grok.",
     "deepseekChatAndApiSeparate": "La chat DeepSeek è gratuita; l’uso dell’API viene addebitato separatamente. Chiedi della configurazione o dell’uso dell’API.",
+    "netflixIntro": [
+      "Netflix è un servizio di streaming video in abbonamento gestito da Netflix, Inc.",
+      "Questo negozio gestisce su WhatsApp le richieste di prezzo e disponibilità per Netflix; i nomi e le funzioni dei piani sono stabiliti da Netflix e possono cambiare per paese, quindi il riferimento è il link ai dettagli dei piani ufficiali in questa pagina."
+    ],
+    "hboMaxIntro": [
+      "HBO Max è un servizio di streaming in abbonamento.",
+      "Questo negozio gestisce su WhatsApp le richieste di prezzo e disponibilità per HBO Max; i nomi e le funzioni dei piani sono stabiliti dal suo editore e possono cambiare per paese, quindi il riferimento è il link ai dettagli dei piani ufficiali in questa pagina."
+    ],
+    "ulluIntro": [
+      "ULLU è un’app di streaming video in abbonamento.",
+      "Questo negozio gestisce su WhatsApp le richieste di prezzo e disponibilità per ULLU; i nomi e le funzioni dei piani sono stabiliti dal suo editore e possono cambiare per paese, quindi il riferimento è il link ai dettagli dei piani ufficiali in questa pagina."
+    ],
+    "primeVideoIntro": [
+      "Prime Video è il servizio di streaming video di Amazon.",
+      "Questo negozio gestisce su WhatsApp le richieste di prezzo e disponibilità per Prime Video; i nomi e le funzioni dei piani sono stabiliti da Amazon e possono cambiare per paese, quindi il riferimento è il link ai dettagli dei piani ufficiali in questa pagina."
+    ],
+    "disneyPlusIntro": [
+      "Disney+ è il servizio di streaming di The Walt Disney Company.",
+      "Questo negozio gestisce su WhatsApp le richieste di prezzo e disponibilità per Disney+; i nomi e le funzioni dei piani sono stabiliti da Disney e possono cambiare per paese, quindi il riferimento è il link ai dettagli dei piani ufficiali in questa pagina."
+    ],
+    "appleTvIntro": [
+      "Apple TV è il servizio di streaming in abbonamento di Apple.",
+      "Questo negozio gestisce su WhatsApp le richieste di prezzo e disponibilità per Apple TV; i nomi e le funzioni dei piani sono stabiliti da Apple e possono cambiare per paese, quindi il riferimento è il link ai dettagli dei piani ufficiali in questa pagina."
+    ],
+    "jioHotstarIntro": [
+      "JioHotstar è un servizio di streaming di JioStar.",
+      "Questo negozio gestisce su WhatsApp le richieste di prezzo e disponibilità per JioHotstar; i nomi e le funzioni dei piani sono stabiliti da JioStar e possono cambiare per paese, quindi il riferimento è il link ai dettagli dei piani ufficiali in questa pagina."
+    ],
+    "sonyLivIntro": [
+      "Sony LIV è un servizio di streaming indiano di Sony Pictures Networks India.",
+      "Questo negozio gestisce su WhatsApp le richieste di prezzo e disponibilità per Sony LIV; i nomi e le funzioni dei piani sono stabiliti da Sony Pictures Networks India e possono cambiare per paese, quindi il riferimento è il link ai dettagli dei piani ufficiali in questa pagina."
+    ],
+    "zee5Intro": [
+      "ZEE5 è un servizio di streaming indiano di Zee Entertainment.",
+      "Questo negozio gestisce su WhatsApp le richieste di prezzo e disponibilità per ZEE5; i nomi e le funzioni dei piani sono stabiliti da Zee Entertainment e possono cambiare per paese, quindi il riferimento è il link ai dettagli dei piani ufficiali in questa pagina."
+    ],
+    "crunchyrollIntro": [
+      "Crunchyroll è un servizio di streaming di anime in abbonamento.",
+      "Questo negozio gestisce su WhatsApp le richieste di prezzo e disponibilità per Crunchyroll; i nomi e le funzioni dei piani sono stabiliti dal suo editore e possono cambiare per paese, quindi il riferimento è il link ai dettagli dei piani ufficiali in questa pagina."
+    ],
+    "paramountPlusIntro": [
+      "Paramount+ è il servizio di streaming in abbonamento di Paramount.",
+      "Questo negozio gestisce su WhatsApp le richieste di prezzo e disponibilità per Paramount+; i nomi e le funzioni dei piani sono stabiliti da Paramount e possono cambiare per paese, quindi il riferimento è il link ai dettagli dei piani ufficiali in questa pagina."
+    ],
+    "peacockIntro": [
+      "Peacock è il servizio di streaming di NBCUniversal.",
+      "Questo negozio gestisce su WhatsApp le richieste di prezzo e disponibilità per Peacock; i nomi e le funzioni dei piani sono stabiliti da NBCUniversal e possono cambiare per paese, quindi il riferimento è il link ai dettagli dei piani ufficiali in questa pagina."
+    ],
+    "chatgptIntro": [
+      "ChatGPT è un assistente conversazionale di IA sviluppato da OpenAI.",
+      "Questo negozio gestisce su WhatsApp le richieste di prezzo e disponibilità per ChatGPT; i nomi e le funzioni dei piani sono stabiliti da OpenAI e possono cambiare per paese, quindi il riferimento è il link ai dettagli dei piani ufficiali in questa pagina."
+    ],
+    "claudeIntro": [
+      "Claude è un assistente di IA sviluppato da Anthropic.",
+      "Questo negozio gestisce su WhatsApp le richieste di prezzo e disponibilità per Claude; i nomi e le funzioni dei piani sono stabiliti da Anthropic e possono cambiare per paese, quindi il riferimento è il link ai dettagli dei piani ufficiali in questa pagina."
+    ],
+    "geminiIntro": [
+      "Gemini è l’assistente di IA di Google.",
+      "Questo negozio gestisce su WhatsApp le richieste di prezzo e disponibilità per Gemini; i nomi e le funzioni dei piani sono stabiliti da Google e possono cambiare per paese, quindi il riferimento è il link ai dettagli dei piani ufficiali in questa pagina."
+    ],
+    "grokIntro": [
+      "Grok è un assistente di IA di xAI.",
+      "Questo negozio gestisce su WhatsApp le richieste di prezzo e disponibilità per Grok; i nomi e le funzioni dei piani sono stabiliti da xAI e possono cambiare per paese, quindi il riferimento è il link ai dettagli dei piani ufficiali in questa pagina."
+    ],
+    "deepseekIntro": [
+      "DeepSeek è un assistente di IA sviluppato dall’omonima azienda.",
+      "Questo negozio gestisce su WhatsApp le richieste di prezzo e disponibilità per DeepSeek; i nomi e le funzioni dei piani sono stabiliti da DeepSeek e possono cambiare per paese, quindi il riferimento è il link ai dettagli dei piani ufficiali in questa pagina."
+    ],
     "seo": {
       "": {
         "title": "Piani IPTV e richieste OTT e IA",
@@ -1611,6 +1883,74 @@
     "geminiCountryAndPersonalAccount": "Bevestig de beschikbaarheid van Google AI-abonnementen en de voorwaarden voor persoonlijke accounts in je land.",
     "grokUnifiedSubscriptionEligibility": "Bevestig het huidige gecombineerde abonnement en de accountvoorwaarden voor Grok.",
     "deepseekChatAndApiSeparate": "De DeepSeek-chat is gratis; API-gebruik wordt apart berekend. Vraag naar instellingen of API-gebruik.",
+    "netflixIntro": [
+      "Netflix is een videostreamingdienst op abonnementsbasis van Netflix, Inc.",
+      "Deze winkel behandelt via WhatsApp prijs- en beschikbaarheidsaanvragen voor Netflix; de namen en functies van abonnementen worden bepaald door Netflix en kunnen per land verschillen, dus de link naar de officiële abonnementsinformatie op deze pagina is de referentie."
+    ],
+    "hboMaxIntro": [
+      "HBO Max is een streamingdienst op abonnementsbasis.",
+      "Deze winkel behandelt via WhatsApp prijs- en beschikbaarheidsaanvragen voor HBO Max; de namen en functies van abonnementen worden bepaald door de aanbieder en kunnen per land verschillen, dus de link naar de officiële abonnementsinformatie op deze pagina is de referentie."
+    ],
+    "ulluIntro": [
+      "ULLU is een videostreamingapp op abonnementsbasis.",
+      "Deze winkel behandelt via WhatsApp prijs- en beschikbaarheidsaanvragen voor ULLU; de namen en functies van abonnementen worden bepaald door de aanbieder en kunnen per land verschillen, dus de link naar de officiële abonnementsinformatie op deze pagina is de referentie."
+    ],
+    "primeVideoIntro": [
+      "Prime Video is de videostreamingdienst van Amazon.",
+      "Deze winkel behandelt via WhatsApp prijs- en beschikbaarheidsaanvragen voor Prime Video; de namen en functies van abonnementen worden bepaald door Amazon en kunnen per land verschillen, dus de link naar de officiële abonnementsinformatie op deze pagina is de referentie."
+    ],
+    "disneyPlusIntro": [
+      "Disney+ is de streamingdienst van The Walt Disney Company.",
+      "Deze winkel behandelt via WhatsApp prijs- en beschikbaarheidsaanvragen voor Disney+; de namen en functies van abonnementen worden bepaald door Disney en kunnen per land verschillen, dus de link naar de officiële abonnementsinformatie op deze pagina is de referentie."
+    ],
+    "appleTvIntro": [
+      "Apple TV is de streamingdienst op abonnementsbasis van Apple.",
+      "Deze winkel behandelt via WhatsApp prijs- en beschikbaarheidsaanvragen voor Apple TV; de namen en functies van abonnementen worden bepaald door Apple en kunnen per land verschillen, dus de link naar de officiële abonnementsinformatie op deze pagina is de referentie."
+    ],
+    "jioHotstarIntro": [
+      "JioHotstar is een streamingdienst van JioStar.",
+      "Deze winkel behandelt via WhatsApp prijs- en beschikbaarheidsaanvragen voor JioHotstar; de namen en functies van abonnementen worden bepaald door JioStar en kunnen per land verschillen, dus de link naar de officiële abonnementsinformatie op deze pagina is de referentie."
+    ],
+    "sonyLivIntro": [
+      "Sony LIV is een Indiase streamingdienst van Sony Pictures Networks India.",
+      "Deze winkel behandelt via WhatsApp prijs- en beschikbaarheidsaanvragen voor Sony LIV; de namen en functies van abonnementen worden bepaald door Sony Pictures Networks India en kunnen per land verschillen, dus de link naar de officiële abonnementsinformatie op deze pagina is de referentie."
+    ],
+    "zee5Intro": [
+      "ZEE5 is een Indiase streamingdienst van Zee Entertainment.",
+      "Deze winkel behandelt via WhatsApp prijs- en beschikbaarheidsaanvragen voor ZEE5; de namen en functies van abonnementen worden bepaald door Zee Entertainment en kunnen per land verschillen, dus de link naar de officiële abonnementsinformatie op deze pagina is de referentie."
+    ],
+    "crunchyrollIntro": [
+      "Crunchyroll is een streamingdienst voor anime op abonnementsbasis.",
+      "Deze winkel behandelt via WhatsApp prijs- en beschikbaarheidsaanvragen voor Crunchyroll; de namen en functies van abonnementen worden bepaald door de aanbieder en kunnen per land verschillen, dus de link naar de officiële abonnementsinformatie op deze pagina is de referentie."
+    ],
+    "paramountPlusIntro": [
+      "Paramount+ is de streamingdienst op abonnementsbasis van Paramount.",
+      "Deze winkel behandelt via WhatsApp prijs- en beschikbaarheidsaanvragen voor Paramount+; de namen en functies van abonnementen worden bepaald door Paramount en kunnen per land verschillen, dus de link naar de officiële abonnementsinformatie op deze pagina is de referentie."
+    ],
+    "peacockIntro": [
+      "Peacock is de streamingdienst van NBCUniversal.",
+      "Deze winkel behandelt via WhatsApp prijs- en beschikbaarheidsaanvragen voor Peacock; de namen en functies van abonnementen worden bepaald door NBCUniversal en kunnen per land verschillen, dus de link naar de officiële abonnementsinformatie op deze pagina is de referentie."
+    ],
+    "chatgptIntro": [
+      "ChatGPT is een AI-chatassistent die is ontwikkeld door OpenAI.",
+      "Deze winkel behandelt via WhatsApp prijs- en beschikbaarheidsaanvragen voor ChatGPT; de namen en functies van abonnementen worden bepaald door OpenAI en kunnen per land verschillen, dus de link naar de officiële abonnementsinformatie op deze pagina is de referentie."
+    ],
+    "claudeIntro": [
+      "Claude is een AI-assistent die is ontwikkeld door Anthropic.",
+      "Deze winkel behandelt via WhatsApp prijs- en beschikbaarheidsaanvragen voor Claude; de namen en functies van abonnementen worden bepaald door Anthropic en kunnen per land verschillen, dus de link naar de officiële abonnementsinformatie op deze pagina is de referentie."
+    ],
+    "geminiIntro": [
+      "Gemini is de AI-assistent van Google.",
+      "Deze winkel behandelt via WhatsApp prijs- en beschikbaarheidsaanvragen voor Gemini; de namen en functies van abonnementen worden bepaald door Google en kunnen per land verschillen, dus de link naar de officiële abonnementsinformatie op deze pagina is de referentie."
+    ],
+    "grokIntro": [
+      "Grok is een AI-assistent van xAI.",
+      "Deze winkel behandelt via WhatsApp prijs- en beschikbaarheidsaanvragen voor Grok; de namen en functies van abonnementen worden bepaald door xAI en kunnen per land verschillen, dus de link naar de officiële abonnementsinformatie op deze pagina is de referentie."
+    ],
+    "deepseekIntro": [
+      "DeepSeek is een AI-assistent die is ontwikkeld door het gelijknamige bedrijf.",
+      "Deze winkel behandelt via WhatsApp prijs- en beschikbaarheidsaanvragen voor DeepSeek; de namen en functies van abonnementen worden bepaald door DeepSeek en kunnen per land verschillen, dus de link naar de officiële abonnementsinformatie op deze pagina is de referentie."
+    ],
     "seo": {
       "": {
         "title": "IPTV-abonnementen en OTT- en AI-prijsaanvragen",
@@ -1944,6 +2284,74 @@
     "geminiCountryAndPersonalAccount": "Confirme a disponibilidade dos planos Google AI e os requisitos de conta pessoal no seu país.",
     "grokUnifiedSubscriptionEligibility": "Confirme o plano atual da assinatura unificada e os requisitos de conta para o Grok.",
     "deepseekChatAndApiSeparate": "O chat DeepSeek é gratuito; o uso da API é cobrado à parte. Consulte a configuração ou o uso da API.",
+    "netflixIntro": [
+      "Netflix é um serviço de streaming de vídeo por assinatura operado pela Netflix, Inc.",
+      "Esta loja recebe pelo WhatsApp consultas de preço e disponibilidade de Netflix; os nomes e as funções dos planos são definidos pela Netflix e podem variar por país, por isso a referência é o link dos detalhes dos planos oficiais nesta página."
+    ],
+    "hboMaxIntro": [
+      "HBO Max é um serviço de streaming por assinatura.",
+      "Esta loja recebe pelo WhatsApp consultas de preço e disponibilidade de HBO Max; os nomes e as funções dos planos são definidos pelo fornecedor e podem variar por país, por isso a referência é o link dos detalhes dos planos oficiais nesta página."
+    ],
+    "ulluIntro": [
+      "ULLU é um aplicativo de streaming de vídeo por assinatura.",
+      "Esta loja recebe pelo WhatsApp consultas de preço e disponibilidade de ULLU; os nomes e as funções dos planos são definidos pelo fornecedor e podem variar por país, por isso a referência é o link dos detalhes dos planos oficiais nesta página."
+    ],
+    "primeVideoIntro": [
+      "Prime Video é o serviço de streaming de vídeo da Amazon.",
+      "Esta loja recebe pelo WhatsApp consultas de preço e disponibilidade de Prime Video; os nomes e as funções dos planos são definidos pela Amazon e podem variar por país, por isso a referência é o link dos detalhes dos planos oficiais nesta página."
+    ],
+    "disneyPlusIntro": [
+      "Disney+ é o serviço de streaming da The Walt Disney Company.",
+      "Esta loja recebe pelo WhatsApp consultas de preço e disponibilidade de Disney+; os nomes e as funções dos planos são definidos pela Disney e podem variar por país, por isso a referência é o link dos detalhes dos planos oficiais nesta página."
+    ],
+    "appleTvIntro": [
+      "Apple TV é o serviço de streaming por assinatura da Apple.",
+      "Esta loja recebe pelo WhatsApp consultas de preço e disponibilidade de Apple TV; os nomes e as funções dos planos são definidos pela Apple e podem variar por país, por isso a referência é o link dos detalhes dos planos oficiais nesta página."
+    ],
+    "jioHotstarIntro": [
+      "JioHotstar é um serviço de streaming da JioStar.",
+      "Esta loja recebe pelo WhatsApp consultas de preço e disponibilidade de JioHotstar; os nomes e as funções dos planos são definidos pela JioStar e podem variar por país, por isso a referência é o link dos detalhes dos planos oficiais nesta página."
+    ],
+    "sonyLivIntro": [
+      "Sony LIV é um serviço de streaming indiano da Sony Pictures Networks India.",
+      "Esta loja recebe pelo WhatsApp consultas de preço e disponibilidade de Sony LIV; os nomes e as funções dos planos são definidos pela Sony Pictures Networks India e podem variar por país, por isso a referência é o link dos detalhes dos planos oficiais nesta página."
+    ],
+    "zee5Intro": [
+      "ZEE5 é um serviço de streaming indiano da Zee Entertainment.",
+      "Esta loja recebe pelo WhatsApp consultas de preço e disponibilidade de ZEE5; os nomes e as funções dos planos são definidos pela Zee Entertainment e podem variar por país, por isso a referência é o link dos detalhes dos planos oficiais nesta página."
+    ],
+    "crunchyrollIntro": [
+      "Crunchyroll é um serviço de streaming de anime por assinatura.",
+      "Esta loja recebe pelo WhatsApp consultas de preço e disponibilidade de Crunchyroll; os nomes e as funções dos planos são definidos pelo fornecedor e podem variar por país, por isso a referência é o link dos detalhes dos planos oficiais nesta página."
+    ],
+    "paramountPlusIntro": [
+      "Paramount+ é o serviço de streaming por assinatura da Paramount.",
+      "Esta loja recebe pelo WhatsApp consultas de preço e disponibilidade de Paramount+; os nomes e as funções dos planos são definidos pela Paramount e podem variar por país, por isso a referência é o link dos detalhes dos planos oficiais nesta página."
+    ],
+    "peacockIntro": [
+      "Peacock é o serviço de streaming da NBCUniversal.",
+      "Esta loja recebe pelo WhatsApp consultas de preço e disponibilidade de Peacock; os nomes e as funções dos planos são definidos pela NBCUniversal e podem variar por país, por isso a referência é o link dos detalhes dos planos oficiais nesta página."
+    ],
+    "chatgptIntro": [
+      "ChatGPT é um assistente de conversa com IA desenvolvido pela OpenAI.",
+      "Esta loja recebe pelo WhatsApp consultas de preço e disponibilidade de ChatGPT; os nomes e as funções dos planos são definidos pela OpenAI e podem variar por país, por isso a referência é o link dos detalhes dos planos oficiais nesta página."
+    ],
+    "claudeIntro": [
+      "Claude é um assistente de IA desenvolvido pela Anthropic.",
+      "Esta loja recebe pelo WhatsApp consultas de preço e disponibilidade de Claude; os nomes e as funções dos planos são definidos pela Anthropic e podem variar por país, por isso a referência é o link dos detalhes dos planos oficiais nesta página."
+    ],
+    "geminiIntro": [
+      "Gemini é o assistente de IA do Google.",
+      "Esta loja recebe pelo WhatsApp consultas de preço e disponibilidade de Gemini; os nomes e as funções dos planos são definidos pelo Google e podem variar por país, por isso a referência é o link dos detalhes dos planos oficiais nesta página."
+    ],
+    "grokIntro": [
+      "Grok é um assistente de IA da xAI.",
+      "Esta loja recebe pelo WhatsApp consultas de preço e disponibilidade de Grok; os nomes e as funções dos planos são definidos pela xAI e podem variar por país, por isso a referência é o link dos detalhes dos planos oficiais nesta página."
+    ],
+    "deepseekIntro": [
+      "DeepSeek é um assistente de IA desenvolvido pela empresa de mesmo nome.",
+      "Esta loja recebe pelo WhatsApp consultas de preço e disponibilidade de DeepSeek; os nomes e as funções dos planos são definidos pela DeepSeek e podem variar por país, por isso a referência é o link dos detalhes dos planos oficiais nesta página."
+    ],
     "seo": {
       "": {
         "title": "Planos IPTV e consultas OTT e IA",
@@ -2277,6 +2685,74 @@
     "geminiCountryAndPersonalAccount": "Уточните доступность Google AI и требования к личному аккаунту в вашей стране.",
     "grokUnifiedSubscriptionEligibility": "Уточните текущий тариф единой подписки и требования к аккаунту для Grok.",
     "deepseekChatAndApiSeparate": "Чат DeepSeek бесплатный; использование API оплачивается отдельно. Узнайте о настройке чата или использовании API.",
+    "netflixIntro": [
+      "Netflix — видеостриминговый сервис по подписке, которым управляет компания Netflix, Inc.",
+      "Этот магазин принимает в WhatsApp запросы о цене и доступности Netflix; названия и функции тарифов определяет Netflix, и они могут различаться по странам, поэтому ориентиром служит ссылка на официальную информацию о тарифах на этой странице."
+    ],
+    "hboMaxIntro": [
+      "HBO Max — стриминговый сервис по подписке.",
+      "Этот магазин принимает в WhatsApp запросы о цене и доступности HBO Max; названия и функции тарифов определяет поставщик сервиса, и они могут различаться по странам, поэтому ориентиром служит ссылка на официальную информацию о тарифах на этой странице."
+    ],
+    "ulluIntro": [
+      "ULLU — приложение для видеостриминга по подписке.",
+      "Этот магазин принимает в WhatsApp запросы о цене и доступности ULLU; названия и функции тарифов определяет поставщик сервиса, и они могут различаться по странам, поэтому ориентиром служит ссылка на официальную информацию о тарифах на этой странице."
+    ],
+    "primeVideoIntro": [
+      "Prime Video — видеостриминговый сервис компании Amazon.",
+      "Этот магазин принимает в WhatsApp запросы о цене и доступности Prime Video; названия и функции тарифов определяет Amazon, и они могут различаться по странам, поэтому ориентиром служит ссылка на официальную информацию о тарифах на этой странице."
+    ],
+    "disneyPlusIntro": [
+      "Disney+ — стриминговый сервис компании The Walt Disney Company.",
+      "Этот магазин принимает в WhatsApp запросы о цене и доступности Disney+; названия и функции тарифов определяет Disney, и они могут различаться по странам, поэтому ориентиром служит ссылка на официальную информацию о тарифах на этой странице."
+    ],
+    "appleTvIntro": [
+      "Apple TV — стриминговый сервис Apple по подписке.",
+      "Этот магазин принимает в WhatsApp запросы о цене и доступности Apple TV; названия и функции тарифов определяет Apple, и они могут различаться по странам, поэтому ориентиром служит ссылка на официальную информацию о тарифах на этой странице."
+    ],
+    "jioHotstarIntro": [
+      "JioHotstar — стриминговый сервис компании JioStar.",
+      "Этот магазин принимает в WhatsApp запросы о цене и доступности JioHotstar; названия и функции тарифов определяет JioStar, и они могут различаться по странам, поэтому ориентиром служит ссылка на официальную информацию о тарифах на этой странице."
+    ],
+    "sonyLivIntro": [
+      "Sony LIV — индийский стриминговый сервис компании Sony Pictures Networks India.",
+      "Этот магазин принимает в WhatsApp запросы о цене и доступности Sony LIV; названия и функции тарифов определяет Sony Pictures Networks India, и они могут различаться по странам, поэтому ориентиром служит ссылка на официальную информацию о тарифах на этой странице."
+    ],
+    "zee5Intro": [
+      "ZEE5 — индийский стриминговый сервис компании Zee Entertainment.",
+      "Этот магазин принимает в WhatsApp запросы о цене и доступности ZEE5; названия и функции тарифов определяет Zee Entertainment, и они могут различаться по странам, поэтому ориентиром служит ссылка на официальную информацию о тарифах на этой странице."
+    ],
+    "crunchyrollIntro": [
+      "Crunchyroll — стриминговый сервис аниме по подписке.",
+      "Этот магазин принимает в WhatsApp запросы о цене и доступности Crunchyroll; названия и функции тарифов определяет поставщик сервиса, и они могут различаться по странам, поэтому ориентиром служит ссылка на официальную информацию о тарифах на этой странице."
+    ],
+    "paramountPlusIntro": [
+      "Paramount+ — стриминговый сервис Paramount по подписке.",
+      "Этот магазин принимает в WhatsApp запросы о цене и доступности Paramount+; названия и функции тарифов определяет Paramount, и они могут различаться по странам, поэтому ориентиром служит ссылка на официальную информацию о тарифах на этой странице."
+    ],
+    "peacockIntro": [
+      "Peacock — стриминговый сервис компании NBCUniversal.",
+      "Этот магазин принимает в WhatsApp запросы о цене и доступности Peacock; названия и функции тарифов определяет NBCUniversal, и они могут различаться по странам, поэтому ориентиром служит ссылка на официальную информацию о тарифах на этой странице."
+    ],
+    "chatgptIntro": [
+      "ChatGPT — чат-ассистент на основе ИИ, разработанный OpenAI.",
+      "Этот магазин принимает в WhatsApp запросы о цене и доступности ChatGPT; названия и функции тарифов определяет OpenAI, и они могут различаться по странам, поэтому ориентиром служит ссылка на официальную информацию о тарифах на этой странице."
+    ],
+    "claudeIntro": [
+      "Claude — ИИ-ассистент, разработанный Anthropic.",
+      "Этот магазин принимает в WhatsApp запросы о цене и доступности Claude; названия и функции тарифов определяет Anthropic, и они могут различаться по странам, поэтому ориентиром служит ссылка на официальную информацию о тарифах на этой странице."
+    ],
+    "geminiIntro": [
+      "Gemini — ИИ-ассистент Google.",
+      "Этот магазин принимает в WhatsApp запросы о цене и доступности Gemini; названия и функции тарифов определяет Google, и они могут различаться по странам, поэтому ориентиром служит ссылка на официальную информацию о тарифах на этой странице."
+    ],
+    "grokIntro": [
+      "Grok — ИИ-ассистент компании xAI.",
+      "Этот магазин принимает в WhatsApp запросы о цене и доступности Grok; названия и функции тарифов определяет xAI, и они могут различаться по странам, поэтому ориентиром служит ссылка на официальную информацию о тарифах на этой странице."
+    ],
+    "deepseekIntro": [
+      "DeepSeek — ИИ-ассистент, разработанный одноимённой компанией.",
+      "Этот магазин принимает в WhatsApp запросы о цене и доступности DeepSeek; названия и функции тарифов определяет DeepSeek, и они могут различаться по странам, поэтому ориентиром служит ссылка на официальную информацию о тарифах на этой странице."
+    ],
     "seo": {
       "": {
         "title": "Планы IPTV и запросы на стриминг и ИИ",
@@ -2610,6 +3086,74 @@
     "geminiCountryAndPersonalAccount": "اپنے ملک میں Google AI پلان کی دستیابی اور ذاتی اکاؤنٹ کی اہلیت کی تصدیق کریں۔",
     "grokUnifiedSubscriptionEligibility": "Grok کے لیے موجودہ مشترکہ سبسکرپشن پلان اور اکاؤنٹ کی اہلیت کی تصدیق کریں۔",
     "deepseekChatAndApiSeparate": "DeepSeek چیٹ مفت ہے؛ API کے استعمال کے الگ چارجز ہیں۔ سیٹ اپ یا API کے استعمال کے بارے میں پوچھیں۔",
+    "netflixIntro": [
+      "Netflix سبسکرپشن پر مبنی ویڈیو اسٹریمنگ سروس ہے جسے Netflix, Inc. چلاتی ہے۔",
+      "یہ اسٹور WhatsApp پر Netflix کی قیمت اور دستیابی سے متعلق سوالات لیتا ہے؛ پلانز کے نام اور سہولتیں Netflix طے کرتا ہے اور یہ ملک کے مطابق بدل سکتی ہیں، اس لیے اس صفحے پر موجود اصل پلانز کی تفصیل کا لنک ہی حوالہ ہے۔"
+    ],
+    "hboMaxIntro": [
+      "HBO Max سبسکرپشن پر مبنی اسٹریمنگ سروس ہے۔",
+      "یہ اسٹور WhatsApp پر HBO Max کی قیمت اور دستیابی سے متعلق سوالات لیتا ہے؛ پلانز کے نام اور سہولتیں اس کا ناشر طے کرتا ہے اور یہ ملک کے مطابق بدل سکتی ہیں، اس لیے اس صفحے پر موجود اصل پلانز کی تفصیل کا لنک ہی حوالہ ہے۔"
+    ],
+    "ulluIntro": [
+      "ULLU سبسکرپشن پر مبنی ویڈیو اسٹریمنگ ایپ ہے۔",
+      "یہ اسٹور WhatsApp پر ULLU کی قیمت اور دستیابی سے متعلق سوالات لیتا ہے؛ پلانز کے نام اور سہولتیں اس کا ناشر طے کرتا ہے اور یہ ملک کے مطابق بدل سکتی ہیں، اس لیے اس صفحے پر موجود اصل پلانز کی تفصیل کا لنک ہی حوالہ ہے۔"
+    ],
+    "primeVideoIntro": [
+      "Prime Video، Amazon کی ویڈیو اسٹریمنگ سروس ہے۔",
+      "یہ اسٹور WhatsApp پر Prime Video کی قیمت اور دستیابی سے متعلق سوالات لیتا ہے؛ پلانز کے نام اور سہولتیں Amazon طے کرتا ہے اور یہ ملک کے مطابق بدل سکتی ہیں، اس لیے اس صفحے پر موجود اصل پلانز کی تفصیل کا لنک ہی حوالہ ہے۔"
+    ],
+    "disneyPlusIntro": [
+      "Disney+، The Walt Disney Company کی اسٹریمنگ سروس ہے۔",
+      "یہ اسٹور WhatsApp پر Disney+ کی قیمت اور دستیابی سے متعلق سوالات لیتا ہے؛ پلانز کے نام اور سہولتیں Disney طے کرتا ہے اور یہ ملک کے مطابق بدل سکتی ہیں، اس لیے اس صفحے پر موجود اصل پلانز کی تفصیل کا لنک ہی حوالہ ہے۔"
+    ],
+    "appleTvIntro": [
+      "Apple TV، Apple کی سبسکرپشن پر مبنی اسٹریمنگ سروس ہے۔",
+      "یہ اسٹور WhatsApp پر Apple TV کی قیمت اور دستیابی سے متعلق سوالات لیتا ہے؛ پلانز کے نام اور سہولتیں Apple طے کرتا ہے اور یہ ملک کے مطابق بدل سکتی ہیں، اس لیے اس صفحے پر موجود اصل پلانز کی تفصیل کا لنک ہی حوالہ ہے۔"
+    ],
+    "jioHotstarIntro": [
+      "JioHotstar، JioStar کی اسٹریمنگ سروس ہے۔",
+      "یہ اسٹور WhatsApp پر JioHotstar کی قیمت اور دستیابی سے متعلق سوالات لیتا ہے؛ پلانز کے نام اور سہولتیں JioStar طے کرتا ہے اور یہ ملک کے مطابق بدل سکتی ہیں، اس لیے اس صفحے پر موجود اصل پلانز کی تفصیل کا لنک ہی حوالہ ہے۔"
+    ],
+    "sonyLivIntro": [
+      "Sony LIV، Sony Pictures Networks India کی بھارتی اسٹریمنگ سروس ہے۔",
+      "یہ اسٹور WhatsApp پر Sony LIV کی قیمت اور دستیابی سے متعلق سوالات لیتا ہے؛ پلانز کے نام اور سہولتیں Sony Pictures Networks India طے کرتا ہے اور یہ ملک کے مطابق بدل سکتی ہیں، اس لیے اس صفحے پر موجود اصل پلانز کی تفصیل کا لنک ہی حوالہ ہے۔"
+    ],
+    "zee5Intro": [
+      "ZEE5، Zee Entertainment کی بھارتی اسٹریمنگ سروس ہے۔",
+      "یہ اسٹور WhatsApp پر ZEE5 کی قیمت اور دستیابی سے متعلق سوالات لیتا ہے؛ پلانز کے نام اور سہولتیں Zee Entertainment طے کرتا ہے اور یہ ملک کے مطابق بدل سکتی ہیں، اس لیے اس صفحے پر موجود اصل پلانز کی تفصیل کا لنک ہی حوالہ ہے۔"
+    ],
+    "crunchyrollIntro": [
+      "Crunchyroll سبسکرپشن پر مبنی اینیمے اسٹریمنگ سروس ہے۔",
+      "یہ اسٹور WhatsApp پر Crunchyroll کی قیمت اور دستیابی سے متعلق سوالات لیتا ہے؛ پلانز کے نام اور سہولتیں اس کا ناشر طے کرتا ہے اور یہ ملک کے مطابق بدل سکتی ہیں، اس لیے اس صفحے پر موجود اصل پلانز کی تفصیل کا لنک ہی حوالہ ہے۔"
+    ],
+    "paramountPlusIntro": [
+      "Paramount+، Paramount کی سبسکرپشن پر مبنی اسٹریمنگ سروس ہے۔",
+      "یہ اسٹور WhatsApp پر Paramount+ کی قیمت اور دستیابی سے متعلق سوالات لیتا ہے؛ پلانز کے نام اور سہولتیں Paramount طے کرتا ہے اور یہ ملک کے مطابق بدل سکتی ہیں، اس لیے اس صفحے پر موجود اصل پلانز کی تفصیل کا لنک ہی حوالہ ہے۔"
+    ],
+    "peacockIntro": [
+      "Peacock، NBCUniversal کی اسٹریمنگ سروس ہے۔",
+      "یہ اسٹور WhatsApp پر Peacock کی قیمت اور دستیابی سے متعلق سوالات لیتا ہے؛ پلانز کے نام اور سہولتیں NBCUniversal طے کرتا ہے اور یہ ملک کے مطابق بدل سکتی ہیں، اس لیے اس صفحے پر موجود اصل پلانز کی تفصیل کا لنک ہی حوالہ ہے۔"
+    ],
+    "chatgptIntro": [
+      "ChatGPT مصنوعی ذہانت کا چیٹ اسسٹنٹ ہے جسے OpenAI نے تیار کیا ہے۔",
+      "یہ اسٹور WhatsApp پر ChatGPT کی قیمت اور دستیابی سے متعلق سوالات لیتا ہے؛ پلانز کے نام اور سہولتیں OpenAI طے کرتا ہے اور یہ ملک کے مطابق بدل سکتی ہیں، اس لیے اس صفحے پر موجود اصل پلانز کی تفصیل کا لنک ہی حوالہ ہے۔"
+    ],
+    "claudeIntro": [
+      "Claude مصنوعی ذہانت کا اسسٹنٹ ہے جسے Anthropic نے تیار کیا ہے۔",
+      "یہ اسٹور WhatsApp پر Claude کی قیمت اور دستیابی سے متعلق سوالات لیتا ہے؛ پلانز کے نام اور سہولتیں Anthropic طے کرتا ہے اور یہ ملک کے مطابق بدل سکتی ہیں، اس لیے اس صفحے پر موجود اصل پلانز کی تفصیل کا لنک ہی حوالہ ہے۔"
+    ],
+    "geminiIntro": [
+      "Gemini، Google کا مصنوعی ذہانت کا اسسٹنٹ ہے۔",
+      "یہ اسٹور WhatsApp پر Gemini کی قیمت اور دستیابی سے متعلق سوالات لیتا ہے؛ پلانز کے نام اور سہولتیں Google طے کرتا ہے اور یہ ملک کے مطابق بدل سکتی ہیں، اس لیے اس صفحے پر موجود اصل پلانز کی تفصیل کا لنک ہی حوالہ ہے۔"
+    ],
+    "grokIntro": [
+      "Grok، xAI کا مصنوعی ذہانت کا اسسٹنٹ ہے۔",
+      "یہ اسٹور WhatsApp پر Grok کی قیمت اور دستیابی سے متعلق سوالات لیتا ہے؛ پلانز کے نام اور سہولتیں xAI طے کرتا ہے اور یہ ملک کے مطابق بدل سکتی ہیں، اس لیے اس صفحے پر موجود اصل پلانز کی تفصیل کا لنک ہی حوالہ ہے۔"
+    ],
+    "deepseekIntro": [
+      "DeepSeek مصنوعی ذہانت کا اسسٹنٹ ہے جسے اسی نام کی کمپنی نے تیار کیا ہے۔",
+      "یہ اسٹور WhatsApp پر DeepSeek کی قیمت اور دستیابی سے متعلق سوالات لیتا ہے؛ پلانز کے نام اور سہولتیں DeepSeek طے کرتا ہے اور یہ ملک کے مطابق بدل سکتی ہیں، اس لیے اس صفحے پر موجود اصل پلانز کی تفصیل کا لنک ہی حوالہ ہے۔"
+    ],
     "seo": {
       "": {
         "title": "IPTV پلانز، OTT اور AI سبسکرپشن کی معلومات",
@@ -2943,6 +3487,74 @@
     "geminiCountryAndPersonalAccount": "أكّد توافر خطط Google AI وأهلية الحساب الشخصي في بلدك.",
     "grokUnifiedSubscriptionEligibility": "أكّد فئة الاشتراك الموحّد الحالية وأهلية الحساب لخدمة Grok.",
     "deepseekChatAndApiSeparate": "دردشة DeepSeek مجانية؛ يُحاسب استخدام API بشكل منفصل. اسأل عن الإعداد أو استخدام API.",
+    "netflixIntro": [
+      "Netflix خدمة بث فيديو بالاشتراك تديرها شركة Netflix, Inc.",
+      "يستقبل هذا المتجر عبر WhatsApp استفسارات السعر والتوافر لخدمة Netflix؛ أسماء الخطط ومزاياها تحددها شركة Netflix وقد تختلف حسب البلد، لذا يبقى رابط تفاصيل الخطط الرسمية في هذه الصفحة هو المرجع."
+    ],
+    "hboMaxIntro": [
+      "HBO Max خدمة بث بالاشتراك.",
+      "يستقبل هذا المتجر عبر WhatsApp استفسارات السعر والتوافر لخدمة HBO Max؛ أسماء الخطط ومزاياها تحددها الجهة الناشرة وقد تختلف حسب البلد، لذا يبقى رابط تفاصيل الخطط الرسمية في هذه الصفحة هو المرجع."
+    ],
+    "ulluIntro": [
+      "ULLU تطبيق بث فيديو بالاشتراك.",
+      "يستقبل هذا المتجر عبر WhatsApp استفسارات السعر والتوافر لخدمة ULLU؛ أسماء الخطط ومزاياها تحددها الجهة الناشرة وقد تختلف حسب البلد، لذا يبقى رابط تفاصيل الخطط الرسمية في هذه الصفحة هو المرجع."
+    ],
+    "primeVideoIntro": [
+      "Prime Video هي خدمة بث الفيديو التابعة لشركة Amazon.",
+      "يستقبل هذا المتجر عبر WhatsApp استفسارات السعر والتوافر لخدمة Prime Video؛ أسماء الخطط ومزاياها تحددها شركة Amazon وقد تختلف حسب البلد، لذا يبقى رابط تفاصيل الخطط الرسمية في هذه الصفحة هو المرجع."
+    ],
+    "disneyPlusIntro": [
+      "Disney+ هي خدمة البث التابعة لشركة The Walt Disney Company.",
+      "يستقبل هذا المتجر عبر WhatsApp استفسارات السعر والتوافر لخدمة Disney+؛ أسماء الخطط ومزاياها تحددها شركة Disney وقد تختلف حسب البلد، لذا يبقى رابط تفاصيل الخطط الرسمية في هذه الصفحة هو المرجع."
+    ],
+    "appleTvIntro": [
+      "Apple TV هي خدمة البث بالاشتراك التابعة لشركة Apple.",
+      "يستقبل هذا المتجر عبر WhatsApp استفسارات السعر والتوافر لخدمة Apple TV؛ أسماء الخطط ومزاياها تحددها شركة Apple وقد تختلف حسب البلد، لذا يبقى رابط تفاصيل الخطط الرسمية في هذه الصفحة هو المرجع."
+    ],
+    "jioHotstarIntro": [
+      "JioHotstar خدمة بث تابعة لشركة JioStar.",
+      "يستقبل هذا المتجر عبر WhatsApp استفسارات السعر والتوافر لخدمة JioHotstar؛ أسماء الخطط ومزاياها تحددها شركة JioStar وقد تختلف حسب البلد، لذا يبقى رابط تفاصيل الخطط الرسمية في هذه الصفحة هو المرجع."
+    ],
+    "sonyLivIntro": [
+      "Sony LIV خدمة بث هندية تابعة لشركة Sony Pictures Networks India.",
+      "يستقبل هذا المتجر عبر WhatsApp استفسارات السعر والتوافر لخدمة Sony LIV؛ أسماء الخطط ومزاياها تحددها شركة Sony Pictures Networks India وقد تختلف حسب البلد، لذا يبقى رابط تفاصيل الخطط الرسمية في هذه الصفحة هو المرجع."
+    ],
+    "zee5Intro": [
+      "ZEE5 خدمة بث هندية تابعة لشركة Zee Entertainment.",
+      "يستقبل هذا المتجر عبر WhatsApp استفسارات السعر والتوافر لخدمة ZEE5؛ أسماء الخطط ومزاياها تحددها شركة Zee Entertainment وقد تختلف حسب البلد، لذا يبقى رابط تفاصيل الخطط الرسمية في هذه الصفحة هو المرجع."
+    ],
+    "crunchyrollIntro": [
+      "Crunchyroll خدمة بث أنمي بالاشتراك.",
+      "يستقبل هذا المتجر عبر WhatsApp استفسارات السعر والتوافر لخدمة Crunchyroll؛ أسماء الخطط ومزاياها تحددها الجهة الناشرة وقد تختلف حسب البلد، لذا يبقى رابط تفاصيل الخطط الرسمية في هذه الصفحة هو المرجع."
+    ],
+    "paramountPlusIntro": [
+      "Paramount+ هي خدمة البث بالاشتراك التابعة لشركة Paramount.",
+      "يستقبل هذا المتجر عبر WhatsApp استفسارات السعر والتوافر لخدمة Paramount+؛ أسماء الخطط ومزاياها تحددها شركة Paramount وقد تختلف حسب البلد، لذا يبقى رابط تفاصيل الخطط الرسمية في هذه الصفحة هو المرجع."
+    ],
+    "peacockIntro": [
+      "Peacock هي خدمة البث التابعة لشركة NBCUniversal.",
+      "يستقبل هذا المتجر عبر WhatsApp استفسارات السعر والتوافر لخدمة Peacock؛ أسماء الخطط ومزاياها تحددها شركة NBCUniversal وقد تختلف حسب البلد، لذا يبقى رابط تفاصيل الخطط الرسمية في هذه الصفحة هو المرجع."
+    ],
+    "chatgptIntro": [
+      "ChatGPT مساعد محادثة يعمل بالذكاء الاصطناعي من تطوير شركة OpenAI.",
+      "يستقبل هذا المتجر عبر WhatsApp استفسارات السعر والتوافر لخدمة ChatGPT؛ أسماء الخطط ومزاياها تحددها شركة OpenAI وقد تختلف حسب البلد، لذا يبقى رابط تفاصيل الخطط الرسمية في هذه الصفحة هو المرجع."
+    ],
+    "claudeIntro": [
+      "Claude مساعد يعمل بالذكاء الاصطناعي من تطوير شركة Anthropic.",
+      "يستقبل هذا المتجر عبر WhatsApp استفسارات السعر والتوافر لخدمة Claude؛ أسماء الخطط ومزاياها تحددها شركة Anthropic وقد تختلف حسب البلد، لذا يبقى رابط تفاصيل الخطط الرسمية في هذه الصفحة هو المرجع."
+    ],
+    "geminiIntro": [
+      "Gemini هو مساعد الذكاء الاصطناعي من Google.",
+      "يستقبل هذا المتجر عبر WhatsApp استفسارات السعر والتوافر لخدمة Gemini؛ أسماء الخطط ومزاياها تحددها شركة Google وقد تختلف حسب البلد، لذا يبقى رابط تفاصيل الخطط الرسمية في هذه الصفحة هو المرجع."
+    ],
+    "grokIntro": [
+      "Grok مساعد يعمل بالذكاء الاصطناعي من شركة xAI.",
+      "يستقبل هذا المتجر عبر WhatsApp استفسارات السعر والتوافر لخدمة Grok؛ أسماء الخطط ومزاياها تحددها شركة xAI وقد تختلف حسب البلد، لذا يبقى رابط تفاصيل الخطط الرسمية في هذه الصفحة هو المرجع."
+    ],
+    "deepseekIntro": [
+      "DeepSeek مساعد يعمل بالذكاء الاصطناعي من تطوير الشركة التي تحمل الاسم نفسه.",
+      "يستقبل هذا المتجر عبر WhatsApp استفسارات السعر والتوافر لخدمة DeepSeek؛ أسماء الخطط ومزاياها تحددها شركة DeepSeek وقد تختلف حسب البلد، لذا يبقى رابط تفاصيل الخطط الرسمية في هذه الصفحة هو المرجع."
+    ],
     "seo": {
       "": {
         "title": "خطط IPTV واستفسارات البث والذكاء الاصطناعي",
@@ -3276,6 +3888,74 @@
     "geminiCountryAndPersonalAccount": "अपने देश में Google AI प्लान की उपलब्धता और निजी खाते की पात्रता की पुष्टि करें।",
     "grokUnifiedSubscriptionEligibility": "Grok के लिए मौजूदा संयुक्त सब्सक्रिप्शन प्लान और खाते की पात्रता की पुष्टि करें।",
     "deepseekChatAndApiSeparate": "DeepSeek चैट मुफ्त है; API उपयोग का अलग शुल्क लगता है। सेटअप या API उपयोग के बारे में पूछें।",
+    "netflixIntro": [
+      "Netflix सब्सक्रिप्शन आधारित वीडियो स्ट्रीमिंग सेवा है, जिसे Netflix, Inc. चलाती है।",
+      "यह स्टोर WhatsApp पर Netflix की कीमत और उपलब्धता से जुड़ी पूछताछ लेता है; प्लान के नाम और सुविधाएं Netflix तय करता है और ये देश के अनुसार बदल सकती हैं, इसलिए इस पेज पर दिया गया आधिकारिक प्लान की जानकारी का लिंक ही संदर्भ है।"
+    ],
+    "hboMaxIntro": [
+      "HBO Max सब्सक्रिप्शन आधारित स्ट्रीमिंग सेवा है।",
+      "यह स्टोर WhatsApp पर HBO Max की कीमत और उपलब्धता से जुड़ी पूछताछ लेता है; प्लान के नाम और सुविधाएं इसका प्रकाशक तय करता है और ये देश के अनुसार बदल सकती हैं, इसलिए इस पेज पर दिया गया आधिकारिक प्लान की जानकारी का लिंक ही संदर्भ है।"
+    ],
+    "ulluIntro": [
+      "ULLU सब्सक्रिप्शन आधारित वीडियो स्ट्रीमिंग ऐप है।",
+      "यह स्टोर WhatsApp पर ULLU की कीमत और उपलब्धता से जुड़ी पूछताछ लेता है; प्लान के नाम और सुविधाएं इसका प्रकाशक तय करता है और ये देश के अनुसार बदल सकती हैं, इसलिए इस पेज पर दिया गया आधिकारिक प्लान की जानकारी का लिंक ही संदर्भ है।"
+    ],
+    "primeVideoIntro": [
+      "Prime Video, Amazon की वीडियो स्ट्रीमिंग सेवा है।",
+      "यह स्टोर WhatsApp पर Prime Video की कीमत और उपलब्धता से जुड़ी पूछताछ लेता है; प्लान के नाम और सुविधाएं Amazon तय करता है और ये देश के अनुसार बदल सकती हैं, इसलिए इस पेज पर दिया गया आधिकारिक प्लान की जानकारी का लिंक ही संदर्भ है।"
+    ],
+    "disneyPlusIntro": [
+      "Disney+, The Walt Disney Company की स्ट्रीमिंग सेवा है।",
+      "यह स्टोर WhatsApp पर Disney+ की कीमत और उपलब्धता से जुड़ी पूछताछ लेता है; प्लान के नाम और सुविधाएं Disney तय करता है और ये देश के अनुसार बदल सकती हैं, इसलिए इस पेज पर दिया गया आधिकारिक प्लान की जानकारी का लिंक ही संदर्भ है।"
+    ],
+    "appleTvIntro": [
+      "Apple TV, Apple की सब्सक्रिप्शन आधारित स्ट्रीमिंग सेवा है।",
+      "यह स्टोर WhatsApp पर Apple TV की कीमत और उपलब्धता से जुड़ी पूछताछ लेता है; प्लान के नाम और सुविधाएं Apple तय करता है और ये देश के अनुसार बदल सकती हैं, इसलिए इस पेज पर दिया गया आधिकारिक प्लान की जानकारी का लिंक ही संदर्भ है।"
+    ],
+    "jioHotstarIntro": [
+      "JioHotstar, JioStar की स्ट्रीमिंग सेवा है।",
+      "यह स्टोर WhatsApp पर JioHotstar की कीमत और उपलब्धता से जुड़ी पूछताछ लेता है; प्लान के नाम और सुविधाएं JioStar तय करता है और ये देश के अनुसार बदल सकती हैं, इसलिए इस पेज पर दिया गया आधिकारिक प्लान की जानकारी का लिंक ही संदर्भ है।"
+    ],
+    "sonyLivIntro": [
+      "Sony LIV, Sony Pictures Networks India की भारतीय स्ट्रीमिंग सेवा है।",
+      "यह स्टोर WhatsApp पर Sony LIV की कीमत और उपलब्धता से जुड़ी पूछताछ लेता है; प्लान के नाम और सुविधाएं Sony Pictures Networks India तय करता है और ये देश के अनुसार बदल सकती हैं, इसलिए इस पेज पर दिया गया आधिकारिक प्लान की जानकारी का लिंक ही संदर्भ है।"
+    ],
+    "zee5Intro": [
+      "ZEE5, Zee Entertainment की भारतीय स्ट्रीमिंग सेवा है।",
+      "यह स्टोर WhatsApp पर ZEE5 की कीमत और उपलब्धता से जुड़ी पूछताछ लेता है; प्लान के नाम और सुविधाएं Zee Entertainment तय करता है और ये देश के अनुसार बदल सकती हैं, इसलिए इस पेज पर दिया गया आधिकारिक प्लान की जानकारी का लिंक ही संदर्भ है।"
+    ],
+    "crunchyrollIntro": [
+      "Crunchyroll सब्सक्रिप्शन आधारित एनीमे स्ट्रीमिंग सेवा है।",
+      "यह स्टोर WhatsApp पर Crunchyroll की कीमत और उपलब्धता से जुड़ी पूछताछ लेता है; प्लान के नाम और सुविधाएं इसका प्रकाशक तय करता है और ये देश के अनुसार बदल सकती हैं, इसलिए इस पेज पर दिया गया आधिकारिक प्लान की जानकारी का लिंक ही संदर्भ है।"
+    ],
+    "paramountPlusIntro": [
+      "Paramount+, Paramount की सब्सक्रिप्शन आधारित स्ट्रीमिंग सेवा है।",
+      "यह स्टोर WhatsApp पर Paramount+ की कीमत और उपलब्धता से जुड़ी पूछताछ लेता है; प्लान के नाम और सुविधाएं Paramount तय करता है और ये देश के अनुसार बदल सकती हैं, इसलिए इस पेज पर दिया गया आधिकारिक प्लान की जानकारी का लिंक ही संदर्भ है।"
+    ],
+    "peacockIntro": [
+      "Peacock, NBCUniversal की स्ट्रीमिंग सेवा है।",
+      "यह स्टोर WhatsApp पर Peacock की कीमत और उपलब्धता से जुड़ी पूछताछ लेता है; प्लान के नाम और सुविधाएं NBCUniversal तय करता है और ये देश के अनुसार बदल सकती हैं, इसलिए इस पेज पर दिया गया आधिकारिक प्लान की जानकारी का लिंक ही संदर्भ है।"
+    ],
+    "chatgptIntro": [
+      "ChatGPT एक एआई चैट असिस्टेंट है, जिसे OpenAI ने विकसित किया है।",
+      "यह स्टोर WhatsApp पर ChatGPT की कीमत और उपलब्धता से जुड़ी पूछताछ लेता है; प्लान के नाम और सुविधाएं OpenAI तय करता है और ये देश के अनुसार बदल सकती हैं, इसलिए इस पेज पर दिया गया आधिकारिक प्लान की जानकारी का लिंक ही संदर्भ है।"
+    ],
+    "claudeIntro": [
+      "Claude एक एआई असिस्टेंट है, जिसे Anthropic ने विकसित किया है।",
+      "यह स्टोर WhatsApp पर Claude की कीमत और उपलब्धता से जुड़ी पूछताछ लेता है; प्लान के नाम और सुविधाएं Anthropic तय करता है और ये देश के अनुसार बदल सकती हैं, इसलिए इस पेज पर दिया गया आधिकारिक प्लान की जानकारी का लिंक ही संदर्भ है।"
+    ],
+    "geminiIntro": [
+      "Gemini, Google का एआई असिस्टेंट है।",
+      "यह स्टोर WhatsApp पर Gemini की कीमत और उपलब्धता से जुड़ी पूछताछ लेता है; प्लान के नाम और सुविधाएं Google तय करता है और ये देश के अनुसार बदल सकती हैं, इसलिए इस पेज पर दिया गया आधिकारिक प्लान की जानकारी का लिंक ही संदर्भ है।"
+    ],
+    "grokIntro": [
+      "Grok, xAI का एआई असिस्टेंट है।",
+      "यह स्टोर WhatsApp पर Grok की कीमत और उपलब्धता से जुड़ी पूछताछ लेता है; प्लान के नाम और सुविधाएं xAI तय करता है और ये देश के अनुसार बदल सकती हैं, इसलिए इस पेज पर दिया गया आधिकारिक प्लान की जानकारी का लिंक ही संदर्भ है।"
+    ],
+    "deepseekIntro": [
+      "DeepSeek एक एआई असिस्टेंट है, जिसे इसी नाम की कंपनी ने विकसित किया है।",
+      "यह स्टोर WhatsApp पर DeepSeek की कीमत और उपलब्धता से जुड़ी पूछताछ लेता है; प्लान के नाम और सुविधाएं DeepSeek तय करता है और ये देश के अनुसार बदल सकती हैं, इसलिए इस पेज पर दिया गया आधिकारिक प्लान की जानकारी का लिंक ही संदर्भ है।"
+    ],
     "seo": {
       "": {
         "title": "IPTV प्लान और ओटीटी व एआई की जानकारी",
