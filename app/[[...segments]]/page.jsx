@@ -38,7 +38,7 @@ export async function generateMetadata({ params }) {
   if (!valid) notFound();
   const page = routeCopy(getCopy(locale), slug), url = origin + pathFor(locale, slug);
   const search = getCopy(locale).seo?.[slug] || page.search || { title: page.title, description: page.intro };
-  const title = search.title + ' | Cheap Accounts';
+  const title = search.title.includes(site.name) ? search.title : search.title + ' | Cheap Accounts';
   return {
     metadataBase: new URL(origin), title, description: search.description,
     verification: { google: 'bzQep3YfxwN3w-sj5og2Ltjr1D2dVm8gAwm98LDTw-U', other: { 'msvalidate.01': '240C1FB5E68E5237A1E929DE29E999EC' } },
@@ -75,7 +75,7 @@ export default async function Page({ params }) {
   if (['products/opplex-iptv', 'products/filex-iptv'].includes(slug)) {
     const provider = slug.endsWith('opplex-iptv') ? 'Opplex' : 'Filex';
     const plans = initialCatalog.packages.filter(plan => plan.service === provider && plan.is_available === true);
-    if (plans.length) data.push({ '@context': 'https://schema.org', '@type': 'Product', name: provider + ' IPTV', description: page.intro, url, image: origin + '/share-card.png', brand: { '@type': 'Brand', name: provider }, offers: { '@type': 'AggregateOffer', priceCurrency: initialCatalog.currency, lowPrice: Math.min(...plans.map(plan => Number(plan.price_amount))), highPrice: Math.max(...plans.map(plan => Number(plan.price_amount))), offerCount: plans.length } });
+    if (plans.length) data.push({ '@context': 'https://schema.org', '@type': 'Product', name: provider + ' IPTV', description: page.intro, url, image: origin + '/share-card.png', brand: { '@type': 'Brand', name: provider }, offers: plans.map(plan => ({ '@type': 'Offer', price: Number(plan.price_amount), priceCurrency: plan.currency, availability: 'https://schema.org/InStock', url })) });
   }
   return <><script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(data).replace(/</g, '\u003c') }} /><Storefront locale={locale} slug={slug} initialCatalog={initialCatalog} homeContent={initialCatalog.content} copy={uiCopy} breadcrumbs={breadcrumbs} /></>;
 }

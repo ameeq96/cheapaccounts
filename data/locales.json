@@ -293,11 +293,11 @@
         "description": "Compare Opplex and Filex IPTV subscriptions for 1, 3, 6 or 12 months. Check current prices, connection details and the final Opplexify checkout total."
       },
       "categories/ott": {
-        "title": "OTT Subscription Options & Pricing Enquiries",
+        "title": "OTT Subscription Options, Pricing Enquiries",
         "description": "Explore Netflix, HBO Max, Prime Video and other OTT plan options. Request pricing and confirm country availability, household rules and billing."
       },
       "categories/ai": {
-        "title": "AI Subscription Options: ChatGPT, Claude & More",
+        "title": "AI Subscriptions: ChatGPT, Claude and More",
         "description": "Compare ChatGPT, Claude, Gemini, Grok and DeepSeek enquiry options. Check account eligibility, usage limits and subscription versus API billing."
       },
       "products/opplex-iptv": {
@@ -614,7 +614,7 @@
     "deepseekChatAndApiSeparate": "El chat DeepSeek es gratuito; el uso de la API se cobra aparte. Consulta la configuración o el uso de la API.",
     "seo": {
       "": {
-        "title": "Planes IPTV y consultas de suscripciones OTT e IA",
+        "title": "Planes IPTV y consultas OTT e IA",
         "description": "Compara planes IPTV Opplex y Filex en Cheap Accounts. Consulta opciones OTT y de IA, solicita precios y confirma los requisitos antes de comprar."
       },
       "shop": {
@@ -1280,7 +1280,7 @@
     "deepseekChatAndApiSeparate": "La chat DeepSeek è gratuita; l’uso dell’API viene addebitato separatamente. Chiedi della configurazione o dell’uso dell’API.",
     "seo": {
       "": {
-        "title": "Piani IPTV e richieste per abbonamenti OTT e IA",
+        "title": "Piani IPTV e richieste OTT e IA",
         "description": "Confronta Opplex e Filex IPTV su Cheap Accounts. Esplora abbonamenti OTT e IA, richiedi prezzi e verifica i requisiti prima di acquistare."
       },
       "shop": {
@@ -1946,7 +1946,7 @@
     "deepseekChatAndApiSeparate": "O chat DeepSeek é gratuito; o uso da API é cobrado à parte. Consulte a configuração ou o uso da API.",
     "seo": {
       "": {
-        "title": "Planos IPTV e consultas de assinaturas OTT e IA",
+        "title": "Planos IPTV e consultas OTT e IA",
         "description": "Compare Opplex e Filex IPTV na Cheap Accounts. Explore assinaturas OTT e de IA, consulte preços e confirme os requisitos antes de comprar."
       },
       "shop": {
@@ -2279,7 +2279,7 @@
     "deepseekChatAndApiSeparate": "Чат DeepSeek бесплатный; использование API оплачивается отдельно. Узнайте о настройке чата или использовании API.",
     "seo": {
       "": {
-        "title": "Планы IPTV и запросы подписок на стриминг и ИИ",
+        "title": "Планы IPTV и запросы на стриминг и ИИ",
         "description": "Сравните Opplex и Filex IPTV в Cheap Accounts. Изучите подписки на стриминг и ИИ, запросите цену и уточните условия до покупки."
       },
       "shop": {
@@ -2291,7 +2291,7 @@
         "description": "Сравните Opplex и Filex IPTV на 1, 3, 6 или 12 месяцев. Проверьте цены, подключения и окончательную сумму оплаты в Opplexify."
       },
       "categories/ott": {
-        "title": "Подписки на стриминг: варианты и запрос цены",
+        "title": "Подписки на стриминг: варианты, запрос цены",
         "description": "Изучите Netflix, HBO Max, Prime Video и другие стриминговые планы. Уточните цену, страны, правила домохозяйства и расчётный период."
       },
       "categories/ai": {
@@ -2624,7 +2624,7 @@
         "description": "Opplex اور Filex IPTV کی 1، 3، 6 یا 12 ماہ کی سبسکرپشن دیکھیں۔ موجودہ قیمت، کنکشن اور Opplexify پر ادائیگی کی حتمی رقم چیک کریں۔"
       },
       "categories/ott": {
-        "title": "OTT سبسکرپشن کے اختیارات اور قیمت کی معلومات",
+        "title": "OTT سبسکرپشن کے اختیارات، قیمت کی معلومات",
         "description": "Netflix، HBO Max، Prime Video اور دوسرے OTT پلانز دیکھیں۔ قیمت، اپنے ملک میں دستیابی، گھرانے کے اصول اور بلنگ کی تصدیق کریں۔"
       },
       "categories/ai": {
@@ -2945,7 +2945,7 @@
     "deepseekChatAndApiSeparate": "دردشة DeepSeek مجانية؛ يُحاسب استخدام API بشكل منفصل. اسأل عن الإعداد أو استخدام API.",
     "seo": {
       "": {
-        "title": "خطط IPTV واستفسارات اشتراكات البث والذكاء الاصطناعي",
+        "title": "خطط IPTV واستفسارات البث والذكاء الاصطناعي",
         "description": "قارن خطط Opplex وFilex IPTV لدى Cheap Accounts. استكشف اشتراكات البث والذكاء الاصطناعي واطلب السعر وتحقق من الأهلية قبل الشراء."
       },
       "shop": {
@@ -2961,7 +2961,7 @@
         "description": "استكشف Netflix وHBO Max وPrime Video وخيارات البث الأخرى. اطلب السعر وتحقق من البلدان المتاحة وقواعد الأسرة والفوترة."
       },
       "categories/ai": {
-        "title": "اشتراكات الذكاء الاصطناعي: ChatGPT وClaude والمزيد",
+        "title": "اشتراكات الذكاء الاصطناعي: ChatGPT وClaude",
         "description": "قارن خيارات ChatGPT وClaude وGemini وGrok وDeepSeek. تحقق من متطلبات الحساب والحدود والفوترة المنفصلة للاشتراك وواجهة API."
       },
       "products/opplex-iptv": {
@@ -3278,7 +3278,7 @@
     "deepseekChatAndApiSeparate": "DeepSeek चैट मुफ्त है; API उपयोग का अलग शुल्क लगता है। सेटअप या API उपयोग के बारे में पूछें।",
     "seo": {
       "": {
-        "title": "IPTV प्लान और ओटीटी व एआई सब्सक्रिप्शन की जानकारी",
+        "title": "IPTV प्लान और ओटीटी व एआई की जानकारी",
         "description": "Cheap Accounts पर Opplex और Filex IPTV की तुलना करें। ओटीटी और एआई विकल्प देखें, कीमत पूछें और खरीदने से पहले पात्रता की पुष्टि करें।"
       },
       "shop": {
@@ -3290,7 +3290,7 @@
         "description": "Opplex और Filex IPTV के 1, 3, 6 या 12 महीने के प्लान की तुलना करें। मौजूदा कीमत, कनेक्शन और Opplexify पर अंतिम भुगतान राशि देखें।"
       },
       "categories/ott": {
-        "title": "ओटीटी सब्सक्रिप्शन विकल्प और कीमत की जानकारी",
+        "title": "ओटीटी सब्सक्रिप्शन विकल्प, कीमत की जानकारी",
         "description": "Netflix, HBO Max, Prime Video और दूसरे ओटीटी विकल्प देखें। कीमत, अपने देश में उपलब्धता, घरेलू नियम और बिलिंग की पुष्टि करें।"
       },
       "categories/ai": {

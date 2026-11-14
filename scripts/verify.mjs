@@ -72,9 +72,14 @@ for (const locale of SUPPORTED_LOCALES) {
         }
         if (item['@type'] === 'Product') {
           assert.ok(slug.startsWith('products/'));
-          assert.equal(item.offers['@type'], 'AggregateOffer');
-          assert.ok(item.offers.lowPrice > 0 && item.offers.highPrice >= item.offers.lowPrice && item.offers.offerCount > 0);
-          assert.match(item.offers.priceCurrency, /^[A-Z]{3}$/);
+          assert.ok(Array.isArray(item.offers) && item.offers.length > 0);
+          for (const offer of item.offers) {
+            assert.equal(offer['@type'], 'Offer');
+            assert.ok(typeof offer.price === 'number' && offer.price > 0);
+            assert.match(offer.priceCurrency, /^[A-Z]{3}$/);
+            assert.equal(offer.availability, 'https://schema.org/InStock');
+            assert.equal(offer.url, origin + path);
+          }
           assert.equal(item.aggregateRating, undefined);
         }
       }
